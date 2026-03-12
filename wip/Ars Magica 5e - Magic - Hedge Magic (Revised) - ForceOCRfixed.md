@@ -306,9 +306,7 @@ DIGITAL VERSION 1.0
 |                                          |       |
 
 
-# Chapter One
-
-# Introduction
+# Chapter One: Introduction
 
 The Order of Hermes can claim to represent the most powerful human practitioners of magic in Mythic Europe ... but they are not alone. Frail crones carefully watch isolated roads and curse passing travelers, rune wizards clash with trolls in the frozen wastes of Scandinavia, and in some villages magical militia wage war against marauding ghosts and faeries.
 
@@ -316,57 +314,50 @@ These are the hedge wizard traditions of Mythic Europe.
 
 Most in the Order of Hermes believe (largely accurately) that hedge wizards are inferior to magi, with little to teach a magus. On the other hand, doubt over the precise capabilities of hedge traditions has led to some paranoia in the Order's dealings with hedge magicians over the centuries, and the investigation of hedge magic and its incorporation into Hermetic theory is sometimes a source of innovation in the Order of Hermes.
 
-# (Chat is this ook For?
+### What is this Book For?
 
 This book contains examples of hedge traditions that draw their power from the Magic realm, and all these traditions (may) exist in Mythic Europe in 1220. The traditions in this book are not extinct — extinct traditions are discussed in AncientMagic. Some of the hedge traditions described here might be the remnants of once-powerful traditions (that's up to the direction of individual sagas), but they are not intended to be the direct remnants of any of the Founder traditions. Other hedge traditions draw their power from the Divine, Infernal, or Faerie realms, and those possibilities are discussed in the relevant realm books. The traditions described here have also not (yet) been assimilated into the Order of Hermes, via House Ex Miscellanea, but such an event could form the basis of an interesting saga. Of course, these traditions can also be used as examples for devising your own hedge traditions.
 
-# Inedge Traditions & the Order
+## Hnedge Traditions & the Order
 
-Over the centuries, hedge traditions have had an uneasy relationship with the Order of Hermes. Historically, Hermetic magi offered those hedge wizards who they encountered the choice to "Join or Die." However today, unless a hedge wizard is very powerful a magus is unlikely to be chastised by a tribunal
-
-for interacting with him more diplomatically. This is at least partly because most powerful hedge traditions in Mythic Europe were assimilated or eliminated in the early years of the Order.
+Over the centuries, hedge traditions have had an uneasy relationship with the Order of Hermes. Historically, Hermetic magi offered those hedge wizards who they encountered the choice to "Join or Die." However today, unless a hedge wizard is very powerful a magus is unlikely to be chastised by a tribunal for interacting with him more diplomatically. This is at least partly because most powerful hedge traditions in Mythic Europe were assimilated or eliminated in the early years of the Order.
 
 It is also important to note that although in this book the term "hedge wizard" refers to any practitioner of a hedge tradition, the Order of Hermes itself usually only considers those who have The Gift to be "proper" wizards. Thus, weak unGifted hedge wizards are often considered neither worthy of the privilege of joining the Order, nor necessarily the bother of killing.
 
-Three groups of magi are really interested in hedge traditions: zealous Hoplites,
+Three groups of magi are really interested in hedge traditions: zealous Hoplites, who sometimes scour the land searching for hedge wizards to best in combat; the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126), who seek to invite hedge wizards into House Ex Miscellanea; and Hermetic theoreticians who wish to plunder the knowledge of the hedge traditions, and extend the power of Hermetic magic.
 
-
-
-who sometimes scour the land searching for hedge wizards to best in combat; the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126), who seek to invite hedge wizards into House Ex Miscellanea; and Hermetic theoreticians who wish to plunder the knowledge of the hedge traditions, and extend the power of Hermetic magic.
-
-## Converts to the Order
+### Converts to the Order
 
 Sometimes a hedge wizard joins the Order of Hermes, entering House Ex Miscellanea. *Houses of Hermes: Societates* describes House Ex Miscellanea in detail, including the position of newly converted hedge wizards in the House and the wider Order.
 
 If you wish to make an individual Gifted hedge wizard character who has converted to the Order of Hermes, use the character generation rules presented for the hedge tradition up until the point that the character swears the Oath of Hermes. Once the character has sworn the Oath of Hermes he gains the free Social Status Virtue Hermetic Magus (see ArM5, page 43), which replaces any other Social Statuses, and then continue character generation as if he was a Hermetic magus. He may be taught the Parma Magica Arcane Ability and any other Ability accessible to a normal Hermetic magus character; he may also be able to participate in some Mystery Cults. However, he is not able to learn any of the Hermetic Arts unless he has his Gift Opened for the Hermetic Arts. This is frequently impossible and may destroy his hedge magic powers (see below and ArM5, page 106-107).
 
 Swearing the Oath of Hermes is the official point at which the hedge wizard is recognized as a member of the Order. This is purely a social matter, which offers the hedge wizard legal rights, including the right to vote at Tribunal, and it does not have any effect on his mystical powers. Technically, a hedge wizard who joins the Order of Hermes has the same rights and privileges as a mainstream Hermetic magus, and he may leave House Ex Miscellanea to join another House. However, he may find that magi outside of House Ex Miscellanea discriminate against him; and, of course, he can never join a true lineage House. Discrimination against hedge wizard converts is represented by the Minor Hermetic Flaw Hedge Wizard (see ArM5, page 54). The Order of Hermes is not likely to tolerate a hedge wizard convert who openly maintains ties to his original hedge tradition, due to the danger of independent
-
 hedge wizards learning Parma Magica. If a hedge wizard convert does secretly maintain contact with his hedge colleagues, then the troupe may want to assign him the Major Story Flaw Dark Secret (see ArM5, page 52).
 
-### UNGIFTED HEDGE WIZARDS
+#### UNGIFTED HEDGE WIZARDS
 
-Membership in the Order of Hermes is restricted to characters with The Gift. Redcaps are notable exceptions, and they are able to remain as honorary magi through the weight of tradition, but most magi would not countenance the admission of any other un-Gifted character. However, other exceptions are also possible, in very rare circumstances, as the position of the Redcaps has meant that there are no Code rulings explicitly re-
+Membership in the Order of Hermes is restricted to characters with The Gift. Redcaps are notable exceptions, and they are able to remain as honorary magi through the weight of tradition, but most magi would not countenance the admission of any other un-Gifted character. However, other exceptions are also possible, in very rare circumstances, as the position of the Redcaps has meant that there are no Code rulings explicitly requiring magi to have The Gift. For example, mainstream magi might be persuaded that their dignity does not suffer too greatly if a powerful Mythic Companion hedge wizard is admitted to House Ex Miscellanea.
 
-# New Spell: The Numbness of The Gift
-
-InVi Level 20
-
-R: Personal, D: Conc, T: Touch When the caster places his hand on another character who has The Gift, his hand feels numb. This effect must penetrate the Magic Resistance (if any) of the character whose Gift is being sensed, and if that character is a member of the Order of Hermes, casting this spell normally counts as scrying (which is prohibited by the Code). This spell is based on the "detect the traces of powerful magic" guideline. If the target has the Blatant or Gentle Gift, the spell still works.
-
-(Base 10, +1 Conc, +1 Touch).
-
-quiring magi to have The Gift. For example, mainstream magi might be persuaded that their dignity does not suffer too greatly if a powerful Mythic Companion hedge wizard is admitted to House Ex Miscellanea.
+>#### New Spell: The Numbness of The Gift
+>
+>InVi Level 20
+>
+>R: Personal, D: Conc, T: Touch 
+>
+>When the caster places his hand on another character who has The Gift, his hand feels numb. This effect must penetrate the Magic Resistance (if any) of the character whose Gift is being sensed, and if that character is a member of the Order of Hermes, casting this spell normally counts as scrying (which is prohibited by the Code). This spell is based on the "detect the traces of powerful magic" guideline. If the target has the Blatant or Gentle Gift, the spell still works.
+>
+>(Base 10, +1 Conc, +1 Touch).
 
 At the extreme, a small, internally coherent tradition made up overwhelmingly of Gifted members might be able to negotiate for the admission of the whole tradition, even if one member is a companion character with only a few Supernatural Virtues. In this case, the unGifted magus may be expected, as an informal condition of membership, to decline to exercise his voting rights at Tribunal, like a Redcap does. Of course, even if he does join the Order, an unGifted hedge wizard cannot learn Hermetic Arts, learn Parma Magica, participate in certamen, or perform any other activity that requires The Gift.
 
-### IDENTIFYING THE GIFT
+#### IDENTIFYING THE GIFT
 
 From a pragmatic perspective, what is important in determining the reaction of the Order of Hermes to a hedge wizard is the hedge wizard's apparent power. If the hedge wizard appears to be a master of powerful magic, he will be accorded more respect than a mere shapeshifter or a dowser of water sources, for example. Of course, as magi are Gifted they naturally tend to assume that the presence of The Gift is a sure sign of magical power. Indeed, the magi are basically right: Gifted hedge wizards are typically much more powerful than unGifted ones.
 
 Magi can determine whether a character has the Gift by using an Intellego Vim spell (see insert, for example). In addition, a hedge wizard with hedge Arts scores can be detected with Hermetic Intellego Vim effects as a target with an effective residual magnitude of his highest Art / 5 (see ArM5. page 158). A Gifted hedge wizard with Supernatural Ability Scores can also be detected with similar Hermetic Intellego Vim effects as a target with an effective residual magnitude equal to his highest Supernatural Ability Score. Of course, other Vim effects (or similar hedge Arts) might disguise The Gift or falsely create the impression that a character has The Gift.
 
-### CERTAMEN
+#### CERTAMEN
 
 No hedge wizard knows how to engage in certamen; certamen is unique to the Order of Hermes. A hedge wizard can only learn certamen if his Hermetic Arts are Opened. If a hedge wizard without Hermetic Arts does accept a certamen challenge, he cannot cause his phantasm to manifest; so, he cannot participate. From a legal standpoint, this is equivalent to a victory to the Hermetic magus due to a lack of concentration in the opponent.
 
@@ -374,8 +365,7 @@ The vulnerability to certamen of a hedge wizard who converts to the Order of Her
 
 Certamen is similar to the abilities of NightWalkers (see Chapter 6) and this correspondence may be a profitable basis of Hermetic research (see later in this chapter).
 
-
-# Allies to the Order
+### Allies to the Order
 
 A hedge tradition may be allied to a covenant, or even to the entire Order, without actually joining the Order. They may even act as servants to magi. Using hedge wizards as servants is usually uncontroversial in the Order, unless the servants include Gifted hedge wizards. This exception is mainly because of the risk that Gifted hedge wizard servants could learn Parma Magica.
 
@@ -383,19 +373,14 @@ The troupe might choose to represent a covenant allied with a hedge tradition us
 
 A lone hedge wizard character living near (or even in) the covenant also opens up interesting possibilities for stories (Minor Covenant Boon Local Ally; *Covenants*, page 21). However, again the troupe should bear in mind the effect that the attitudes of Hermetic visitors to the covenant will have on the saga.
 
-# The Shadow of Hermes
+### The Shadow of Hermes
 
 Most hedge wizard characters are neither allies of nor converted to the Order of Hermes. These hedge wizards live in the shadow of Hermes. Some options for introducing such characters into your stories are:
-
 - Hedge wizard traditions can add depth and interest to the places that the characters visit. Perhaps the village wise woman is a member of folk witch coven, or scholars at the local cathedral school are learned magicians.
 - A hedge tradition may be the enemy of a covenant (Major Covenant Hook Hedge Tradition; Covenants, page 21). The hedge wizards (who are unlikely to be aware of Hermetic norms) may compete with the covenant for local vis sources. The hedge wizards may have significant mundane influence perhaps they are members of a noble's court which makes overtly attacking them awkward for the covenant.
-- Another interesting option is a saga where the characters are all hedge wizards (and their mundane allies). For example, Chap-
+- Another interesting option is a saga where the characters are all hedge wizards (and their mundane allies). For example, Chapter 3 contains rules for creating a coven of folk witches based on the rules for covenant creation. The troupe could devise similar rules for groups of other hedge wizards.
 
-### hedge Magic
-
-ter 3 contains rules for creating a coven of folk witches based on the rules for covenant creation. The troupe could devise similar rules for groups of other hedge wizards.
-
-# HEDGE WIZARDS AND THE AEGIS OF THE HEARTH
+#### HEDGE WIZARDS AND THE AEGIS OF THE HEARTH
 
 Many Hermetic sites, especially covenants, are protected by a casting of the *Aegis* of the *Hearth* (ArM5, page 161). This affects hedge wizards normally, which means that unless the hedge wizard has a Might Score (which is unlikely) he may enter the Aegis through mundane means without problem. If he is Gifted he feels a tingling sensation as he does, but of course he may not realize what this signifies.
 
@@ -403,15 +388,15 @@ Many Hermetic sites, especially covenants, are protected by a casting of the *Ae
 - If a hedge wizard casts an effect within an Aegis, half the level of the Aegis is subtracted from his Casting Total.
 - If a hedge wizard has a token, or participated in the casting of the Aegis, he is not affected by the Aegis.
 
-# hedge Magic
+## Hedge Magic
 
 These are common rules for hedge magic, although some of the hedge traditions detailed in the remainder of this book do break particular aspects of these rules. Such special cases are discussed in the appropriate chapter. This section is also intended as guidance for troupes devising their own hedge traditions. You may, of course, replace some of these rules, but it is recommended that each hedge tradition only break a few of the common hedge magic rules. In particular, these rules have been formulated with the assumption that hedge wizards are considerably less powerful than magi, which partly justifies the Order of Hermes' position as the dominant tradition in Mythic Europe.
 
-# The Gift
+### The Gift
 
 Some hedge traditions are practiced exclusively by Gifted characters, while others include unGifted members. Traditions dominated by Gifted characters are probably geographically isolated (or peripheral to Mythic Europe), small, new, or somehow hidden from the Order of Hermes; otherwise they would have surely been assimilated or eliminated centuries ago. On the other hand, traditions dominated by unGifted characters may be quite widespread, because, as mentioned above, only those hedge wizards with The Gift are usually considered proper wizards by the Order.
 
-### OPENING THE GIFT
+#### Opening the Gift
 
 A Gifted hedge wizard has to undergo a ritual, similar to the Hermetic Opening of the Arts, before he can fully utilize the powers of his hedge tradition. The particulars of the ritual are unique to the hedge tradition, but the following general rules apply. In these rules, the hedge wizard whose Gift is being Opened is referred to as the apprentice, and the hedge wizard who is Opening the apprentice's Gift is referred to as the master. Obviously, particular hedge traditions may use different titles for these roles.
 
@@ -421,56 +406,43 @@ Both master and apprentice must have The Gift. The master must also have had his
 
 If the apprentice has no existing Supernatural Ability or Art Scores, his Gift is automatically Opened at the end of the season. Usually this gives him a score of 0 in the hedge Arts associated with the tradition, or makes a certain set of Supernatural Abilities favored (see later in this chapter). It may also grant one or more Virtues. For details of precisely what Opening The Gift achieves, see each individual hedge tradition. If the master is not fully competent in the Supernatural Abilities and Arts of the tradition, then the Opening of The Gift will be flawed (see insert).
 
-If the apprentice already has Supernatural Ability or Art Scores, these may be lost in the
+If the apprentice already has Supernatural Ability or Art Scores, these may be lost in the Opening process or it may not be possible for his Gift to be Opened at all. In this case an Opening Total is calculated for the master and compared to an Opening Ease Factor. See the individual hedge traditions for details of precisely how the Opening Total is calculated.
 
+The Opening Ease Factor is equal to twice the sum of the apprentice' existing Supernatural Ability and Art scores of the apprentice, with an additional + 12 if the character's Gift has already been Opened by another tradition (including the Order of Hermes). Treat each Supernatural Ability or Art derived from a Minor Virtue as if it has a score of at least 2, and treat each derived from a Major Virtue as if it has a score of at least 6.
 
+**Opening Ease Factor:** twice apprentice's Supernatural Ability + Art scores (+ 12 if Gift already Open)
 
-Opening process or it may not be possible for his Gift to be Opened at all. In this case an Opening Total is calculated for the master and compared to an Opening Ease Factor. See the individual hedge traditions for details of precisely how the Opening Total is calculated.
+>#### Flawed Opening of The Gift
+>
+>To be a fully competent master, the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually, this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.
 
-The Opening Ease Factor is equal to twice the sum of the apprentice' existing Supernatural Ability and Art scores of the apprentice, with an additional + 12 if the character's Gift has already been Opened by another tradition (including the Order of Hermes). Treat
+If the master's Opening Total is less than the Opening Ease Factor, it is not possible for him to Open The Gift of the apprentice. 
 
-~ Flawed Opening € of The Gift
-
-15
-
-&
-
-To be a fully competent master, the character must have a score of at least 2 in each Supernatural Ability and Art of the tradition. For every Supernatural Ability or Art that the master fails to meet this criterion, the apprentice gains a Flaw that affects his magic use. Usually, this is something like Deficient Art, but the troupe may substitute other Flaws as appropriate.
-
-each Supernatural Ability or Art derived from a Minor Virtue as if it has a score of at least 2, and treat each derived from a Major Virtue as if it has a score of at least 6.
-
-OPENING Ease FACTOR: twice apprentice's Supernatural Ability + Art scores (+ 12 if Gift already Open)
-
-If the master's Opening Total is less than the Opening Ease Factor, it is not possible for him to Open The Gift of the apprentice. If
-
-© Openingthe Alts:
-
-The Hermetic Opening of the Arts is the Order of Hermes' equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentices Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a hedge tradition, add 30 to the Intellego Vim Lab Total required by the magus.
-
-the master's Opening Total is greater than or equal to the Opening Ease Factor then the apprentices Gift is Opened, however unless the Opening Total exceeds twice the Opening Ease Factor the apprentice loses his existing Supernatural Ability and Art Scores. If his Supernatural Ability and Arts Scores are lost, he also loses any Virtues (or Flaws) associated with them. Even if the master is able to Open The Gift of the apprentice, the Opening may still be flawed as described in the insert.
+If the master's Opening Total is greater than or equal to the Opening Ease Factor then the apprentices Gift is Opened, however unless the Opening Total exceeds twice the Opening Ease Factor the apprentice loses his existing Supernatural Ability and Art Scores. If his Supernatural Ability and Arts Scores are lost, he also loses any Virtues (or Flaws) associated with them. Even if the master is able to Open The Gift of the apprentice, the Opening may still be flawed as described in the insert.
 
 A character whose Gift has been Opened must subtract at least 15 from the source quality when attempting to learn a new Supernatural Ability, just as for Hermetic magi. If the sum of his Abilities and Arts is higher, he must subtract the higher total instead.
 
-For example: Stefano, a learned magician, wishes to Open The Gift of a young Gifted girl named Sarab. Sarah has already developed the Supernatural Abilities Entrancement (2), and Magic Sensitivity (3) of ber own accord. Both Sarah and Stefano are Gifted, so Opening Sarab's Gift is technically possible. However, as Sarab already bas Supernatural Abilities the Opening Total must be calculated to see if Stefano is successful.
+*For example: Stefano, a learned magician, wishes to Open The Gift of a young Gifted girl named Sarab. Sarah has already developed the Supernatural Abilities Entrancement (2), and Magic Sensitivity (3) of ber own accord. Both Sarah and Stefano are Gifted, so Opening Sarab's Gift is technically possible. However, as Sarab already bas Supernatural Abilities the Opening Total must be calculated to see if Stefano is successful.*
 
-For learned magicians the Opening Total is calculated from Stefanos Succuro Magicam Lab Total, which is Succuro + Magicam + Intelligence + Artes Liberales + aura. For Stefano, thisis2+6+4+5= 17. We will take the aura modifier to be zero.
+*For learned magicians the Opening Total is calculated from Stefanos Succuro Magicam Lab Total, which is Succuro + Magicam + Intelligence + Artes Liberales + aura. For Stefano, thisis2+6+4+5= 17. We will take the aura modifier to be zero.*
 
-The Ease Factor that this is compared to depends on the sum of Sarab's Supernatural Ability (and Art) Scores. Entrancement is granted by a Major Virtue so it counts as baving a level of at least 6, Magic Sensitivity derives from a Minor Virtue so it counts as having a level of at least 2, but as it actually bas a level of 3 it counts as level 3. This means that the Ease Factoris (6 + 3) x 2 = 18.
+*The Ease Factor that this is compared to depends on the sum of Sarab's Supernatural Ability (and Art) Scores. Entrancement is granted by a Major Virtue so it counts as baving a level of at least 6, Magic Sensitivity derives from a Minor Virtue so it counts as having a level of at least 2, but as it actually bas a level of 3 it counts as level 3. This means that the Ease Factoris (6 + 3) x 2 = 18.*
 
-As Stefanos Opening Total (17) doesn't exceed the Ease Factor (18), beS not able to Open Sarab's Gift.
+*As Stefanos Opening Total (17) doesn't exceed the Ease Factor (18), beS not able to Open Sarab's Gift.*
 
-Whatif Sarab bad no Magic Sensitivity Ability? In this case, the Ease Factor would be 12 (based on Entrancement only). Stefanos Opening Total (17) is sufficient to Open Sarah' Gift, but as it is not double the Ease Factor, Sarab loses ber Entrancement Ability.
+*Whatif Sarab bad no Magic Sensitivity Ability? In this case, the Ease Factor would be 12 (based on Entrancement only). Stefanos Opening Total (17) is sufficient to Open Sarah' Gift, but as it is not double the Ease Factor, Sarab loses ber Entrancement Ability.*
 
-What if Sarab had no Entrancement Ability? The Ease Factor would be 6 (based on Magic Sensitivity only). Stefanos Opening Total (17) is enough to Open Sarabs Gift, and as its greater than double the Ease Factor, Sarah keeps ber Magic Sensitivity Ability, too.
+*What if Sarab had no Entrancement Ability? The Ease Factor would be 6 (based on Magic Sensitivity only). Stefanos Opening Total (17) is enough to Open Sarabs Gift, and as its greater than double the Ease Factor, Sarah keeps ber Magic Sensitivity Ability, too.*
 
-### SOCIAL PENALTY OF THE GIFT
+>#### Opening the Arts
+>
+>The Hermetic Opening of the Arts is the Order of Hermes' equivalent of Opening The Gift. Rules for this are given in ArM5 (page 106) and again in Houses of Hermes: Societates (page 128), but they do not address the possibility of the apprentices Gift being already Opened by another tradition. If a magus attempts to Open the Arts of an apprentice whose Gift has already been Opened by a hedge tradition, add 30 to the Intellego Vim Lab Total required by the magus.
 
-The Gift imposes a heavy social penalty on a character when he attempts to interact socially with other characters (see ArM5, page 75), including when he interacts with other Gifted characters. Hermetic magi have overcome this difficulty through the innova-
+#### Social Penalty of the Gift
 
+The Gift imposes a heavy social penalty on a character when he attempts to interact socially with other characters (see ArM5, page 75), including when he interacts with other Gifted characters. Hermetic magi have overcome this difficulty through the innovation of Parma Magica; one of its functions is to shield magi from the social effect of each other's Gift. Some hedge traditions who have Gifted members have found other ways to overcome this social penalty, while other traditions like folk witches have not solved the social problems of the Gift, and consequently their Gifted members only interact in small, factious, paranoid groups.
 
-tion of Parma Magica; one of its functions is to shield magi from the social effect of each other's Gift. Some hedge traditions who have Gifted members have found other ways to overcome this social penalty, while other traditions like folk witches have not solved the social problems of the Gift, and consequently their Gifted members only interact in small, factious, paranoid groups.
-
-# The Limits of Magic
+### The Limits of Magic
 
 The Limits of Magic are Hermetic theories that describe the boundaries of Hermetic magic, although some Hermetic theorists believe that a few of the limits are merely errors in Bonisagus' theory. The Limits of Magic are described in detail in **ArM5** (page 79-80).
 
@@ -478,62 +450,43 @@ Hedge magic is likewise normally bound by the Limits of Magic, which adds creden
 
 It is recommended that traditions devised by the troupe break no more than one of the Lesser Limits of Magic and do not break the Greater Limits of Magic at all. Hedge traditions should also not break the new Limit of Magic Resistance (see insert), unless the troupe wants the extremely prejudiced persecution of the hedge tradition to form a significant part of the saga.
 
-# hedge Arts and Supernatural Abilities
+### Hedge Arts and Supernatural Abilities
 
 Some hedge traditions produce effects via combinations of Arts in a manner similar to how Hermetic effects are produced via combinations of Technique and Form Arts. Other hedge traditions produce effects via Supernatural Abilities. Finally, some traditions use both Arts and Supernatural Abilities (although for separate effects).
 
-Hedge Arts are not normally compatible with Hermetic Arts (or with the hedge Arts of other traditions), so if a character somehow learns Arts from several traditions they
+Hedge Arts are not normally compatible with Hermetic Arts (or with the hedge Arts of other traditions), so if a character somehow learns Arts from several traditions they may not be combined to produce exotic effects. However, this could be a fruitful avenue for integration research projects (see later).
 
-may not be combined to produce exotic effects. However, this could be a fruitful avenue for integration research projects (see later).
+>#### Difficult Arts Mechanically
+>
+>Difficult Arts are necessary to prevent hedge wizard traditions from being easily able to generate high Penetration scores to bypass the Magic Resistance of Hermetic magi. The troupe should consider this when developing its own traditions. A good guideline for game balance is that if a combination of hedge Arts can affect magi, then at least one should be a Difficult Art.
 
-# Difficult Arts Mechanically
-
-Difficult Arts are necessary to prevent hedge wizard traditions from being easily able to generate high Penetration scores to bypass the Magic Resistance of Hermetic magi. The troupe should consider this when developing its own traditions. A good guideline for game balance is that if a combination of hedge Arts can affect magi, then at least one should be a Difficult Art.
-
-### DIFFICULT ARTS
+#### DIFFICULT ARTS
 
 Some hedge traditions are under-developed, or have theoretical shortcomings, so the hedge wizards find it difficult to improve some (or even all) of their hedge Arts. Other hedge Arts are difficult to improve because they encompass very wide and disparate effects. In either case, such Arts are noted as being Difficult Arts in their description. This means that when generating a character, scores in these Difficult Arts are purchased as if they were Abilities (it costs 5 experience points for a score of 1, 15 experience points for a score of 2, etc). A Difficult Art also uses the Ability Advancement Table (ArM5, page 31) when the character studies or otherwise earns experience points during play. This is the only difference between a Difficult Art and a normal Art: the Difficult Art may be improved through the study of vis (if this is a possibility for the hedge tradition), it is affected normally by Virtues that affect Arts (such as Magical Foci), and it is not affected by Virtues that affect Abilities.
 
 Original research (either by hedge wizards themselves, or by helpful Hermetic allies) could improve a hedge tradition and convert some of its Difficult Arts to normal Arts. This should be at least as difficult as an Hermetic breakthrough, and may not be possible at all for some theoretically naïve traditions. Many magi would frown upon such research, as it could reduce the Order of Hermes's position of dominance over the hedge wizards.
 
-### ACCELERATED ABILITIES
+#### ACCELERATED ABILITIES
 
 Accelerated Abilities are the counterpart to Difficult Arts, introduced in *Houses of Hermes: Societates*. They advance as Arts do, costing one experience point for a score of 1, and are not limited in level at character creation, but are otherwise treated as Abilities in all respects.
 
-### FAVORED ABILITIES
+#### FAVORED ABILITIES
 
-Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters, as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities,
+Some traditions have a set of favored Supernatural Abilities. Gifted characters who belong to these traditions do not have to subtract the total of their Supernatural Ability scores from the source quality to learn other Abilities that are favored by that tradition. Usually, the character has to undergo some sort of ritual — Opening The Gift — before he gains this benefit of the tradition. Favored Abilities have no meaning for unGifted characters, as they cannot learn Supernatural Abilities at all. Characters with favored Abilities must subtract the total of all their Supernatural Abilities, including favored Abilities, from the source quality when learning Supernatural Abilities that are not favored.
 
-# The Limit of Magic Resistance
+>#### The Limit of Magic Resistance
+>
+>No hedge tradition has a general resistance to magic.
+>
+>This is obviously not a true Limit of Magic, as clearly a Hermetic magus has a general magic resistance from his Form Art Scores (augmented even further by his Parma Magica). However, Hermetic theorists have noted that hedge traditions are constrained by this apparent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a hedge tradition did develop a method of breaking the Limit of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the hedge traditions relies on magi's ability to resist the magical effects of hedge wizards, and the hedge wizard's corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.
 
-No hedge tradition has a general resistance to magic.
-
-This is obviously not a true Limit of Magic, as clearly a Hermetic magus has a general magic resistance from his Form Art Scores (augmented even further by his Parma Magica). However, Hermetic theorists have noted that hedge traditions are constrained by this apparent limit. It is unclear why this should be so, but it is undeniably convenient for the Order of Hermes. In fact, if a hedge tradition did develop a method of breaking the Limit
-
-of Magic Resistance, its members would be ruthlessly eliminated by the Order of Hermes. This is because the wider Order fully understands that its hegemony over the hedge traditions relies on magi's ability to resist the magical effects of hedge wizards, and the hedge wizard's corresponding inability to resist the magic of magi. Perhaps the historic efficiency of the Order of Hermes in identifying and destroying such challenges to their power is sufficient to explain the apparent Limit of Magic Resistance.
-
-
-# Inedge Magic
-
-from the source quality when learning Supernatural Abilities that are not favored.
-
-# Magic Defenses
+## Magic Defenses
 
 As noted above no hedge wizard can resist magic, but some do have limited magical defenses that reduce the effect of magic.
 
 Magical defenses apply either a numerical bonus to the hedge wizard, or a penalty to an attacking caster, in an area of the hedge wizards specialty. If the specialty is a hedge Art, then the bonus is equal to the hedge wizard's Score in the Art divided by 5 (round up). If the specialty is a Supernatural Ability, then the bonus is equal to the hedge wizard's Score in the Ability. Difficult Arts are treated as Arts, so for them the bonus is equal to Score divided by 5 (round up), and Accelerated Abilities are treated as Abilities.
 
-### MaaicAL DEFENSE BoNus: Art divided by 5 (round up) or Ability Score
-
-st
-
-NY
-
-(a
-
-hi
-
-í
+**Magical Defense Bonus:** Art divided by 5 (round up) or Ability Score
 
 Magical defenses usually only assist the hedge wizard, and any companions are unaffected. So if the hedge wizard is part of a Group or large Target then the magic effect may be reduced for him, but any others within range are affected normally.
 
@@ -551,127 +504,115 @@ Virtues for one or more of the powers of a hedge tradition would not normally ac
 
 Some magical defenses are listed below, and a particular tradition may have access to none, some, or all of these options:
 
-### ACCELERATED EXPIRY
+#### ACCELERATED EXPIRY
 
 Spells cast on the hedge wizard, in his area of specialty, expire unexpectedly quickly. Diameter Duration spells expire a number of rounds too early equal to the hedge wizard's Magical Defense Bonus, but last at least one round. Sun Duration spells expire a number of hours too early, but last at least Diameter. Moon Duration spells expire a number of days too early, but last at least Sun. Year Duration spells expire a number of weeks too early, but last at least Moon. Spells with a Momentary, Concentration, or Ring Duration are unaffected. If other characters are affected by the same spell, the spell lasts its usual duration on them.
 
-### ALACRITOUS FORTUNE
+#### ALACRITOUS FORTUNE
 
 The hedge wizard adds his Magical Defense Bonus to his Defense Total when spells are aimed at him.
 
-### CONFOUNDING MAGICS
+#### CONFOUNDING MAGICS
 
 Add the hedge wizards Magical Defense Bonus to the Ease Factor of Concentration rolls made by the casters of effects with Concentration Duration that target the hedge wizard, and are in an area of the hedge wizard's specialty. Note that if the hedge wizard is part of a Group or large Target effect, only a single Concentration roll is made by the caster. If several hedge wizards with Confounding Magics defenses are in the Group then only the best Magic Defense Bonus is used to modify the Ease Factor of the Concentration roll. This is an instance in which the effect of the hedge wizard's Magic Defenses can indirectly benefit other characters.
 
-### IMMOVABLE OBJECT
+#### IMMOVABLE OBJECT
 
 If the hedge wizard is affected by an effect in his area of specialty that physically or mentally controls him (usually a Rego effect), then each round a roll is made for the wizard to resist the effect, of Strength + Magical Defense Bonus — Magnitude of Ef-
 
 fect + simple die against an Ease Factor of 9. If the effect is still active next round, he is still affected by it but another roll is made for him to resist. This defense could be disastrous if the wizard resists a friendly effect that allows him to fly, for example.
 
-### MAGICAL FORTITUDE
-
-/——— —
+#### MAGICAL FORTITUDE
 
 If the hedge wizard is affected by an effect in his area of specialty that causes damage, then he receives a Magical Defense Bonus to his Soak Total.
 
-### STRENGTH OF FORM
+#### STRENGTH OF FORM
 
 If the hedge wizard is affected by an effect in his area of specialty that changes his form (usually a Muto effect), then he may make a Stamina + Magical Defense Bonus + simple die roll against an Ease Factor of 9 to return to his natural form. The Bjornaer Heartbeast Ability grants a similar defense that has been retained from the House's pre-Hermetic tradition.
 
-# (Carping
+## Warping
 
 A hedge wizard, like most characters, accumulates Warping Points that contribute to his Warping Score. The hedge wizard gains Warping Points via the usual methods (see ArM5, page 167), but as hedge wizards draw their power from the Magic Realm, he does not accumulate Warping points due to living in a strong magic aura.
 
 The response of each magic tradition to Warping is unique. Wizard's Twilight is the response of the Order of Hermes, and no hedge tradition has this particular response. Usually, unGifted hedge wizards react similarly to mundane characters, gaining Flaws and Virtues (see ArM5, page 168), but Gifted hedge wizards react more uniquely and unpredictably (see individual chapters).
 
-# Vis
+## Vis
 
 Some hedge traditions use vis as described in the tradition chapters. Of course, even these hedge wizards might use a different word to describe vis or may only recognize vis of specific Forms. However, this invites an important question: how do hedge wizards detect vis?
 
-
-# ee MAGIC SENSITIVITY
+#### MAGIC SENSITIVITY
 
 Any character with the Supernatural Ability Magic Sensitivity (ArM5, page 66) can detect whether an object contains vis; make a roll of Perception + Magic Sensitivity against an Ease Factor of (12 — the number of pawns of vis contained in the object). Some hedge traditions have alternative supernatural methods of detecting vis; for example Folk Witches may dowse for vis (see Chapter 3: Folk Witches).
 
-### NON-SUPERNATURAL PERCEPTION
+#### NON-SUPERNATURAL PERCEPTION
 
 If the character does not have supernatural means of detecting vis, then he may still have an understanding of the types of objects that might contain vis. If the character is presented with an array of objects that might contain vis (for example, he is searching a magus' Laboratory), make a Perception + (Hedge Magic) Theory or Magic Lore roll against an Ease Factor of 12. If the roll is successful the character has successfully identified which objects are most likely to be vis, but whether the objects really do contain vis or not is unknown (to him) until he tries to use the vis.
 
-### NON-SUPERNATURAL INTELLIGENCE
+#### NON-SUPERNATURAL INTELLIGENCE
 
 Alternatively, a character can use his understanding of magic to predict where vis might be found. In this case, make a roll for the character of Intelligence + (Hedge Magic) Theory or Magic Lore against an Ease Factor of 15. If this roll is successful, the character has successfully figured out that, for example, the first fruit of the season is likely to contain vis. However, actually finding the first fruit is a trial and error process for the character and may be a significant adventure in and of itself. See Covenants (page 72) for examples of the types of objects and places that the character might suppose contain vis.
 
-# Oreating Nedge Characters
+## Creating Hedge Characters
 
 The chapters in this book describe how to generate characters belonging to specific hedge traditions. The following rules provide a general framework for the game mechanics.
 
-# Inedge Magic
-
-# Magi, Companions, or Grogs?
+### Magi, Companions, or Grogs?
 
 The options for creating hedge wizard characters are:
 
-### As A GIFTED COMPANION
+#### AS A GIFTED COMPANION
 
 The character is created as a Gifted companion, with the free The Gift Virtue. Such a character may have up to 10 points worth of Virtues and balancing Flaws — some of which may affect his ability to use his Supernatural powers, or grant access to additional powers within the tradition. Usually a Gifted character has access to only one free Supernatural Ability, but he may learn others (see ArM5, page 166). Extra Supernatural Abilities that have been learned in this way are represented in character generation by Supernatural Virtues. However most traditions, through Opening The Gift, instead allow Gifted hedge wizards "free" access to an entire suite of powers, Abilities, and/or hedge Arts. This benefit of tradition membership is represented by a free Social Status (similar to the Hermetic Magus Social Status). See each tradition chapter for details on precisely what powers tradition membership allows Gifted characters.
 
-### AS AN UNGIFTED COMPANION
+#### AS AN UNGIFTED COMPANION
 
 The character is created as an un-Gifted companion character with a suite of Virtues and Flaws that each grant him access to particular powers, Abilities, and/ or Hedge Arts of his tradition. An un-Gifted companion character may have up to 10 points worth of Virtues and balancing Flaws. Although he may have a Social Status to represent his membership of the hedge tradition, an unGifted hedge wizard has no Gift to be Opened and so does not get free access to the powers of his tradition. This typically means that unGifted hedge wizards are less powerful, especially if the tradition encompasses more than 10 points worth of Virtues.
 
-### As A MyTHIC COMPANION
+#### AS A MyTHIC COMPANION
 
 A much more powerful unGifted character may be created as a Mythic Companion character. If the character is a Mythic Companion he must be assigned the free Mythic Companion Status Virtue (some traditions have special versions of this Virtue). You may chose up to ten points of Flaws for the character, and each Flaw point balances two points of Virtues. The character also receives an extra Minor Virtue at no cost. This means that the Mythic Companion character has a maximum of 21 points of Virtues. The extra Minor Virtue that the character receives may be specified by the tradition, and the tradition description may also specify a set of minimum Ability scores for a Mythic Companion character.
 
-### AS A GROG
+#### AS A GROG
 
 Finally, a very minor unGifted hedge wizard might be created as a grog character who has up to three Minor Virtues to represent his powers.
 
-### CONCERNS
+#### CONCERNS
 
 Of course, you should obey the normal rules for the mix and types of Virtues and Flaws that may be assigned to the different character types when designing a hedge wizard character (see ArM5, page 28). In particular, note that only Gifted companion characters may be assigned Hermetic Virtues and Flaws.
 
 In the chapters of this book all of these strategies have been used, although individual traditions may only normally encompass one or two options. In general, hedge wizards who are Gifted companions are the most powerful and represent what the Order of Hermes would consider as true hedge wizards. UnGifted hedge wizards are less powerful, and if they do not have the required Virtues they may not be able to access all the powers of the tradition.
 
-CA
-
-x'(
-
 In terms of allocating characters to players, your troupe may like to consider Gifted companions and Mythic Companion characters to be equivalent to magi, and unGifted companion characters to be equivalent to other companion characters. However, even Gifted hedge wizard characters are typically not as powerful as magi, thus if a player wishes to play such a character he should understand this. On the other hand, if the troupe is playing in the multi-character style, and everyone is happy with the situation, there is nothing wrong with a player having a Gifted companion hedge wizard instead of a normal companion.
 
-
-# Common Nedge Virtues and Flaws
+### Common Hedge Virtues and Flaws
 
 The following are common Virtues and Flaws for hedge wizards:
 
-### HERMETIC VIRTUES AND FLAWS
+#### HERMETIC VIRTUES AND FLAWS
 
 A hedge wizard who has the Gift may (like any Gifted character; ArM5 page 28) be assigned Hermetic Virtues and Flaws during character generation. A few make little sense to be assigned to some hedge wizards, so the storyguide should be consulted. For example, an Affinity with an Art is not usually suitable if the hedge tradition does not have hedge Arts. The traditions in this book indicate which Hermetic Virtues and Flaws are suitable for these hedge traditions. In some cases, versions of Hermetic Virtues are available as Supernatural Virtues to unGifted members of a tradition. An unGifted character may only take a Supernatural Flaw of this sort if he has a Virtue that will be limited by it. In addition, the troupe may wish to consider whether a Flaw that is Major for a Gifted practitioner is still Major when applied to someone with a small subset of those powers.
 
-# Free Social Status: (Hedge Wizard)
+#### Free Social Status: (Hedge Wizard)
 
 The character is a member of a hedge tradition. Each hedge tradition has a different version of this Social Status (Alchemist, Folk Witch, Vitkir, etc). If the character is Gifted he has had The Gift Opened by his tradition, which usually gives him access to the favored Supernatural Abilities or Arts of the tradition. If the character is unGifted he must have the required Virtues to access the Supernatural Abilities and Arts of the tradition, but he still gains the social benefits of the tradition. This Social Status may be compatible with other Social Statuses, and with Wealthy and Poor; see each hedge tradition for details.
 
-# MINOR SUPERNATURAL VIRTUE: GREATER MAGICAL DEFENSES
+#### MINOR SUPERNATURAL VIRTUE: GREATER MAGICAL DEFENSES
 
 The hedge wizard is unusually difficult to affect with magic; double his Magical Defense Bonuses. This is only useful for a hedge wizard whose tradition includes Magical Defenses. If the hedge wizard acquires a Magic Resistance (he learns Parma Magica, for example), it is not affected by this Virtue.
 
-### hedge Magic
-
-### Major Story Flaw: Known Hedge Wizard
+#### Major Story Flaw: Known Hedge Wizard
 
 The character is known to be a hedge wizard by many in the Order of Hermes. The approximate location of his home is well known, as is something of his capabilities. The hedge wizard is carefully watched by the Order, and if he begins to demonstrates great power he may be required to either "Join or Die." This Story Flaw is only really suitable for a Gifted or Mythic Companion character.
 
-### MAIOR STORY FLAW: PAGAN
+#### MAIOR STORY FLAW: PAGAN
 
 Some hedge wizards are pagans; they don't follow the teachings of the church and have never been baptized. This upsets those in authority in Mythic Europe and frightens common people who learn of it. The character doesn't observe Christian holidays and he avoids churchmen and the Dominion. The character can't pretend to go along with society, as he believes that this would displease his gods and incur their wrath — he might suffer supernatural consequences if he takes Communion or appears to worship gods other than his own. The character may be correct in this belief. The character may begin with either Magic Lore or Faerie Lore depending on the specifics of his faith. Note that this Flaw should only be taken for the character if the troupe wishes to tell significant stories about the character's pagan religion. This Flaw is not appropriate for a character who is a "non-practicing" pagan.
 
-# MINOR SUPERNATURAL FLAW: NO MAGICAL DEFENSES
+#### MINOR SUPERNATURAL FLAW: NO MAGICAL DEFENSES
 
 There is something flawed in the way the hedge wizard's Supernatural Abilities and Arts were developed. He has no Magical Defense Bonuses. This is only appropriate if the hedge tradition has magic defenses. This might be a suitable Flaw for a Gifted hedge wizard whose Opening The Gift ritual was flawed.
 
-# Common Nedge Abilities
+### Common Hedge Abilities
 
 Common abilities for hedge wizards are:
 
@@ -679,41 +620,37 @@ Common abilities for hedge wizards are:
 
 The (Hedge Wizard) Social Status Virtue that represents the hedge wizard's tradi-
 
-
-### (HEDGE MAGIC) THEORY
+#### (HEDGE MAGIC) THEORY
 
 This Arcane Ability deals with the technical details of how a particular hedge tradition practices its magic. It is possible that some technically naïve traditions have no practitioners with this Ability, which means that the tradition is likely to be poor at innovating, creating new effects, and teaching. Specialties: particular activities.
 
-### (Organization) Lore
+#### (Organization) Lore
 
 There is an (Organization) Lore General Ability for each hedge tradition. This includes knowledge of the legends, history, structure, and goals of the tradition. Some traditions use this Ability in initiations. A character does not need to be a member of the tradition to have this Ability. Note that this is not a new Ability (see ArM5, page 66). Specialities: personalities, history, politics.
 
-# Acquiring Nedge Wizard Powers
+## Acquiring Nedge Wizard Powers
 
 There are several ways to get powers:
 
-### INHERITED AND LEARNED POWERS
+#### INHERITED AND LEARNED POWERS
 
 Some powers are inherited. This does not mean that a character's parents must have had these powers, but rather that the character was born with one or more Supernatural Virtues that enable access to the powers of a hedge tradition. Usually this birthright is not in and of itself sufficient to be a member of the tradition; the character must also be discovered and trained to utilize his talents by an existing member of the tradition. In this sense, a character with The Gift can be thought of as a character with an especially broad inheritance. He has the raw capacity to develop the powers of any tradition, if he receives the appropriate training.
 
-Other powers are learned, and the character must acquire the Supernatural Virtues necessary for the tradition via some kind of
-
-
-teaching, usually through initiations or a type of Opening the Gift if the character is Gifted.
+Other powers are learned, and the character must acquire the Supernatural Virtues necessary for the tradition via some kind of teaching, usually through initiations or a type of Opening the Gift if the character is Gifted.
 
 When you're developing your character you should decide how he developed the powers necessary for his tradition. Was he born with power or did he learn? If he learned powers via initiations, he may have Flaws that were inflicted as ordeals. If he was born with power, how did his tradition find him? If he learned, why did his master teacher him? Of course, an individual character may have some inherited powers and some learned powers, and the chapters of this book offer some suggestions (and restrictions) as to how and why characters might become members of each hedge tradition.
 
-### DURING CHARACTER GENERATION
+#### DURING CHARACTER GENERATION
 
 If your character is a Gifted companion, once his Gift has been Opened he will have access to some (or all) of the tradition's powers, and you may spend experience points on the Arts or Ability scores associated with these during character generation. The individual chapter descriptions specify for each tradition what Arts or Abilities Gifted characters may access, and from what age and under what conditions this access begins.
 
 If your character is an unGifted hedge wizard, you may only spend experience points on those Supernatural Abilities and/ or hedge Arts for which he has the corresponding Virtues, some may be inherited, and others may be taught to him during the years covered by character generation. For example, if your character is an unGifted folk witch, you may only purchase a score in the Flight Supernatural Ability if she has the Minor Supernatural Virtue Flight.
 
-### DURING PLAY
+#### DURING PLAY
 
 During play, a hedge wizard character may learn Abilities and Arts in the normal ways (unless his tradition places additional social restrictions on how its supernatural powers may be learned and improved). Normally this means that your character may improve his existing Supernatural Abilities and Arts, but may not learn new ones unless he somehow acquires Virtues that enable him to do so (typically via some kind of initiation; see below). Gifted companion characters usually still have the same broad access that they did during character generation, although existing scores in Arts and Abilities may make things difficult for them.
 
-### INITIATIONS
+#### INITIATIONS
 
 Some hedge traditions teach a few of their powers through Initiation rites. These are similar to the Initiation rites of Hermetic Mystery Cults, full rules for these are printed in Houses of Hermes: Mystery Cults and The Mysteries Revised Edition.
 
@@ -723,27 +660,23 @@ The sequence of required tasks for the Initiation — which may include Quests, 
 
 See each hedge tradition for details on what Initiation rites and Scripts those traditions can access, how each tradition generates an Initiation Total, and what Ease Factor the total should be compared to. Hedge traditions are often much less flexible than Hermetic magic and thus hedge Mystagogues may not be able to vary Initiation Scripts or initiate different Virtues. However, if the troupe does want to vary a hedge Initiation, the standard Hermetic Mystery Cult rules can be used for guidance.
 
-
-
-# Integration of hedge Magic
+## Integration of Hedge Magic
 
 Some Hermetic magi, particularly Bonisagus Seekers, eagerly hunt down rumors of hedge traditions so that they may gain insights into magic theory. This is because some hedge traditions accomplish unusual effects that could, with considerable difficulty, be integrated into the Hermetic theory of magic, and thus duplicated by Hermetic magi. A new effect might even break a limit of magic, and much prestige would accrue to the Seeker responsible for extending the power of Hermetic magic in this way.
 
 ### THE BREAKTHROUGH
 
-An ambitious magus may attempt to incorporate the effects of a hedge magic tradition into Hermetic theory and achieve a Breakthrough in Hermetic theory through research and experimentation. Any magus may, at any time, attempt a breakthrough; there are no minimum Arts or Ability scores required. To successfully integrate the magic of a hedge tradition into Hermetic Theory,
-
-the character must accumulate a number of breakthrough points determined by the type of Breakthrough the magus is attempting.
+An ambitious magus may attempt to incorporate the effects of a hedge magic tradition into Hermetic theory and achieve a Breakthrough in Hermetic theory through research and experimentation. Any magus may, at any time, attempt a breakthrough; there are no minimum Arts or Ability scores required. To successfully integrate the magic of a hedge tradition into Hermetic Theory, the character must accumulate a number of breakthrough points determined by the type of Breakthrough the magus is attempting.
 
 Each chapter of Hedge Magic details the number of breakthrough points required to integrate specific parts of each hedge tradition into Hermetic Theory, and no single breakthrough encompasses all powers of a single tradition. These examples are a good model for the troupe to follow when devising breakthroughs that might result from a magus integrating your own hedge traditions.
 
 There are three kinds of Breakthrough: Minor, Major and Hermetic, and it is recommended that the storyguide vary the exact number of breakthrough points required, for each. This is so the players don't always know the precise number needed for the Breakthrough, preserving a sense of unpredictability to the extension of Hermetic magic.
 
-A Minor Breakthrough is a development that is immediately useful and applicable in the existing framework of Hermetic magic, such as a new Range, Target, or Duration. It improves or adds upon existing theory without truly reaching the limits of magic. (Typically requires around 30 breakthrough points.)
+A **Minor Breakthrough** is a development that is immediately useful and applicable in the existing framework of Hermetic magic, such as a new Range, Target, or Duration. It improves or adds upon existing theory without truly reaching the limits of magic. (Typically requires around 30 breakthrough points.)
 
-A Major Breakthrough pushes those limits, but does not break them; these include Hermetic Virtues for Gifted characters. Incorporating most hedge magic into Hermetic theory is a Major Breakthrough, and the incorporation can then be taught to others as Supernatural Virtues (see below). (Typically requires around 45 breakthrough points.)
+A **Major Breakthrough** pushes those limits, but does not break them; these include Hermetic Virtues for Gifted characters. Incorporating most hedge magic into Hermetic theory is a Major Breakthrough, and the incorporation can then be taught to others as Supernatural Virtues (see below). (Typically requires around 45 breakthrough points.)
 
-A Hermetic Breakthrough is research that breaks one of the Hermetic Limits of Magic, such as a new Arcane Ability or the ability to cast permanent duration spells without vis. Hermetic Breakthroughs re-write the theory books; the only Hermetic Breakthrough in 450 years was the development of the Parma Magica by Bonisagus. (Typically requires around 60 breakthrough points.)
+A **Hermetic Breakthrough** is research that breaks one of the Hermetic Limits of Magic, such as a new Arcane Ability or the ability to cast permanent duration spells without vis. Hermetic Breakthroughs re-write the theory books; the only Hermetic Breakthrough in 450 years was the development of the Parma Magica by Bonisagus. (Typically requires around 60 breakthrough points.)
 
 #### Insight
 
@@ -755,28 +688,7 @@ For every season a magus spends investigating a source of insight, make a stress
 
 There are three sources of insight: texts, relics, and teachers.
 
-Texts are books, Lab Texts, or other explanatory sources that describe how to learn, perform, or cast a hedge magic effect. A text generally only provides a single insight and the same text provides the same insight for any magus who studies it. Texts are unlikely to be given away by hedge wizards and would usually need to be stolen or found
-
-# UnGifted Initiations
-
-Usually, only Gifted characters may be initiated. However, some hedge traditions can Initiate unGifted characters. These Initiations follow all the usual rules except:
-
-- Initiations that affect unGifted characters must include an Ordeal (i.e. the character must gain a Flaw or lose a Virtue).
-- UnGifted characters can not benefit from Ordeals that they suffered in previous initiations.
-- An unGifted character cannot act as the Mystatogue unless he knows the power that the Initiation develops — this means he cannot Initiate himself.
-
-# The Integration Process
-
-- 1. Find a source for information about the hedge magic tradition, such as spell texts, items, captured laboratories, books, or similar. This typically involves a quest or adventure of some sort.
-- 2. Investigate the source to gain Insight; this typically takes two or three seasons.
-- 3. Invent a spell or magical device incorporating the Insight. You must experiment while doing this. If you succeed in inventing the spell, you gain a number of breakthrough points equal to the
-- magnitude of the spell or device. The invention may break Hermetic limits, but if so, it cannot be invented by another character without a Lab Text, and cannot be varied in any way.
-- Continue to research, gaining more breakthrough points, until you equal or exceed the threshold.
-- 5. Bask in the glory of having improved Hermetic Theory; or alternatively, prepare for the political consequences of your impudence.
-
-
-
-abandoned. Of course, the magus must be able to read the language in which the text written, and many hedge traditions are oral and do not generate texts.
+Texts are books, Lab Texts, or other explanatory sources that describe how to learn, perform, or cast a hedge magic effect. A text generally only provides a single insight and the same text provides the same insight for any magus who studies it. Texts are unlikely to be given away by hedge wizards and would usually need to be stolen or found abandoned. Of course, the magus must be able to read the language in which the text written, and many hedge traditions are oral and do not generate texts.
 
 If the text contains the information needed to gain a Supernatural Ability, a character could use it to learn the Ability as per the normal rules (ArM5, page 166). Most Hermetic magi however, cannot learn Supernatural Abilities due to prohibitive penalties from their Arts scores.
 
@@ -786,38 +698,32 @@ Teachers are individuals who are members of the hedge tradition who are able and
 
 In addition, a Gifted teacher can act as an assistant to the Hermetic magus, in which case add the teacher's Intelligence + (Hedge Magic) Theory to the magus' when making the roll to produce an Insight Lab Text. A teacher may only assist one magus in a season, and a magus may only be assisted by one teacher each season when attempting to find an Insight — this is because additional teachers tend to confuse the issue with their own interpretation.
 
+>#### UnGifted Initiations
+>
+>Usually, only Gifted characters may be initiated. However, some hedge traditions can Initiate unGifted characters. These Initiations follow all the usual rules except:
+>
+>- Initiations that affect unGifted characters must include an Ordeal (i.e. the character must gain a Flaw or lose a Virtue).
+>- UnGifted characters can not benefit from Ordeals that they suffered in previous initiations.
+>- An unGifted character cannot act as the Mystatogue unless he knows the power that the Initiation develops — this means he cannot Initiate himself.
+
+>#### The Integration Process
+>
+>1. **Find a source for information** about the hedge magic tradition, such as spell texts, items, captured laboratories, books, or similar. This typically involves a quest or adventure of some sort.
+>2. **Investigate the source** to gain Insight; this typically takes two or three seasons.
+>3. **Invent a spell or magical device** incorporating the Insight. You must experiment while doing this. If you succeed in inventing the spell, you gain a number of breakthrough points equal to the magnitude of the spell or device. The invention may break Hermetic limits, but if so, it cannot be invented by another character without a Lab Text, and cannot be varied in any way. 
+>4. **Continue to research**, gaining more breakthrough points, until you equal or exceed the threshold.
+>5. **Bask in the glory** of having improved Hermetic Theory; or alternatively, prepare for the political consequences of your impudence.
+
+
 ### CREATING THE EFFECT
 
-A particular insight allows the researcher to create one specified effect. This effect might be a spell or an effect enchanted into
-
-# Story Seeds: Stories About Teachers
-
-Some stories that could arise if a hedge wizard works with a magus to create Insight are below. Of course, if the hedge wizard is an NPC character, the magus may also have to go to considerable trouble to find a teacher in the first place.
-
-### THE SABOTEUR
-
-The hedge wizard does not want to assist the magus and may be providing Insights under duress. The hedge wizard can choose to sabotage any experiment he assists with; treat this as if a Botch is rolled on the Extraordinary Results Chart (see ArM5 page 107). More subtly, the hedge wizard can choose to waste the season spent looking for an Insight on a wild goose chase; make a Guile roll (see ArM5, page 65) to determine if this duplicity is successful. Of course, the hedge wizard may be unable to ruin the experiment in either way due to either controlling Mentem magic or merely because he fears the magus too much.
-
-### THE PROTÉGÉ
-
-Other magi become aware that the magus is learning Insights from a hedge wizard teacher, and they try to entice the hedge wizard to work on their own projects. If this enticement fails, particularly jealous magi might try to certamen for the right to the hedge wizard's knowledge, or they might try to kidnap or even assassinate the hedge wizard. This story is particular suitable if the hedge wizard is a player character.
-
-an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something. However, spells are by far the most common, followed by item enchantments.
+A particular insight allows the researcher to create one specified effect. This effect might be a spell or an effect enchanted into an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something. However, spells are by far the most common, followed by item enchantments.
 
 The researcher does not get to choose the effect for which he receives insight, and as the level of the effect is fixed, the insight might be for an effect he cannot yet invent. For example, the effect might be level 40, while the researcher has a Lab Total of 32. In that case, the researcher can increase his Lab Total and then work on the effect.
 
-The troupe should decide on the effects that result from particular pieces of insight, choosing ones that advance the saga without upsetting play balance. The following chapters give some examples of possible efTHE SPY
-
-The hedge wizard uses his access to the magus' Laboratory to secretly learn the secrets of the Order of Hermes, which he intends to bring back to his own tradition. If the hedge wizard chooses, he can earn 2 Exposure experience every season in either Magic Theory, Parma Magica, Order of Hermes Lore, or any Mystery Lore that the magus knows. Alternatively, the hedge wizard could merely try to steal a book about one of these subjects. The danger of a hedge wizard learning Parma Magica in this way is sufficient that other magi will be suspicious of the wisdom of hedge wizard teachers. Note that a hedge wizard cannot learn Hermetic Arts in this manner (as his Gift has not been Opened by the Order of Hermes).
-
-### THE PLAGIARIST
-
-Other magi become aware that the magus is learning Insights from a hedge wizard and are derisive of his methods. Even if the Breakthrough is important and successful, the magus is not revered as its creator. The magus gains a reputation for poor-quality research and a Bonisagus magus gains no Acclaim for completing this Breakthrough (see *Houses of Hermes: True Lineages*, page 21) unless he can convince his peers that the hedge wizard was only a minor contributor to the project. This story is particular suitable if the hedge wizard is a player character.
-
-fects for the traditions detailed in this book. Player characters can vary things as much as they like once they fully integrate the system, so the restrictions at this stage should be accepted with good grace.
+The troupe should decide on the effects that result from particular pieces of insight, choosing ones that advance the saga without upsetting play balance. The following chapters give some examples of possible effects for the traditions detailed in this book. Player characters can vary things as much as they like once they fully integrate the system, so the restrictions at this stage should be accepted with good grace.
 
 The researcher must invent exactly the effect inspired by the insight. He may not vary the Range, Duration, or Target, or any other parameters. As the magus must experiment while inventing the effect, the result may be slightly different as a result of rolls on the Extraordinary Results table. If the researcher has a teacher, that teacher (and other similarly skilled individuals) may assist in the invention process, acting as laboratory helpers (see ArM5, page 103): use their Intelligence + (Hedge Magic) Theory Ability as a bonus to the invention laboratory activity.
-
 
 A spell is cast like a normal formulaic spell, and characters with Flexible Formulaic Magic may vary it at casting time in the normal way. The spell may also be Mastered, again in the normal way.
 
@@ -829,11 +735,29 @@ The effect produced in this way can be
 
 reproduced by other Hermetic magi. However, they can only do so if they have access to a Lab Text describing it, and it is not possible to vary the effect in any way; it must be reproduced exactly as it was initially created. Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant insight, whether from investigating the same item or from reading the original investigator's Lab Texts. It is possible to reproduce the effect first, and study the insight Lab Texts later.
 
+>#### Story Seeds: Stories About Teachers
+>
+>Some stories that could arise if a hedge wizard works with a magus to create Insight are below. Of course, if the hedge wizard is an NPC character, the magus may also have to go to considerable trouble to find a  teacher in the first place.
+>
+>#### THE SABOTEUR
+>
+>The hedge wizard does not want to assist the magus and may be providing Insights under duress. The hedge wizard can choose to sabotage any experiment he assists with; treat this as if a Botch is rolled on the Extraordinary Results Chart (see ArM5 page 107). More subtly, the hedge wizard can choose to waste the season spent looking for an Insight on a wild goose chase; make a Guile roll (see ArM5, page 65) to determine if this duplicity is successful. Of course, the hedge wizard may be unable to ruin the experiment in either way due to either controlling Mentem magic or merely because he fears the magus too much.
+>
+>#### THE PROTÉGÉ
+>
+>Other magi become aware that the magus is learning Insights from a hedge wizard teacher, and they try to entice the hedge wizard to work on their own projects. If this enticement fails, particularly jealous magi might try to certamen for the right to the hedge wizard's knowledge, or they might try to kidnap or even assassinate the hedge wizard. This story is particular suitable if the hedge wizard is a player character.
+>
+>#### THE SPY
+>
+>The hedge wizard uses his access to the magus' Laboratory to secretly learn the secrets of the Order of Hermes, which he intends to bring back to his own tradition. If the hedge wizard chooses, he can earn 2 Exposure experience every season in either Magic Theory, Parma Magica, Order of Hermes Lore, or any Mystery Lore that the magus knows. Alternatively, the hedge wizard could merely try to steal a book about one of these subjects. The danger of a hedge wizard learning Parma Magica in this way is sufficient that other magi will be suspicious of the wisdom of hedge wizard teachers. Note that a hedge wizard cannot learn Hermetic Arts in this manner (as his Gift has not been Opened by the Order of Hermes).
+>
+>### THE PLAGIARIST
+>
+>Other magi become aware that the magus is learning Insights from a hedge wizard and are derisive of his methods. Even if the Breakthrough is important and successful, the magus is not revered as its creator. The magus gains a reputation for poor-quality research and a Bonisagus magus gains no Acclaim for completing this Breakthrough (see *Houses of Hermes: True Lineages*, page 21) unless he can convince his peers that the hedge wizard was only a minor contributor to the project. This story is particular suitable if the hedge wizard is a player character.
+
 ### AFTER THE BREAKTHROUGH
 
-Minor Breakthroughs are usable immediately in the game, and are understandable by all Hermetic magi. New Ranges or Durations may be incorporated into new spells
-
-or items, and the Lab Texts distributed for a spell that may be used by another Hermetic magus without his needing to research the Breakthrough. Any magus who has created an effect using the Breakthrough can then use that Range of Duration freely in his other spells, and any magus trained by that magus, in either Arts or spells, may also do so.
+Minor Breakthroughs are usable immediately in the game, and are understandable by all Hermetic magi. New Ranges or Durations may be incorporated into new spells or items, and the Lab Texts distributed for a spell that may be used by another Hermetic magus without his needing to research the Breakthrough. Any magus who has created an effect using the Breakthrough can then use that Range of Duration freely in his other spells, and any magus trained by that magus, in either Arts or spells, may also do so.
 
 Major and Hermetic Breakthroughs must be taught to Hermetic magi directly. An Ability may be taught in the usual way, either in person or through books. The discoverer converts his breakthrough points into experience points in the new Ability, so that a magus who accrued 50 breakthrough points to integrate an Ability would start with a score of 4.
 
@@ -841,21 +765,21 @@ A new Virtue may be Initiated according to the normal rules for Mysteries. The d
 
 Inventing a Major or Hermetic Breakthrough that does not require teaching takes another Major Breakthrough, which may be achieved by these rules or the original research rules. If this succeeds, any magus may create an effect using the Breakthrough as long as he has a Lab Text, and then may use the Breakthrough freely. As for Minor Breakthroughs, the same applies to any magus taught Arts or spells by a magus who understands the Breakthrough.
 
-# hermetic Use of hedge Theory
+>#### Hermetic Use of Hedge Theory
+>
+>If a hedge tradition lacks a theoretical foundation (and therefore a (Hedge Magic) Theory Ability), a Hermetic researcher may invent such an Ability as a Hermetic Breakthrough. A Hermetic researcher may also invent a (Hedge Magic) Theory Ability if he lacks access to teachers with the Ability, and a hedge wizard may attempt to invent this Ability for his own tradition. This Breakthrough normally requires 60 breakthrough points, but the researcher reduces this amount by his greatest existing (Hedge Magic) Theory or Magic Theory Ability Score.
+>
+>Once he has completed this Breakthrough, the researcher converts his breakthrough points into experience points in the relevant Ability. He may then go on to act as his own source of insight for subsequent Breakthroughs (based on the same hedge tradition), as described above. If the researcher wants to integrate several effects from a single tradition, this is efficient as it reduces the overall amount of original material from the hedge tradition (texts and relics) that the researcher requires.
+>
+>If a hedge wizard invents (Hedge Magic) Theory for his own tradition, he gains the benefits of having a theoretical understanding of magic. For example, he can improve his laboratory, adds his (Hedge Magic) Theory Ability Score to his Lab Totals, etc.
 
-If a hedge tradition lacks a theoretical foundation (and therefore a (Hedge Magic) Theory Ability), a Hermetic researcher may invent such an Ability as a Hermetic Breakthrough. A Hermetic researcher may also invent a (Hedge Magic) Theory Ability if he lacks access to teachers with the Ability, and a hedge wizard may attempt to invent this Ability for his own tradition. This Breakthrough normally requires 60 breakthrough points, but the researcher reduces this amount by his greatest existing (Hedge Magic) Theory or Magic Theory Ability Score.
-
-Once he has completed this Breakthrough, the researcher converts his breakthrough points into experience points in the relevant Ability. He may then go on to act as his own source of insight for subsequent Breakthroughs (based on the same hedge tradition), as described above. If the researcher wants to integrate several effects from a single tradition, this is efficient as it reduces the overall amount of original material from the hedge tradition (texts and relics) that the researcher requires.
-
-If a hedge wizard invents (Hedge Magic) Theory for his own tradition, he gains the benefits of having a theoretical understanding of magic. For example, he can improve his laboratory, adds his (Hedge Magic) Theory Ability Score to his Lab Totals, etc.
-
-# Original Research and Ancient Magic
-
-Houses of Hermes: True Lineages includes rules for original research — adding features to Hermetic magic based purely on a magus' own inspiration. Integrating hedge traditions tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs available in the hedge tradition. Second, he has to get out of his laboratory and find (possibly uncooperative) sources of insight. From the storyguide's perspective, these may be advantages, of course.
-
-The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved.
-
-Ancient Magic also includes similar rules for integrating extinct, ancient traditions into Hermetic magic. Technically, breakthrough points gathered from integrating ancient traditions are compatible with those gathered from integrating hedge traditions, and vice versa. However, in practice it would be very rare for an ancient and hedge tradition to share a common Breakthrough: ancient traditions are meant to be extinct.
+>#### Original Research and Ancient Magic
+>
+>Houses of Hermes: True Lineages includes rules for original research — adding features to Hermetic magic based purely on a magus' own inspiration. Integrating hedge traditions tends to be faster and safer, but it does have two disadvantages. First, the magus can only aim for the Breakthroughs available in the hedge tradition. Second, he has to get out of his laboratory and find (possibly uncooperative) sources of insight. From the storyguide's perspective, these may be advantages, of course.
+>
+>The two sets of rules are similar, and both approaches may be taken to a single Breakthrough. That is, breakthrough points from integration may be added to breakthrough points from original research to determine whether a Breakthrough has been achieved.
+>
+>Ancient Magic also includes similar rules for integrating extinct, ancient traditions into Hermetic magic. Technically, breakthrough points gathered from integrating ancient traditions are compatible with those gathered from integrating hedge traditions, and vice versa. However, in practice it would be very rare for an ancient and hedge tradition to share a common Breakthrough: ancient traditions are meant to be extinct.
 
 ### Integration by Hedge Wizard Researchers
 
@@ -863,9 +787,7 @@ Some hedge wizards have recovered artifacts of other hedge traditions, and even 
 
 The possible effects of such activity by hedge researchers are too numerous to list here, but usually (due to the theoretical inferiority of hedge traditions) a hedge researcher requires double the number of breakthrough points that an equivalent Hermetic researcher would require. In addition, few hedge traditions have a culture that encourages innovation, and a hedge researcher's peers are as likely to condemn as commend him for his achievements.
 
-# Chapter Two
-
-# Clementalists
+# Chapter Two: Elementalists
 
 The scholars who study the world of Mythic Europe discovered long ago that everything in the physical universe is made up of four distinct building blocks of creation, called elements. These elements combine to varying degrees to form the matter and energy that make up physical reality, and are typically characterized as air, fire, earth, and water. A stone is primarily made up of earth, a flame is mostly fire, and a human being is made up of more or less equal parts of all four elements combined together. Many supernatural beings are also strongly associated with one of the four elements.
 
@@ -875,32 +797,11 @@ the magician influence over the unseen spirit world instead of the visible world
 
 Others in Mythic Europe have used the sciences of medicine, philosophiae, and theurgy to further develope these powers, so that they are able to affect the physical world instead of the spiritual, exert supernatural authority over the raw elements of nature, and even cause them to come together into animate creatures known as elementals. These Elementalist Arts are believed to have originated far across the Mediterranean Sea in the Middle East and northern Africa, but spread to Europe during the Arab conquests of Iberia in the first part of the eighth century. So-called "elementalists" would have been treated as badly as other sorcerers and summoners of the time, and thus they generally kept their abilities a secret, adopting the appearance of learned scholars or holy men. Over time, their scholarship and ties to the community elevated them above their more sinister counterparts, and in 1220 elementalists tend to look more like academics than other hedge wizards.
 
-# Clementalist Characters
+## Elementalist Characters
 
 Elementalist magic consists of four "Elementalist Techniques" (Summoning, Controlling, Divining, and Refining) and four "Elementalist Forms" (Air, Earth, Fire, and Water). These are known as the Elementalist Arts, which are used in conjunction to produce the effects that are associated with this form of hedge magic, and are essentially useless on their own. Thus, every elementalist character should begin with Virtues that give him at least one Technique and one Form.
 
-The Elementalist Techniques are also associated with three different types of elemental manifestations: Medicinal, Philosophical, and Theurgical. This further defines what elementalists can do with their Techniques and what they can affect with their Forms. An elementalist with a Medicinal Technique is sometimes known as an elemental physician, while one with a Philosophical Technique can be referred to as an elemental philoso-
-
-
-# Clementalist Virtues
-
-### MAJOR, SUPERNATURAL
-
-Elemental Magic\* Elemental Medicine\* Elemental Philosophiae\* Elemental Theurgy\* Gentle Gift (Type) Controlling\*
-
-(Type) Divining\*
-
-(Type) Refining\*
-
-(Type) Summoning\*
-
-### MINOR, SUPERNATURAL
-
-Affinity with (Art) Cyclic Magic (positive) Elemental Affinity\* Elementalist Air\* Elementalist Earth\* Elementalist Fire\* Elementalist Water\* Fast Caster Free Study Inoffensive to Animals Personal Vis Source Puissant (Art) Special Circumstances (Type) Controlling\* (Type) Divining\* (Type) Refining\* (Type) Summoning\*
-
-\* New or revised Virtues
-
-pher, and one with a Theurgical Technique might be called an elemental theurgist. Elemental physicians study human illnesses and the four humors of the body, elemental philosophers investigate how the elements influence nature and the physical world, and elemental theurgists seek to understand supernatural beings associated with the four elements. A single character can be knowledgeable two or even three types of Elementalist Techniques, but this is rare.
+The Elementalist Techniques are also associated with three different types of elemental manifestations: Medicinal, Philosophical, and Theurgical. This further defines what elementalists can do with their Techniques and what they can affect with their Forms. An elementalist with a Medicinal Technique is sometimes known as an elemental physician, while one with a Philosophical Technique can be referred to as an elemental philosopher, and one with a Theurgical Technique might be called an elemental theurgist. Elemental physicians study human illnesses and the four humors of the body, elemental philosophers investigate how the elements influence nature and the physical world, and elemental theurgists seek to understand supernatural beings associated with the four elements. A single character can be knowledgeable two or even three types of Elementalist Techniques, but this is rare.
 
 Elementalists can be played as companions, Mythic companions, or Gifted characters. For companions or Mythic companions, the character will be unable to learn new Techniques or Forms unless he is initiated into them by a Mystery Cult, as described in the Introduction, under Acquiring Hedge Wizard Powers. A Gifted character must
 
@@ -914,11 +815,45 @@ Characters can study the Elementalist Arts like any other Arts, though books on 
 
 Here follow several new Virtues and Flaws that are associated with the elementalist tradition and elementalist magic. Also, there are a few Virtues and Flaws available to elementalists that are similar to Hermetic Virtues and Flaws of the same name, except that they apply to elementalist magic instead. These are listed below, but players should simply refer to the Hermetic descriptions in Ars Magica 5th Edition. Note that, while these Flaws may be taken by unGifted elementalists, they may only be taken by characters for whom they represent a penalty. Characters with no elementalist powers may not take Flaws that limit those powers, for example. Similarly, a character may not have a Flaw that limits a power he does not have, even if he has other elementalist powers.
 
-# New or Revised Virtues
+>#### Elementalist Virtues
+>
+>**MAJOR, SUPERNATURAL**<br>
+>Elemental Magic\*<br> 
+>Elemental Medicine\* <br>
+>Elemental Philosophiae\* <br>
+>Elemental Theurgy\* <br>
+>Gentle Gift (Type) <br>
+>Controlling\*<br>
+>(Type) Divining\*<br>
+>(Type) Refining\*<br>
+>(Type) Summoning\*<br>
+>
+>**MINOR, SUPERNATURAL**
+>Affinity with (Art)  
+>Cyclic Magic (positive) 
+>Elemental Affinity\* 
+>Elementalist Air\* 
+>Elementalist Earth\* 
+>Elementalist Fire\* 
+>Elementalist Water\* 
+>Fast Caster 
+>Free Study 
+>Inoffensive to Animals 
+>Personal Vis Source 
+>Puissant (Art) 
+>Special Circumstances 
+>(Type) Controlling\* 
+>(Type) Divining\* 
+>(Type) Refining\* 
+>(Type) Summoning\*
+>
+>\* New or revised Virtues
+
+### New or Revised Virtues
 
 The following virtues are used by the elementalist tradition:
 
-### ELEMENTAL AFFINITY
+#### ELEMENTAL AFFINITY
 
 Minor, Supernatural
 
@@ -928,35 +863,31 @@ For example, an elementalist with an Elemental Affinity (Medicine) who gained 8 
 
 This Virtue may be taken more than once, as long as a different Ability is chosen each time.
 
-### ELEMENTALIST AIR
+#### ELEMENTALIST AIR
 
 Minor, Supernatural
 
 This power combines with the Elementalist Techniques to affect the element of air. Taking this Virtue gives the character an initial score of 0 in Elementalist Air (see Elementalist Forms, below), and a Sanguine Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Air / 5).
 
-### ELEMENTALIST EARTH
+#### ELEMENTALIST EARTH
 
 Minor, Supernatural
 
 This power combines with the Elementalist Techniques to affect the element of earth. Taking this Virtue gives the character an initial score of 0 in Elementalist Earth (see Elementalist Forms, below), and a Melancholic Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Earth / 5).
 
-### ELEMENTALIST FIRE
+#### ELEMENTALIST FIRE
 
 Minor, Supernatural
 
-This power combines with the Elementalist Techniques to affect the element of fire. Taking this Virtue gives the character
+This power combines with the Elementalist Techniques to affect the element of fire. Taking this Virtue gives the character an initial score of 0 in Elementalist Fire (see Elementalist Forms, below), and a Choleric Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Fire / 5).
 
-
-
-an initial score of 0 in Elementalist Fire (see Elementalist Forms, below), and a Choleric Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Fire / 5).
-
-### ELEMENTALIST WATER
+#### ELEMENTALIST WATER
 
 Minor, Supernatural
 
 This power combines with the Elementalist Techniques to affect the element of water. Taking this Virtue gives the character an initial score of 0 in Elementalist Water (see Elementalist Forms, below), and a Phlegmatic Personality Trait (see Elemental Warping, below) equal to his Warping Score + (Elementalist Water/ 5).
 
-### ELEMENTAL MAGIC
+#### ELEMENTAL MAGIC
 
 Major, Supernatural
 
@@ -966,19 +897,15 @@ In addition, when affecting multiple elements with his elemental magic, he may u
 
 A Hermetic version of this Virtue is relatively common among magi of the Order of Hermes (ArM5, page 41), and affects the Forms of Aquam, Auram, Ignem, and Terram instead of the elemental powers.
 
-### ELEMENTAL MEDICINE
+#### ELEMENTAL MEDICINE
 
 Major, Supernatural
 
 The character has a natural aptitude for elemental magic, based on special understanding of the four humors and the human body. In any season in which the character studies Medicine, the player may also assign one free experience point in each of the four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water).
 
-In addition, when affecting multiple elements with his elemental magic, he may use
+In addition, when affecting multiple elements with his elemental magic, he may use his highest Form score rather than his lowest. If the highest score exceeds his score in Medicine, use his score in Medicine instead.
 
-## Inedge Magic
-
-his highest Form score rather than his lowest. If the highest score exceeds his score in Medicine, use his score in Medicine instead.
-
-### ELEMENTAL PHILOSOPHIAE
+#### ELEMENTAL PHILOSOPHIAE
 
 Major, Supernatural
 
@@ -986,7 +913,7 @@ The character has a natural aptitude for elemental magic, based on a deep unders
 
 In addition, when affecting multiple elements with his elemental magic, he may use his highest Form score rather than his lowest. If the highest score exceeds his score in Philosophiae, use his score in Philosophiae instead.
 
-### ELEMENTAL THEURGY
+#### ELEMENTAL THEURGY
 
 Major, Supernatural
 
@@ -994,62 +921,68 @@ The character has a supernatural aptitude for elemental magic, based in experien
 
 In addition, when affecting multiple elements with his elemental magic, he may use his highest Form score rather than his lowest. If the highest score exceeds his score in the appropriate (Realm) Lore, use his score in (Realm) Lore instead.
 
-### (TYPE) CONTROLLING
+#### (TYPE) CONTROLLING
 
 Major or Minor, Supernatural
 
 Controlling is an Elementalist Art that can be combined with mastery of the four elements to control the behavior of different types of beings, as described under Elementalist Techniques, later in this chapter. Taking this Virtue gives the character a score of 0 in Controlling.
 
-This Virtue may be taken up to three times, to indicate that the character can control multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Controlling
+This Virtue may be taken up to three times, to indicate that the character can control multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Controlling must be learned separately, but all three use the same Art score, so that a character who takes this Virtue three times would have only one Controlling Art, not (Medicinal) Controlling, (Philosophical) Controlling, and (Theurgical) Controlling.
 
-# 'Character Creation
+>#### Elemental Affinities & Character Creation
+>
+>Several of the Virtues found in this chapter (Elemental Magic, Elemental Medicine, Elemental Philosophiae, and Elemental Theurgy) give the player experience points in the four Elementalist Forms whenever the character studies a related Ability. In order to approximate this effect during character creation, an optional method is to treat the Virtue as an Affinity with the related Forms. That is, you would calculate the number of experience points spent in the Ability, and divide half that amount among the Forms (or, for Elemental Magic, take the total number of points spent on the four Forms and equally divide half that amount among them).
 
-Several of the Virtues found in this chapter (Elemental Magic, Elemental Medicine, Elemental Philosophiae, and Elemental Theurgy) give the player experience points in the four Elementalist Forms whenever the character studies a related Ability. In order to approximate this effect during character creation, an optional method is to treat the Virtue as an Affinity with the related Forms. That is, you would calculate the number of experience points spent in the Ability, and divide half that amount among the Forms (or, for Elemental Magic, take the total number of points spent on the four Forms and equally divide half that amount among them).
-
-must be learned separately, but all three use the same Art score, so that a character who takes this Virtue three times would have only one Controlling Art, not (Medicinal) Controlling, (Philosophical) Controlling, and (Theurgical) Controlling.
-
-### (Type) DiviNING
+### (TYPE) DIVINING
 
 Major or Minor, Supernatural
 
 This Elementalist Art allows an elementalist to locate, understand, and predict the behavior of the four elements, as described under Elementalist Techniques, later in this chapter. This Virtue gives the character an initial Divining score of 0.
 
-we Fs
-
-Le
-
 This Virtue may be taken up to three times, to indicate that the character can find and comprehend multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Divining must be learned separately, but all three use the same Art score, so that a character that takes this Virtue three times would have only one Divining Art, not (Medicinal) Divining, (Philosophical) Divining, and (Theurgical) Divining.
 
-### (TYPE) REFINING
+#### (TYPE) REFINING
 
 Major or Minor, Supernatural
 
-With this Elementalist Art, the character can purify a target by subjecting it to the four elements, as described under Elementalist Tech-
-
-
-# Other Summoning Arts
-
-Summoning powers are also mentioned in Realms of Power: The Infernal (pages 87, 114-115). To distinguish the infernal Summoning Art from elementalist Summoning, you should refer to the infernal version as (Spirit) Summoning, and the elementalist version as (Elemental) Summoning. For example, an elemental theurgist with infernal powers could have (Elemental) Summoning, Controlling, (Spirit) Summoning, and Commanding. Note that
-
-such a character would be able to summon both spirits and elementals with his Summoning Arts, but could only command spirits with his Commanding Art and control elementals with his Controlling Art. If he were to summon a spirit aligned with one of the four elements using either (Spirit) or (Elemental) Summoning, he could affect it with either Commanding or Controlling, as the target would be both an elemental and a spirit.
-
-niques, later in this chapter. Taken as a Virtue, it grants Refining with an initial score of 0.
+With this Elementalist Art, the character can purify a target by subjecting it to the four elements, as described under Elementalist Techniques, later in this chapter. Taken as a Virtue, it grants Refining with an initial score of 0.
 
 This Virtue may be taken up to three times, to indicate that the character can refine multiple types of elemental targets (Medicinal, Philosophical, or Theurgical). The first type chosen requires a Major Virtue, the others are Minor. Each type of Refining must be learned separately, but all three use the same Art score, so that a character that takes this Virtue three times would have only one Refining Art, not (Medicinal) Refining, (Philosophical) Refining, and (Theurgical) Refining.
 
-### (Type) Summoning
+>#### Other Summoning Arts
+>
+>Summoning powers are also mentioned in Realms of Power: The Infernal (pages 87, 114-115). To distinguish the infernal Summoning Art from elementalist Summoning, you should refer to the infernal version as (Spirit) Summoning, and the elementalist version as (Elemental) Summoning. For example, an elemental theurgist with infernal powers could have (Elemental) Summoning, Controlling, (Spirit) Summoning, and Commanding. Note that such a character would be able to summon both spirits and elementals with his Summoning Arts, but could only command spirits with his Commanding Art and control elementals with his Controlling Art. If he were to summon a spirit aligned with one of the four elements using either (Spirit) or (Elemental) Summoning, he could affect it with either Commanding or Controlling, as the target would be both an elemental and a spirit.
+
+#### (Type) Summoning
 
 Major or Minor, Supernatural
 
-Summoning is an Elementalist Art that allows the character to use his knowledge of the Elementalist Forms to summon a target associated with that element to him. This target is somehow appropriate to his background — a disease, an aspect of nature, or an elemental being, as determined by the type of Summoning he learns (Medicinal, Philosophical, or Theurgical). This is described in more detail under Elementalist Techniques, later in
+Summoning is an Elementalist Art that allows the character to use his knowledge of the Elementalist Forms to summon a target associated with that element to him. This target is somehow appropriate to his background — a disease, an aspect of nature, or an elemental being, as determined by the type of Summoning he learns (Medicinal, Philosophical, or Theurgical). This is described in more detail under Elementalist Techniques, later in this chapter. Selecting this Virtue gives the character a score of 0 in Summoning. This Virtue may be taken up to three times, to indicate that the character can summon more than one type of elemental target. The first type chosen requires a Major Virtue, the others are Minor Virtues. Each type of Summoning must be learned separately, but all three types use the same Art score, so that a character that takes this Virtue three times would only have one Summoning Art, not (Medicinal) Summoning, (Philosophical) Summoning, and (Theurgical) Summoning.
 
-this chapter. Selecting this Virtue gives the
+### New Flaws
 
-character a score of 0 in Summoning. This Virtue may be taken up to three times, to indicate that the character can summon more than one type of elemental target. The first type chosen requires a Major Virtue, the others are Minor Virtues. Each type of Summoning must be learned separately, but all three types use the same Art score, so that a character that takes this Virtue three times would only have one Summoning Art, not (Medicinal) Summoning, (Philosophical) Summoning, and (Theurgical) Summoning.
+>#### Clementalist Flaws
+>
+>**Major, Supernatural**
+>Blatant Cift 
+>Restriction 
+>Study Requirement 
+>Weak Elemental Resistance\*
+>
+>**MINOR, SUPERNATURAL**
+>Cyclic Magic (negative)
+>Deleterious Circumstances
+>Offensive to Animals
+>Slow Caster
+>Susceptibility to Divine Power
+>Susceptibility to Faerie Power
+>Susceptibility to Infernal Power
+>Vulnerable to (Form)\*
+>
+>\* New Flaws
 
-# New Flaws
 
-### Vulnerable to (Form)
+#### Vulnerable to (Form)
 
 Minor, Hermetic or Supernatural
 
@@ -1059,18 +992,15 @@ This Flaw can be taken as a Hermetic Flaw, in which case the magus must subtract
 
 A character may take this Flaw up to four times, as long as a different Form is chosen each time. This Flaw may only be taken if the character has a score in the opposing Form; i.e. to take Vulnerable to Elementalist Fire, he must also have the Elementalist Water Virtue.
 
-### WEAK ELEMENTAL RESISTANCE
+#### WEAK ELEMENTAL RESISTANCE
 
 Major, Hermetic or Supernatural
 
-Perhaps the character views his supernatural association with the four elements as merely academic, or else the character is simply weaker at defending himself against them, but for whatever reason you do not
-
-
-add the character's elemental Personality Traits (Sanguine, Melancholy, Choleric, and Phlegmatic) to his Soak when resisting damage from elemental sources, as described under Elemental Warping, below.
+Perhaps the character views his supernatural association with the four elements as merely academic, or else the character is simply weaker at defending himself against them, but for whatever reason you do not add the character's elemental Personality Traits (Sanguine, Melancholy, Choleric, and Phlegmatic) to his Soak when resisting damage from elemental sources, as described under Elemental Warping, below.
 
 This Flaw can be taken by a magus as a Hermetic Flaw, in which case his Magic Resistance is vulnerable to physical damage appropriate to the elements and all damage from spells associated with Aquam, Auram, Ignem, and Terram. In these circumstances, his Magic Resistance is not increased by his score in the corresponding Form, and his Soak is not increased by his (Form score / 5).
 
-# Clemental Warping
+## Elemental Warping
 
 As an elementalist accumulates Warping, instead of gaining new Virtues and Flaws as described in Ars Magica 5th Edition, he instead becomes even more strongly attuned to the four elements, both mentally and physically. This manifests most strongly in the character's personality, changing his behavior and emotions to correspond to the temperaments indicated by the four elements. This is usually to his detriment, as it leads him into madness and gives the player less control over how his character behaves, but it also draws him into stories and provides him with an interesting direction for developing his character. In addition, it transforms him physically to make him better able to resist those elements.
 
@@ -1080,139 +1010,105 @@ For example, an elementalist with Elementalist Air 4, Elementalist Fire 6, Eleme
 
 Each time the character's Warping Score is increased or one of his Elementalist Forms exceeds a multiple of 5, you should update these Personality Traits.
 
-These Traits also add to the character's Soak whenever he is damaged by the corre-
-
-sponding elements, as described under each of the Arts, later in this chapter. For example, when damaged directly by stone, metal, dirt, earth elementals, or other supernatural creatures made of earth, add the elementalist's Melancholy Trait to his Soak. This does not give elementalists Magic Resistance, but does make them better able to resist physical damage from the elements in the same way as Aguam, Auram, Ignem, and Terram give magi bonuses to their Soak. (This is a variation of the Magical Fortitude power described in the Introduction.) A side effect of this is that characters tend to gain physical qualities of the element in question, much like magi gain Twilight Scars. For example, Phlegmatic character's skin might ripple or reflect images, while a Melancholic character might seem heavier and rumble when he walks.
+These Traits also add to the character's Soak whenever he is damaged by the corresponding elements, as described under each of the Arts, later in this chapter. For example, when damaged directly by stone, metal, dirt, earth elementals, or other supernatural creatures made of earth, add the elementalist's Melancholy Trait to his Soak. This does not give elementalists Magic Resistance, but does make them better able to resist physical damage from the elements in the same way as Aguam, Auram, Ignem, and Terram give magi bonuses to their Soak. (This is a variation of the Magical Fortitude power described in the Introduction.) A side effect of this is that characters tend to gain physical qualities of the element in question, much like magi gain Twilight Scars. For example, Phlegmatic character's skin might ripple or reflect images, while a Melancholic character might seem heavier and rumble when he walks.
 
 While the character is more resistant to physical damage, he likewise becomes more vulnerable to diseases and afflictions associated with the appropriate bodily humors. You must subtract the value of the Trait from the character's Recovery rolls whenever he is suffering from an illness of the corresponding humor. A Trait associated with the opposing element does help the character in this instance; you may also add the value of an opposing Trait to the recovery roll.
 
 For example, if the elementalist in the above example were to contract a phlegmatic disease like flux, be would subtract 2 from his recovery rolls for his Phlegmatic Trait, but add 6 for his Choleric Trait, giving him a total bonus of +4.
 
-The storyguide should use these elemental Traits to draw the elementalist and those
+The storyguide should use these elemental Traits to draw the elementalist and those close to him into stories. If any of these Traits have a score of +3 or more, you should treat them as Minor Personality Flaws that dictate the character's behavior in a limited fashion, like a strange obsession with the associated element or an occasional mood swing. Treat Traits of +6 or more as Major Personality Flaws, behavior that the character often feels compelled to do and which typically override any other desires the character may have. If any of these Traits gain a score of +10 or more, the player no longer has control over the character's actions in any circumstances to which the storyguide decides that the Trait applies — the character has essentially gone mad. Like an elemental set loose without constraints, the character will likely bring about his own end eventually, and probably cause a great deal of destruction in the process.
 
-# Clementalist Flaws
+>#### Elemental Traits
+>
+>Four Personality Traits are used to describe elementalists who have been exposed to Warping: Choleric, Melancholic, Phlegmatic, and Sanguine.
+>
+>**Choleric** (Elementalist Fire): This Trait promotes anger and ire in the character, similar to the Wrathful or Hatred Personality Flaws. It opposes Phlegmatic.
+>
+>**Melancholic** (Elementalist Earth): This Trait represents the character's sorrow and gloom, much as if the character had the Depressed or Reclusive Personality Flaws. It opposes Sanguine.
+>
+>**Phlegmatic** (Elementalist Water): Jealousy and worry are signs of this Trait in a character, like the Personality Flaws Envious or Fear. It opposes Choleric.
+>
+>**Sanguine** (Elementalist Air): Delight and the feeling of being in love are signs of this Trait, perhaps best represented by Personality Flaws like Carefree or Optimistic. It opposes Melancholic.
+>
+>The effects of these Traits on the character's personality never cancel each other out, even if they are associated with elements that are opposed to each other. Characters with balanced Traits will still behave erratically — perhaps favoring one Trait some of the time and other times acting under the influence of another, or maybe harming themselves or lashing out at others they perceive as imbalanced.
 
-Major, Supernatural
-
-Blatant Cift Restriction Study Requirement Weak Elemental Resistance\*
-
-### MINOR, SUPERNATURAL
-
-Cyclic Magic (negative)
-Deleterious Circumstances
-Offensive to Animals
-Slow Caster
-Susceptibility to Divine Power
-Susceptibility to Faerie Power
-Susceptibility to Infernal Power
-Vulnerable to (Form)\*
-
-\* New Flaws
-
-close to him into stories. If any of these Traits have a score of +3 or more, you should treat them as Minor Personality Flaws that dictate the character's behavior in a limited fashion, like a strange obsession with the associated element or an occasional mood swing. Treat Traits of +6 or more as Major Personality Flaws, behavior that the character often feels compelled to do and which typically override any other desires the character may have. If
-
-# Clemental Traits
-
-Four Personality Traits are used to describe elementalists who have been exposed to Warping: Choleric, Melancholic, Phlegmatic, and Sanguine.
-
-Choleric (Elementalist Fire): This Trait promotes anger and ire in the character, similar to the Wrathful or Hatred Personality Flaws. It opposes Phlegmatic.
-
-Melancholic (Elementalist Earth): This Trait represents the character's sorrow and gloom, much as if the character had the Depressed or Reclusive Personality Flaws. It opposes Sanguine.
-
-Phlegmatic (Elementalist Water): Jealousy and worry are signs of this Trait in a character, like the Personality Flaws Envious or Fear. It opposes Choleric.
-
-Sanguine (Elementalist Air): Delight and the feeling of being in love are signs of this Trait, perhaps best represented by Personality Flaws like Carefree or Optimistic. It opposes Melancholic.
-
-The effects of these Traits on the character's personality never cancel each other out, even if they are associated with elements that are opposed to each other. Characters with balanced Traits will still behave erratically — perhaps favoring one Trait some of the time and other times acting under the influence of another, or maybe harming themselves or lashing out at others they perceive as imbalanced.
-
-
-any of these Traits gain a score of +10 or more, the player no longer has control over the character's actions in any circumstances to which the storyguide decides that the Trait applies — the character has essentially gone mad. Like an elemental set loose without constraints, the character will likely bring about his own end eventually, and probably cause a great deal of destruction in the process.
-
-# Clementalist Porms
+## Elementalist Porms
 
 Each of the Forms can potentially affect elementals and other supernatural beings associated with the four elements, the four humors of the body, and animals or other natural phenomena, depending upon the type of Elementalist Techniques with which they are combined. More information about elementals can be found in Realms of Power: Magic, pages 132-139, and the study of medicine and philosophiae is covered in more detail in Art & Academe.
 
-# Clementalist Air
+### Elementalist Air
 
 Elementalist Air is the study of the supernatural qualities of the air, and how these qualities can be manipulated with elemental magic. It is a Difficult Art, as described in the introduction to this book — it increases as an Ability, but is otherwise considered an Art by Virtues and Flaws that affect Arts, and has no applications that are independent of the other Elementalist Arts.
 
 The specific applications of Elementalist Air depend upon the type of Elementalist Technique with which it is paired:
 
-Medicinal: Elemental physicians can affect the sanguine humors of the human body with Elementalist Air, which are typically associated with lightheadedness and diseases of the blood. An example would be quotidian fever.
+**Medicinal**: Elemental physicians can affect the sanguine humors of the human body with Elementalist Air, which are typically associated with lightheadedness and diseases of the blood. An example would be quotidian fever.
 
-Philosophical: Elemental philosophers can use Elementalist Air to affect natural weather phenomena with their powers. They can also affect animals that possess a predominantly sanguine temperament, such as birds.
+**Philosophical**: Elemental philosophers can use Elementalist Air to affect natural weather phenomena with their powers. They can also affect animals that possess a predominantly sanguine temperament, such as birds.
 
-Theurgical: Using Elementalist Air, elemental theurgists can affect air elementals and
-
-### hedge Magic
-
-other creatures with Magic Might associated with Auram. Air elementals tend to have high mental Characteristics, but low physical Characteristics.
+**Theurgical**: Using Elementalist Air, elemental theurgists can affect air elementals and other creatures with Magic Might associated with Auram. Air elementals tend to have high mental Characteristics, but low physical Characteristics.
 
 The character adds his Sanguine Trait to his Soak whenever he is damaged by the element of air, including suffering asphyxiation, inhaling poisonous gases, or being affected by powerful weather phenomena such as winds, hailstones, or lightning.
 
-# Clementalist Carth
+### Elementalist Earth
 
 Elementalist Earth is the study of the supernatural qualities of the earth, learning how to manipulate them with the Elementalist Techniques. It is a Difficult Art. Exactly what the character can do with Elementalist Earth varies, depending upon the type of Elementalist Technique with which it is paired:
 
-Medicinal: Elementalist Earth allows an elemental physician to draw upon his medical knowledge to affect the melancholic humors of the human body. This includes feelings of sadness, or diseases such as constriction.
+**Medicinal**: Elementalist Earth allows an elemental physician to draw upon his medical knowledge to affect the melancholic humors of the human body. This includes feelings of sadness, or diseases such as constriction.
 
-Philosophical: Elemental philosophers can affect the earth and its minerals with their magic, including animals with a melancholic temperament, such as slow-moving animals like cattle or generally docile animals like mice and badgers.
+**Philosophical**: Elemental philosophers can affect the earth and its minerals with their magic, including animals with a melancholic temperament, such as slow-moving animals like cattle or generally docile animals like mice and badgers.
 
-Theurgical: Elemental theurgists can use Elementalist Earth to affect earth elementals and other supernatural beings associated with Terram. Earth elementals generally have high physical Characteristics, but low mental Characteristics.
+**Theurgical**: Elemental theurgists can use Elementalist Earth to affect earth elementals and other supernatural beings associated with Terram. Earth elementals generally have high physical Characteristics, but low mental Characteristics.
 
 The character adds his Melancholy Trait to his Soak whenever he is damaged by the element of earth, including suffocation, injuries by metal or stone weapons, crushing blows, or falling onto solid ground.
 
-# Clementalist Fire
+### Elementalist Fire
 
 Elementalist Fire is a Difficult Art, which involves studying the supernatural qualities of fire, and how to manipulate them with the character's elemental magic. The type of Elementalist Technique with which the character pairs this Form determines what sorts of fire he can affect:
 
+**Philosophical**: Heat and flame is the province of the elemental philosopher with Elementalist Fire, which includes mundane animals with a choleric temperament - generally those that are fast (such as horses) or fierce (such as predators).
 
-Philosophical: Heat and flame is the province of the elemental philosopher with Elementalist Fire, which includes mundane animals with a choleric temperament - generally those that are fast (such as horses) or fierce (such as predators).
-
-Theurgical: Elemental theurgists affect fire elementals and other supernatural creatures associated with heat, light, and flames. Fire elementals typically have high scores in Presence, Communication, Dexterity, and Quickness.
+**Theurgical**: Elemental theurgists affect fire elementals and other supernatural creatures associated with heat, light, and flames. Fire elementals typically have high scores in Presence, Communication, Dexterity, and Quickness.
 
 The character adds his Choleric Trait to his Soak whenever he is damaged by the element of fire, including exposure to extreme temperatures, blinding light, or burning flames.
 
-# Clementalist Water
+### Elementalist Water
 
 Elementalist Water is the study of the supernatural qualities of water, and how they can be manipulated with elemental magic. It is a Difficult Art. The form of the targets that the elementalist can affect with this Elementalist Form depends upon the type of Technique with which it is paired:
 
-Medicinal: Elemental physicians can affect the phlegmatic humors of the human body with their Elementalist Arts. These humors are associated with slow, listless feelings and wet, phlegmatic diseases such as flux.
+**Medicinal**: Elemental physicians can affect the phlegmatic humors of the human body with their Elementalist Arts. These humors are associated with slow, listless feelings and wet, phlegmatic diseases such as flux.
 
-Philosophical: The elemental philosopher affects all sorts of natural liquids with Elementalist Water, and can also affect animals with a phlegmatic temperament, which includes those that swim like fish or creep like reptiles.
+**Philosophical**: The elemental philosopher affects all sorts of natural liquids with Elementalist Water, and can also affect animals with a phlegmatic temperament, which includes those that swim like fish or creep like reptiles.
 
-Theurgical: Elementalist Water allows an elemental theurgist to affect water elementals and other supernatural creatures associated with cold and liquids. Water elementals typically have high scores in Cunning, Perception, Strength, and Stamina.
+**Theurgical**: Elementalist Water allows an elemental theurgist to affect water elementals and other supernatural creatures associated with cold and liquids. Water elementals typically have high scores in Cunning, Perception, Strength, and Stamina.
 
 The character adds his Phlegmatic trait to his Soak when he is damaged by the element of water, including suffering from thirst, drowning, drinking poisonous liquids, falling against water, or being crushed by powerful waves.
 
-
-# areas Clementalist Techniques
+## Elementalist Techniques
 
 The four Elementalist Techniques are Summoning, Controlling, Divining, and Refining. Each Technique is used with a particular Characteristic, and combined with an Elementalist Form to affect a type of target (Medicinal, Philosophical, or Theurgical), which is noted as part of the Virtue that grants the character the Technique. For example, a character who can summon elementals would have the (Theurgical) Summoning Virtue.
 
-# Summoning
+### Summoning
 
 Summoning is the art of drawing elements from the surrounding area, often drawing them into a prepared shape or medium. Some elementalists might call this an incorrect description of their powers, since it may seem to them that they create these elements from nothing rather than bringing them to the caster from somewhere else. However, the basic principle is that the four elements are all part of nature, and so may always be found nearby and used to produce a supernatural effect.
 
 Summoning relies upon the character's Stamina, his score in Summoning added to the appropriate Elementalist Form, plus the local aura anda stress die roll. This procedure always costs the elementalist a long-term Fatigue level, and takes anywhere from a few minutes to several hours, depending on the proximity of the summoned target. If successful, the target will appear directly beside the elementalist, within his immediate reach.
 
-SUMMONING TOTAL: stress die + Stamina + Summoning + (Form) + aura
+**SUMMONING TOTAL:** stress die + Stamina + Summoning + (Form) + aura
 
 This is compared to the following chart to determine the maximum Size and Might of the target. The Total must always be great enough to affect both the Size and Might of the target.
 
-For example, a target of Size —6 and Might 20 would need a Summoning Total of 20 because of its Might, while another the size ofa warborse (+3) with only Might 5 would still require a Summoning Total of 20 because of its Size. A Summoning Total of 10 can only affect a target as large as a cat (—3) with a Might Score of 10 or less, for instance.
-
-# Inedge Magic
+*For example, a target of Size —6 and Might 20 would need a Summoning Total of 20 because of its Might, while another the size ofa warborse (+3) with only Might 5 would still require a Summoning Total of 20 because of its Size. A Summoning Total of 10 can only affect a target as large as a cat (—3) with a Might Score of 10 or less, for instance.*
 
 | — MicHr | Size | Note                     |
 |---------|------|--------------------------|
 | 0       | —21  | nonexistent              |
 | 1       | —18  | too small to perceive    |
-| 2       | -—15 | insect, kernel of grain  |
-|         |      | baby mouse, 10 insects   |
+| 2       | —15  | insect, kernel of grain  |
+|   3     | -12  | baby mouse, 10 insects   |
 | 4       | —9   | bat, frog                |
 | 5       | —6   | lizard, stoat            |
-| 10      |      | badger, cat              |
+| 10      | -3   | badger, cat              |
 | 15      | O    | adult, ten cats          |
 | 20      | +3   | war horse, ten adults    |
 | 25      | -6   | killer whale, 100 adults |
@@ -1222,13 +1118,12 @@ For example, a target of Size —6 and Might 20 would need a Summoning Total of 
 | 40      | +15  | village, storm           |
 | 45      | +18  | city, river              |
 | 50      | +21  | mountain, sea            |
-|         |      | 3-12<br>. —3             |
 
 Summoning may be used in one of three different ways, depending upon the type of elemental magic the character learned: Medicinal, Philosophical, or Theurgical (see later).
 
 The elementalist may attempt to include multiple elements when Summoning, as long as he possesses all of the Forms used in the formula.
 
-For example, an elemental philosopher with Elementalist Air and Elementalist Fire might want to summon an animal with either or both a sanguine or choleric temperament. Use the lower of his two Form scores (Elementalist Air or Elementalist Fire in this case) to determine if be is successful. If this would summon one of several different targets that fit both criteria (for example, there are both sanguine and choleric animals nearby, but no animals that are both sanguine and choleric), the results should favor the element in which he bas a higher score.
+*For example, an elemental philosopher with Elementalist Air and Elementalist Fire might want to summon an animal with either or both a sanguine or choleric temperament. Use the lower of his two Form scores (Elementalist Air or Elementalist Fire in this case) to determine if be is successful. If this would summon one of several different targets that fit both criteria (for example, there are both sanguine and choleric animals nearby, but no animals that are both sanguine and choleric), the results should favor the element in which he bas a higher score.*
 
 The elementalist may prepare a magical container for his target, if he wishes, by tracing the perimeter of the area in which the target will be held. Summoning circles drawn into the floor are very common containers, though jars and bottles are also used often as they are more transportable. Like a magus drawing a ring (see ArM5 page 112), a magical container may require the elementalist to maintain concentration while performing the summoning, but doing so ensures that the summoned target cannot leave the area for as long as the boundary is undisturbed. If the seal is broken, either by opening the container or breaking the circle, the target of the summoning is free to go wherever it desires. However, as long as the elementalist has a bound captive, he does not recover the long-term Fatigue levels spent to summon it. Thus, elementalists rarely bind more than two or three targets at a time.
 
@@ -1236,38 +1131,36 @@ A summoning container also makes it easier for the elementalist to affect a summ
 
 Botching the summoning roll means the elementalist has lost control of his power. The summoned being may appear but without any safeguards, or a different sort of being (such as an angel or demon) is attracted instead. Or, perhaps the elementalist simply channeled too much elemental power through himself, and his bodily humors become imbalanced, making him sick or injured.
 
-### MEDICINAL
+#### MEDICINAL
 
 With medicinal magic, the character can use Summoning to alter the humors in a human body, curing diseases and resolving crises. This might be seen as summoning the necessary humors to restore the body to its natural equilibrium, though this has no effect on wounds that were not caused by deprivation, disease, or aging. Summoning can also imbalance the humors enough to causea disease, drawing the humors out of the body instead. The elemental physician must touch the target, and if you are using the disease rules found in Art « Academe, the Summoning Total determines the strength of the disease that is caused or cured. Otherwise, a Summoning Total that corresponds to the Size of the target (as listed on the chart above) affects a disease that is equivalent to a Light wound ora minor illness; one magnitude more affects a disease equivalent to a Medium wound or a serious illness, two magnitudes more for a Heavy wound or a major illness, and three magnitudes more for an Incapacitating wound or critical illness. The Elementalist Form used in the Summoning Total should be the Form that best corresponds to the type of sickness, and this effect must penetrate the target's Magic Resistance, if any.
 
-we Fs
+#### PHILOSOPHICAL
 
-Le
+The elemental philosopher conjures natural phenomena (wind, flame) or base matter (earth, water) of the appropriate element(s) from the surrounding area, of an amount no more than the Size indicated by the Summoning Total on the chart earlier, to a place within his immediate reach. Additional magnitudes summon more-dangerous phenomena (increasing air and fire Damage by +5) or more-substantial matter (stone and ice, and then harder or colder materials). These summoned materials are always wild and untreated, and the elementalist has no control over their shape. For example, a Summoning Total of 5 using Elementalist Earth might summon enough silver to make a coin, but it would probably appear as a pile of shavings rather than a single lump.
 
-### PHILOSOPHICAL
+The elemental philosopher can also summon living animals that are native to the area and have a dominant temperament (choleric, melancholic, phlegmatic, or sanguine) appropriate to the element used in the summoning. The character can even summon a group of animals, so long as their collective size does not exceed the Size listed for the Summoning Total on the chart above, and as long as the sum of their Might Scores does not exceed the Might indicated for the level of the effect on the chart. If any of the summoned animals have Magic Resistance, the effect must penetrate.
 
-The elemental philosopher conjures natural phenomena (wind, flame) or base matter
+>#### Story Seed: Vengeful Flames
+>During a pitched battle, an elemental theurgist summons a horde of fire elementals to attack the opposing army. These creatures soon rampage out of control, gravely wounding the elementalist and wreaking havoc in the surrounding area. These elementals could threaten the player characters' covenant, physically or perhaps even politically when the lords of the opposing army call for wizards of their own to retaliate in kind.
 
+#### THEURGICAL
 
+The elemental theurgist can bring an elemental into being from an amount of pure base material, such as unworked stone, fresh water, or a natural breeze. The Summoning Total determines the being's maximum Might, based on the Size of the materials at hand, as shown on the chart. For example, a Summoning Total of 15 could potentially summon an earth elemental with Magic Might 15 from a man-sized pile of earth. You can use the rules in Realms of Power: Magic to design this elemental, or else simply assign it stats and powers that seem appropriate to its Size and Form an earth elemental with Might 20 might have two Terram powers and 20 points of physical Characteristics, and an air elemental with Might 15 could have one Auram power and 15 points of mental Characteristics. Elementals are permanently summoned, but do not recover their Might Points over time unless they consume vis, and revert to their natural form when all of their Might Points have been spent, leaving no vis behind. (See the Summoning Elementals sidebar for more details.)
 
-During a pitched battle, an elemental theurgist summons a horde of fire elementals to attack the opposing army. These creatures soon rampage out of control, gravely wounding the elementalist and wreaking havoc in the surrounding area. These elementals could threaten the player characters' covenant, physically or perhaps even politically when the lords of the opposing army call for wizards of their own to retaliate in kind.
+>#### Summoning Elementals
+>
+>When Summoning is used with Elemental Magic, an elemental is essentially brought into being from an appropriate amount of base material. As noted above, this summoning lasts indefinitely, though the elementals are actually temporary and do not recover Might Points over time like other supernatural beings. When the Might Pool of one of these elementals is empty, it ceases to be an elemental at all and returns to its natural form, and does not leave behind any vis. That is, an elemental that was summoned from a pile of earth becomes a normal pile of earth again.
+>
+>A summoned elemental's spent Might can be restored by feeding it vis: each pawn an elemental consumes returns 5 points of Might to it. Most elementals prefer to consume vis of the Elementalist Form opposed to their own, rather than that of their own Form — i.e. fire elementals generally seek out Aquam vis, and disdain Ignem vis. This might be seen as a kind of predatory instinct to hunt the element that is most different from them, and a supernatural taboo against eating their own kind. However, elementals will readily consume vis of any type if they are hungry (that is, they have spent some of their Might) and it is easily accessible.
+>
+>Elementals are generally wild and unbiddable, like a force of nature unleashed. If not held within a container, it is nearly certain that an elemental will attempt to destroy whatever comes into its path, even the elementalist who summoned it. They cannot be reasoned with, and while Magic Resistance can protect the character against an elemental's powers, it does not protect against its physical attacks. Magi and elementalists typically have a Soak bonus that gives them some protection, but it is generally too dangerous to just summon up an elemental without any safeguards against it.
 
-(earth, water) of the appropriate element(s) from the surrounding area, of an amount no more than the Size indicated by the Summoning Total on the chart earlier, to a place within his immediate reach. Additional magnitudes summon more-dangerous phenomena (increasing air and fire Damage by +5) or more-substantial matter (stone and ice, and then harder or colder materials). These summoned materials are always wild and untreated, and the elementalist has no control over their shape. For example, a Summoning Total of 5 using Elementalist Earth might summon enough silver to make a coin, but it would probably appear as a pile of shavings rather than a single lump.
-
-The elemental philosopher can also sum-
-
-mon living animals that are native to the area and have a dominant temperament (choleric, melancholic, phlegmatic, or sanguine) appropriate to the element used in the summoning. The character can even summon a group of animals, so long as their collective size does not exceed the Size listed for the Summoning Total on the chart above, and as long as the sum of their Might Scores does not exceed the Might indicated for the level of the effect on the chart. If any of the summoned animals have Magic Resistance, the effect must penetrate.
-
-### THEURGICAL
-
-The elemental theurgist can bring an elemental into being from an amount of pure base material, such as unworked stone, fresh water, or a natural breeze. The Summoning Total determines the being's maximum Might, based on the Size of the materials at hand, as shown on the chart. For example, a Summoning Total of 15 could potentially summon an earth elemental with Magic Might 15 from a man-sized pile of earth. You can use the rules in Realms of Power: Magic to design this elemental, or else simply assign it stats and powers that seem appropriate to its Size and Form an earth elemental with Might 20 might have two Terram powers and 20 points of physical Characteristics, and an air elemental with Might 15 could have one Auram power and
-
-
-# Controlling
+### Controlling
 
 The Controlling Art allows an elementalist to dictate the behavior of the targets he summons with his Summoning power, or to affect appropriate targets he encounters. It depends upon the character's Presence, and always costs him a Fatigue level, though not long term. The elementalist must gesture and speak an arcane incantation to a target within range of his voice, which takes him a single round to perform. Then the player makes a roll using the following formula to determine if he is successful:
 
-CONTROLLING TOTAL stress die + Presence + Controlling + (Form) + aura
+**CONTROLLING TOTAL:** stress die + Presence + Controlling + (Form) + aura
 
 This effect must penetrate any Magic Resistance possessed by the target, although if the target has been summoned and successfully bound into a ring or container using the Summoning Art, treat the level of a successful Controlling effect as if it were 0 and apply the entire Controlling Total toward penetration.
 
@@ -1277,93 +1170,68 @@ It is possible to control an unbound target, but much more difficult.
 
 Controlling may be used in three different ways, depending upon the type of magic associated with the Virtue.
 
-### MEDICINAL
+#### MEDICINAL
 
-The elemental physician can control the emotions of human beings by manipulating the bodily humors, inspiring or suppressing specific emotions associated with the appropriate element. The strength of this emotion depends upon the strength of the Controlling Total, but it is roughly equivalent to a Personality Trait with a positive or negative value of (Controlling Total / 10), rounded
-
-# Summoning Glementals
-
-When Summoning is used with Elemental Magic, an elemental is essentially brought into being from an appropriate amount of base material. As noted above, this summoning lasts indefinitely, though the elementals are actually temporary and do not recover Might Points over time like other supernatural beings. When the Might Pool of one of these elementals is empty, it ceases to be an elemental at all and returns to its natural form, and does not leave behind any vis. That is, an elemental that was summoned from a pile of earth becomes a normal pile of earth again.
-
-A summoned elemental's spent Might can be restored by feeding it vis: each pawn an elemental consumes returns 5 points of Might to it. Most elementals prefer to consume vis of the Elementalist Form opposed to their own, rather than that of their own Form — i.e. fire elementals generally seek out Aquam vis, and
-
-disdain Ignem vis. This might be seen as a kind of predatory instinct to hunt the element that is most different from them, and a supernatural taboo against eating their own kind. However, elementals will readily consume vis of any type if they are hungry (that is, they have spent some of their Might) and it is easily accessible.
-
-Elementals are generally wild and unbiddable, like a force of nature unleashed. If not held within a container, it is nearly certain that an elemental will attempt to destroy whatever comes into its path, even the elementalist who summoned it. They cannot be reasoned with, and while Magic Resistance can protect the character against an elemental's powers, it does not protect against its physical attacks. Magi and elementalists typically have a Soak bonus that gives them some protection, but it is generally too dangerous to just summon up an elemental without any safeguards against it.
-
-
-
+The elemental physician can control the emotions of human beings by manipulating the bodily humors, inspiring or suppressing specific emotions associated with the appropriate element. The strength of this emotion depends upon the strength of the Controlling Total, but it is roughly equivalent to a Personality Trait with a positive or negative value of (Controlling Total / 10), rounded up. For example, a Controlling Total using Elementalist Water of 25 would inspire a +3 Phlegmatic Trait in the person (see Elemental Traits, above, for a description of how this would cause the person to behave). This effect lasts until the target eats and sleeps, as if that person were recovering from long-term fatigue. If the effect must penetrate Magic Resistance, the elementalist must decide the strength of the Trait he wishes to inspire before his Penetration Total is calculated.
 
 Elemental physicians can also issue commands (such as "begone!") to supernatural creatures that have become part of a human body, such as disease spirits or possessing demons, in the same way that an elemental theurgist can command elemental beings. The physician's Controlling Total must exceed the Might of the target on the Summoning chart, and he must use his lowest of his scores in the four Elementalist Forms for the formula.
 
-### PHILOSOPHICAL
+>#### Story Seed: The Bishop's Physician
+>
+>The bishop in a nearby city has recently taken ill, but has hired a marvelous doctor who removes his pain merely by laying hands upon his chest. Word of this miraculous cure has begun to spread through the region, and though the bishop has not yet fully recovered, many are suggesting that his physician is a holy man. In fact, the true story is that the doctor is an elemental physician who can magically manipulate the humors in an ailing person to make him feel happy and fit, but must rely on his (nonexistent) knowledge of mundane medicine to actually treat the illness. So far the bishop has been lucky, in that his illness has not worsened, but he will soon die unless someone with more-substantial medical knowledge (or magic) helps him.
+
+#### PHILOSOPHICAL
 
 An elemental philosopher can affect the motion of natural materials with the appropriate element, or organic materials using his lowest Form as a requisite. This allows him to increase his Soak against a particular type of damage, potentially beyond the bonus he receives naturally. He may add his (Controlling Total / 5) to his Soak against the target material for as long as he maintains concentration, a minimum of one combat round.
 
 The elemental philosopher can also give commands to animals of a temperament appropriate to the element used, just like an elemental theurgist does with elemental beings, as long as his Controlling Total exceeds both the Size and Might of the animal on the Summoning chart. (See Elementalist Forms, earlier in this chapter, for some examples of animal temperaments for each element.)
 
-### THEURGICAL
+#### THEURGICAL
 
-The elemental theurgist can affect supernatural creatures with Might of the Form appropriate to the element used, assuming he can equal or exceed the being's Might on his Controlling roll. If he succeeds, the target must carry out a single command to the best of its ability. This can also be used to banish an elemental permanently. If it is held within a container, the elemental may leave while it is about this task, but must immediately return once the command has been fulfilled. According to legend, the earliest elemental theurgists
+The elemental theurgist can affect supernatural creatures with Might of the Form appropriate to the element used, assuming he can equal or exceed the being's Might on his Controlling roll. If he succeeds, the target must carry out a single command to the best of its ability. This can also be used to banish an elemental permanently. If it is held within a container, the elemental may leave while it is about this task, but must immediately return once the command has been fulfilled. According to legend, the earliest elemental theurgists would summon elementals into magic jars, and command them to obey the wishes of the person who released them, making them princely gifts. However, to take advantage of this legend, other elementalists would sometimes command the elementals inside such containers to kill the person who freed them instead, to punish thieves and meddlers.
 
+### Divining
 
-would summon elementals into magic jars, and command them to obey the wishes of the person who released them, making them princely gifts. However, to take advantage of this legend, other elementalists would sometimes command the elementals inside such containers to kill the person who freed them instead, to punish thieves and meddlers.
+Through Divining, an elementalist can locate and commune with the elements and elemental targets, with an Art based on his natural Perception. Unlike Summoning and Controlling, Divining does not cost the character a Fatigue level.
 
-# Divining
+This power has two effects. Firstly, it allows the elementalist to sense if an appropriate target is within about a hundred paces of him, and the approximate direction and distance to the target, for as long as he concentrates. This requires only that his Divining Total exceeds the value corresponding to the target's Size on the Summoning chart, and does not need to penetrate the target's Magic Resistance. Secondly, as long as he is touching an appropriate target, he can intuitively understand its circumstances and situation, and mentally communicate with it on a fundamental level. To succeed at this, his Divining Total must exceed the values corresponding to both the target's Size and Might on the Summoning chart, and he must penetrate the target's Magic Resistance. However, if the target was summoned into a container with the Summoning Art, as described earlier, treat the effect level as 0 when calculating the elementalist's Penetration Total, rather than using the value derived from Size and Might.
 
-Through Divining, an elementalist can locate and commune with the elements and
-
-elemental targets, with an Art based on his natural Perception. Unlike Summoning and Controlling, Divining does not cost the character a Fatigue level.
-
-This power has two effects. Firstly, it allows the elementalist to sense if an appropriate target is within about a hundred paces of him, and the approximate direction and distance to the target, for as long as he concentrates. This requires only that his Divining Total exceeds the value corresponding to the target's Size on the Summoning chart, and does not need to penetrate the target's Magic Resistance. Secondly, as long as he is touching an appropriate target, he can intui-
-
-# Story Seed: The Bishop's Physician
-
-The bishop in a nearby city has recently taken ill, but has hired a marvelous doctor who removes his pain merely by laying hands upon his chest. Word of this miraculous cure has begun to spread through the region, and though the bishop has not yet fully recovered, many are suggesting that his physician is a holy man. In fact, the true story is that the doctor is an elemental
-
-physician who can magically manipulate the humors in an ailing person to make him feel happy and fit, but must rely on his (nonexistent) knowledge of mundane medicine to actually treat the illness. So far the bishop has been lucky, in that his illness has not worsened, but he will soon die unless someone with more-substantial medical knowledge (or magic) helps him.
-
-
-tively understand its circumstances and situation, and mentally communicate with it on a fundamental level. To succeed at this, his Divining Total must exceed the values corresponding to both the target's Size and Might on the Summoning chart, and he must penetrate the target's Magic Resistance. However, if the target was summoned into a container with the Summoning Art, as described earlier, treat the effect level as 0 when calculating the elementalist's Penetration Total, rather than using the value derived from Size and Might.
-
- $\begin{array}{c} D_{\text{IVINING}} \ T_{\text{OTAL}};\\ stress\ die\ +\ Perception\ +\ Divining\\ +\ (Form)\ +\ aura \end{array}$ 
+**Divining Total:** stress die + Perception + Divining + (Form) + aura
 
 An elementalist can use Divining of any type to locate vis associated with a particular element, and can determine how much of it is present in an object by touch. Other targets that this power allows him to sense depend upon his background.
 
 The elementalist can include more than one element in his Divining Total, if he has a score in two or more Elementalist Forms. For example, an elemental theurgist might attempt to locate all air or water elementals, using both Elementalist Air and Elementalist Water. He must apply his score in the lower Form to his Divining Total, but otherwise can sense appropriate targets of either type.
 
-### MEDICINAL
+#### MEDICINAL
 
 The elementalist can recognize when living creatures have imbalanced humors. He can sense illnesses, automatically diagnosing disease and sickness associated with a particular humor (blood, black bile, yellow bile, or phlegm). By regularly ministering to an injured or afflicted target for the whole of the recovery period, the elementalist can mentally communicate with the person's body, the special insights of which allow him to treat his (Divining Total / 5) as magical aid for the purposes of the target's recovery roll (see ArM5, page 179).
 
-### PHILOSOPHICAL
+#### PHILOSOPHICAL
 
-The elementalist can sense natural materials associated with a Form, even recognizing their particular qualities such as weight and shape, as well as locate and communicate with animals of the appropriate temperament. For example, using Elementalist Earth, an elemental philosopher could seek out a large amount of gold or silver in the
+The elementalist can sense natural materials associated with a Form, even recognizing their particular qualities such as weight and shape, as well as locate and communicate with animals of the appropriate temperament. For example, using Elementalist Earth, an elemental philosopher could seek out a large amount of gold or silver in the surrounding area, or understand the thoughts and memories of an animal with a melancholic temperament by touching it.
 
-surrounding area, or understand the thoughts and memories of an animal with a melancholic temperament by touching it.
-
-### THEURGICAL
+#### THEURGICAL
 
 The elementalist can sense beings with Might associated with the appropriate element in the general region. He can tell the approximate distance and direction to the target, and he can mentally communicate with it by touching it or the container in which it is held. If the being is intelligent, the two of them can converse for as long as the elementalist maintains concentration. If it is not intelligent, the elementalist can perceive past events as the being saw them, or as experienced by the raw materials that the creature animates.
 
-# Story Seed: The Right to Vis
+>#### Story Seed: The Right to Vis
+>
+>One of a covenant's vis sources comes up dry after a wandering elementalist locates it and clears it out, to help him with his magical activities. To recover what is theirs, the magi must track him down and convince him to recognize their claim to what he took. To complicate matters, by the time they catch up with him the elementalist has already spent the vis.
 
-One of a covenant's vis sources comes up dry after a wandering elementalist locates it and clears it out, to help him with his magical activities. To recover what is theirs, the magi must track him down and convince him to recognize their claim to what he took. To complicate matters, by the time they catch up with him the elementalist has already spent the vis.
-
-# Refining
+### Refining
 
 The Refining Art allows the elementalist to improve the target by purifying the natural material of which it is composed, or to break it down by combining elements that are naturally opposed. This takes a season of effort, much like a Hermetic laboratory activity, and requires some sort of workshop or laboratory in which the elementalist can work his magic. Instead of Magic Theory, elementalists use an Ability that is associated with the type of Refining they practice. During the season, the elementalist and his target must cooperate, or else the target must be held within a magical container into which it was summoned with the Summoning Art, as described earlier.
 
-REFINING TOTAL:
-Intelligence + (associated Ability)
-+ Refining + (Form) + aura
+**REFINING TOTAL:** Intelligence + (associated Ability) + Refining + (Form) + aura
 
+Using the Refining Art often yields raw vis, and this is typically associated with the Form corresponding to the Elementalist Form used to affect the target. For example, Elementalist Water yields what magi would 
+call Aquam vis, and Elementalist Fire produces Ignem vis.
 
 An elementalist with the Refining Art can use vis to make himself a kind of potion that is similar to a Hermetic longevity ritual. The potion gives him a bonus to his Aging rolls equal to his (Refining Total /5), including his lowest Elementalist Form as a requisite, which lasts until he suffers an Aging crisis. This potion takes a season to make, and costs a number of pawns of vis equal to his (age /5), rounded up. For example, a 50-year-old elementalist would need to spend ten pawns of vis of any Form he possesses. Note that an elementalist can only spend as much vis as the sum of his scores in the Elementalist Forms.
 
 Other targets for the character's Refining Art depend upon his background, as described by the type of Refining Virtue that he possesses.
 
-### MEDICINAL
+#### MEDICINAL
 
 The elemental physician can make the longevity potion for other human beings as well as himself, and adds his Medicine to his Refining Totals.
 
@@ -1381,8 +1249,7 @@ In addition, the elemental physician can make a potion that increases the vigor 
 |         | Strength, or Stamina          |
 
 
-
-# areas PHILOSOPHICAL
+#### PHILOSOPHICAL
 
 Like magi, an elemental philosopher may extract vis from a magical aura, producing his (Refining Total / 10) in vis associated with the appropriate one of the four elements. He can also affect supernatural animals of the appropriate temperament with his Refining Art, increasing or decreasing their Might in the same way an elemental theurgist affects supernatural beings. This process produces a pawn of vis of the appropriate Form for each five points in the character's Refining Total, but no more than (the target's Might Score / 5).
 
@@ -1390,23 +1257,21 @@ An elemental philosopher may also move vis from one object to another. To do thi
 
 Philosophical Refining also allows an elemental philosopher to use vis associated with any Art in his elemental magic, and he adds his Philosophiae to his Refining Totals.
 
-### 'THEURGICAL
+#### THEURGICAL
 
 Refining allows the elemental theurgist to restore Might to a supernatural being, or else to drain it of its Might in the form of raw vis. If the Refining Total is greater than the affected elementals Might Score, note the amount by which it is exceeded. If the Elementalist Form used in the Refining Total corresponds to the Form of the elemental's Might, this is the number of Might Points restored to it. If the Form used is directly opposed to the Form of the affected elemental (air vs. earth, fire vs. water), this amount is subtracted from its Might Pool. Otherwise, half this many Might Points (rounded down) are either added to or subtracted from its Might Pool over the course of the season.
 
-If the being would gain more Might Points than it can have in its Might Pool, or if it loses some of its Might Points, raw vis forms in the material animated by the being, 1 pawn for every 5 Might Points given, but no more than its (Might Score divided by 5). This usually appears as condensation or dust inside of the container in which the being is held, or else manifests as pieces of the being
-
-that separate from it during the Refining (i.e. mist, ash, moisture, or dirt).
+If the being would gain more Might Points than it can have in its Might Pool, or if it loses some of its Might Points, raw vis forms in the material animated by the being, 1 pawn for every 5 Might Points given, but no more than its (Might Score divided by 5). This usually appears as condensation or dust inside of the container in which the being is held, or else manifests as pieces of the being that separate from it during the Refining (i.e. mist, ash, moisture, or dirt).
 
 The elemental theurgist adds (Realm) Lore, of the same realm as the target, to his Refining Totals.
 
-# rN torySeed:- Fhe Criienalece Cut in half
+>#### Sory Seed: The Elementalist Cut in Half
+>
+>An issue is brought to Tribunal, where two rival covenants argue that the other has broken the Code. The first covenant had an unGifted hedge wizard living with them (an elemental philosopher), who they kept busy making vis for them every season. A member of the second covenant, while visiting the first covenant, met this hedge wizard and offered him membership in the Order of Hermes; He accepted, swearing the Oath on the spot. Members of the first covenant refused to allow the elementalist to leave with the magus, and killed the hedge wizard during the confrontation. The visiting magus subsequently brought charges against the covenant for slaying a member of the Order. Members of the first covenant brought charges against that magus for depriving them of their magical property.
+>
+>The essential questions for the Tribunal in the first case are whether simply swearing the Oath is enough to make a wizard a member of the Order of Hermes, as the second covenant maintains; or whether it requires something more, such as ratification by a Quaesitor, as is the position of the first covenant. For the second case, the Tribunal will need to decide if a member of a covenant can be considered to be that covenant's property, and whether endangering that person constitutes depriving the covenant of its magical power.
 
-An issue is brought to Tribunal, where two rival covenants argue that the other has broken the Code. The first covenant had an unGifted hedge wizard living with them (an elemental philosopher), who they kept busy making vis for them every season. A member of the second covenant, while visiting the first covenant, met this hedge wizard and offered him membership in the Order of Hermes; He accepted, swearing the Oath on the spot. Members of the first covenant refused to allow the elementalist to leave with the magus, and killed the hedge wizard during the confrontation. The visiting magus subsequently brought charges against the covenant for slaying a member of the Order. Members of the first covenant brought charges against that magus for depriving them of their magical property.
-
-The essential questions for the Tribunal in the first case are whether simply swearing the Oath is enough to make a wizard a member of the Order of Hermes, as the second covenant maintains; or whether it requires something more, such as ratification by a Quaesitor, as is the position of the first covenant. For the second case, the Tribunal will need to decide if a member of a covenant can be considered to be that covenant's property, and whether endangering that person constitutes depriving the covenant of its magical power.
-
-# Glementalist Socictics
+## Elementalist Societics
 
 Many elementalists belong to elementalist societies, which are groups of likeminded elementalists who have the same general ideas and practices, and so can more easily share their knowledge with others. Each society teaches particular Elementalist Techniques and Forms, which can then be learned like any other Arts. To learn other Techniques (or Forms, although most societies teach all four Forms) the elementalist must be initiated through a Mystery Cult.
 
@@ -1418,24 +1283,15 @@ The Arts associated with a society also indicate the Virtues into which that soc
 
 A society generally favors only two Techniques and the four Forms; below are three examples of elementalist societies that could be found in Mythic Europe in 1220.
 
-A
+### Apostiles Apollonius
 
-\e
-
-# Alpostics of Alpollonius
-
-Arts: (Theurgical) Summoning, (Theurgical) Controlling, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
+**Arts**: (Theurgical) Summoning, (Theurgical) Controlling, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
 
 The first elementalists were ancient sorcerers who were influenced by the philosophy of Greek teachers like Empedocles, Galen, and Pythagoras. Instead of using their powers to summon the spirits of the underworld, they turned to the magic of nature and the fundamental laws that defined their world. By drawing forth the magical qualities of natural objects, they brought into existence those beings that magi would later call elementals. By taming and shrewdly applying the powers of these strange creatures, these elemental summoners were able to perform amazing feats.
 
+Many elementalists believe that the first of these summoners was Apollonius of Tyana, a miracle worker who reportedly lived in the first century AD. They hold that it was he and his followers who originally developed the Elementalist Arts, uniting the common ideas of four different kinds of magic from the four corners of the ancient world, as described by his biographer Flavius Philostratus at the end of the third century in this (condensed) summary:
 
-Many elementalists believe that the first of these summoners was Apollonius of Tyana, a miracle worker who reportedly lived in the first century AD. They hold that it was he and his followers who originally developed the Elementalist Arts, uniting the common ideas of four different kinds of magic from the four corners of the ancient world, as described by his biographer Flavius Philostratus at the end of the third century in
-
-this (condensed) summary:
-
-Apollonius of Tyana was well-born and well-educated, and as a young man he learned the mysteries of the Pythagorean cults, the magical abilities of Babylonian wizards, and the wisdom of holy men from further east, before forming a circle of his own followers in Asia Minor. He lived as an itinerant philosopher and miracle worker, going from temple to temple along the coasts of northern Syria, Anatolia, and Greece. He traveled through Rome and into Iberia during the last
-
-years of Nero, and in 69 AD he sailed to Alexandria and Upper Egypt, where he met with a community of supernatural ascetics. In 93 he returned to Rome to face charges of magic and sedition. He reportedly vanished from the courtroom and reappeared in Greece, where he continued his life of wandering until his death in 96.
+*Apollonius of Tyana was well-born and well-educated, and as a young man he learned the mysteries of the Pythagorean cults, the magical abilities of Babylonian wizards, and the wisdom of holy men from further east, before forming a circle of his own followers in Asia Minor. He lived as an itinerant philosopher and miracle worker, going from temple to temple along the coasts of northern Syria, Anatolia, and Greece. He traveled through Rome and into Iberia during the last years of Nero, and in 69 AD he sailed to Alexandria and Upper Egypt, where he met with a community of supernatural ascetics. In 93 he returned to Rome to face charges of magic and sedition. He reportedly vanished from the courtroom and reappeared in Greece, where he continued his life of wandering until his death in 96.*
 
 From this account, Apollonius' followers believe that they can trace the roots of elemental philosophiae to Greek and Roman mystery cults, elemental magic to ancient Babylonian wizards and wise men from the Far East, and advances in magical medicine to the people of Egypt and Northern Africa. According to them, it is because of Apollonius that the Elementalist Arts exist and are more or less compatible with each other.
 
@@ -1443,201 +1299,180 @@ Because these hedge wizards are predominantly ascetic and generally free of paga
 
 In 1220, the Apostles of Apollonius are rare, but can be found anywhere in Mythic Europe. Their magical influence is probably strongest in the eastern Mediterranean region, in the wild areas between the Levant and Theban Tribunals where theurgical magic is more common. There is also said to be a group of them living in a small village in the Greater Alps, in the region near the Cave of Twisting Shadows, where they are supported by some of the Criamon magi who reside there. They are generally regarded as magical curiosities — worthy companions to magi, but certainly no threat to the dominance of the Order of Hermes.
 
-# Clisavet ("Psychorrhax")
+>#### Elisavet ("Psychorrhax")
+>
+>Characteristics: Int 0, Per -1, Pre +2, Com -1, Str -1, Sta +2, Dex -2, Qik -2
+>
+>Size: 0 Age: 51
+>
+>Decrepitude: 1 (6) Confidence Score: 1 (3) Warping Score: 3 (0)
+>
+>Virtues and Flaws: Outcast, (Theurgical) Controlling, (Theurgical) Summoning, Affinity with Controlling, Educated, Elementalist Air, >Meddler (major), Plagued by Supernatural Being, Infamous, Vulnerable to Elementalist Earth
+>
+>Personality Traits: Sanguine +5, Cruel +3, Lonely +3
+>
+>Reputations: Witch 4 (sailors)
+>
+>Combat:
+>
+>Dodge: Init -2, Atk n/a, Dfn -2, Dam n/a Soak: +2 (+7 vs. air, -5 vs. earth,)
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Apostles of Apollonius Lore 1 (initiation rituals), Artes Liberales 3 (reading), Awareness 3 (sounds), Concentration 3 (maintaining control), Greek 5 (asking questions), Guile 3 (acting naive), Latin 4 (in writing), Magic Lore 4 (elementals), >Mediterranean Sea Lore 4 (ships), Penetration 5 (Controlling), Survival 5 (islands), Swim 3 (treading water)
+>
+>Arts: Controlling 18, Summoning 16 Difficult Arts: Elementalist Air 6
+>
+>Equipment: Robes Encumbrance: 0 (0)
+>
+>Appearance: A thin, middle-aged woman with silvery hair and sharp features, including deep-set but bright eyes. She wears the remains >of rich robes and a hood, weathered by wind and rain and patched with bits of sacking and canvas.
+>
+>Elisavet was the daughter of a prosperous and knowledgeable advisor to the duke of a great city (a Hermetic magus serving a mundane lord), but against his orders she became involved with a group of strange mystics who initiated her into the ways of the Apostles of Apollonius. It soon became obvious to the court that she had become pregnant, though she protested that she remained a virgin. Shamed by her behavior, her father disowned her and her name, thereafter calling her only Psychorrhax ("heartbreaker"). At the command of the duke, she was banished from his lands, to be transported to Italy to live with distant relatives. Her ship was lost in a terrible storm in transit, but she survived and washed up on an island somewhere in the Mediterranean. Soon after, she gave birth to a son — a strange and misshapen creature with supernatural powers over earth and sea.
+>
+>More than thirty years later, Elisavet has made herself a comfortable if somewhat lonely existence on her island home; she has a powerful air elemental that she summoned and bound to a tree in the middle of the island, which she often sends out to spy out passing ships and occasionally sink them, rescuing materials of particular interest to her such as jewelry, wine, and books. She has also had her son build her a grotto-like palace from stone and driftwood, but she is cruel to him and believes she must beat him to keep him tame. To introduce Elisavet to a saga, a storyguide can have her attack a ship bearing supplies for the covenant, or possibly even transporting a magus. Age is her greatest enemy, and she knows she will soon succumb to her years, but she once heard her father say that he was protected by a special longevity ritual that is common among those of his order. She might think to ransom magical >equipment or a kidnapped magus in exchange for such a ritual.
 
-Characteristics: Int 0, Per -1, Pre +2, Com -1, Str -1, Sta +2, Dex -2, Qik -2
+### Ilkhwan as-Safa'
 
-Size: 0 Age: 51
-
-Decrepitude: 1 (6) Confidence Score: 1 (3) Warping Score: 3 (0)
-
-Virtues and Flaws: Outcast, (Theurgical) Controlling, (Theurgical) Summoning, Affinity with Controlling, Educated, Elementalist Air, Meddler (major), Plagued by Supernatural Being, Infamous, Vulnerable to Elementalist Earth
-
-Personality Traits: Sanguine +5, Cruel +3, Lonely +3
-
-Reputations: Witch 4 (sailors)
-
-Combat:
-
-Dodge: Init -2, Atk n/a, Dfn -2, Dam n/a Soak: +2 (+7 vs. air, -5 vs. earth,)
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead
-
-(21+)
-
-Abilities: Apostles of Apollonius Lore 1 (initiation rituals), Artes Liberales 3 (reading), Awareness 3 (sounds), Concentration 3 (maintaining control), Greek 5 (asking questions), Guile 3 (acting naive), Latin 4 (in writing), Magic Lore 4 (elementals), Mediterranean Sea Lore 4 (ships), Penetration 5 (Controlling), Survival 5 (islands), Swim 3 (treading water)
-
-Arts: Controlling 18, Summoning 16 Difficult Arts: Elementalist Air 6
-
-Equipment: Robes Encumbrance: 0 (0)
-
-Appearance: A thin, middle-aged woman with silvery hair and sharp features, including deep-set but bright eyes. She wears the remains of rich robes and a hood, weathered by wind and rain and patched with bits of sacking and canvas.
-
-Elisavet was the daughter of a prosperous and knowledgeable advisor to the duke of a great city (a Hermetic magus serving a mundane lord), but against his orders she became involved with a group of strange mystics who initiated her into the ways of the Apostles of Apollonius. It soon became obvious to the court that she had become pregnant, though she protested that she remained a virgin. Shamed by her behavior, her father disowned her and her name, thereafter calling her only Psychorrhax ("heartbreaker"). At the command of the duke, she was banished from his lands, to be transported to Italy to live with distant relatives. Her ship was lost in a terrible storm in transit, but she survived and washed up on an island somewhere in the Mediterranean. Soon after, she gave birth to a son — a strange and misshapen creature with supernatural powers over earth and sea.
-
-More than thirty years later, Elisavet has made herself a comfortable if somewhat lonely existence on her island home; she has a powerful air elemental that she summoned and bound to a tree in the middle of the island, which she often sends out to spy out passing ships and occasionally sink them, rescuing materials of particular interest to her such as jewelry, wine, and books. She has also had her son build her a grotto-like palace from stone and driftwood, but she is cruel to him and believes she must beat him to keep him tame. To introduce Elisavet to a saga, a storyguide can have her attack a ship bearing supplies for the covenant, or possibly even transporting a magus. Age is her greatest enemy, and she knows she will soon succumb to her years, but she once heard her father say that he was protected by a special longevity ritual that is common among those of his order. She might think to ransom magical equipment or a kidnapped magus in exchange for such a ritual.
-
-# Ikhwan as-Safa'
-
-Arts: Philosophical Summoning, Philosophical Refining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
+**Arts:** Philosophical Summoning, Philosophical Refining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
 
 The Brethren of Purity, or Ikhwan as-Safa', are a secretive group that follows a variant of Islam that teaches the only path to true happiness is for a person's soul to return to God through purification by attainment of knowledge.
 
-
-# ad HisTORY
+#### History
 
 In the second half of the tenth century Islamic scholars founded Ikhwan as-Safa' in the Persian city of Basra. This secret fraternity of scholars of the Isma'ili sect of Shi'i Islam produced an encyclopedia of their knowledge that combined the teachings of the greatest Greek philosophers — Pythagoras, Socrates, Plato, Aristotle, Plotinus, Euclid, Ptolemy, Porphyry, and lamblichus — with ancient Indian and Persian classics, and Muslim theology. The Isma'ili sect of Shi'i Islam is discussed in Realms of Power: The Divine, page 113.
 
 The potentially heretical nature of the Epistles, described below, forced the Brethren to meet only in secrecy during its writing. After producing their work, the Brethren spread throughout the Islamic world to distribute their Epistles. They freely provided copies to mosques and libraries. The Brethren use the Epistles to surreptitiously test whether a student understands the deeper meaning contained in the work, and they invite those who are willing to dedicate themselves to a lifetime of intellectual improvement to join them. Members of Ikhwan as-Safa' are currently present in Andalusia, the Levant, and throughout North Africa.
 
-### "TEACHINGS OF THE BRETHREN OF PurRITY
+#### Teaching of the Brethern of Purity
 
 Although the majority of the founders of the Brethren of Purity were Isma'ili Muslims, they are accepting of other religions and believe that truth can be found in every faith. The Brethren believe that the pursuit of knowledge is nourishment for a person's soul and the only way to obtain happiness in this life, and salvation in the next, is through intellectual endeavors. According to Brethren philosophy, individual human souls emanate from a universal soul, which will return to God on JudgmentDay. Following the teachings of the Brethren purifies the soul, greatly extending the disciple's life, and giving him a longer period in which to purify his soul through study to ensure eternal happiness in the afterlife.
 
-Although The Brethren freely distribute the Epistles, the books are but an introduction to their teachings. The Brethren enforce an internal hierarchy that prevents students from advancing in their magical powers at the expense of other learning. The Brethren are divided into four grades. The first grade consists of young men, who are taught only the basic knowledge required to obtain an
+Although The Brethren freely distribute the Epistles, the books are but an introduction to their teachings. The Brethren enforce an internal hierarchy that prevents students from advancing in their magical powers at the expense of other learning. The Brethren are divided into four grades. The first grade consists of young men, who are taught only the basic knowledge required to obtain an education. Only if a student shows a willingness to devote himself to a lifetime of learning does he advance to the second grade. The second grade is often not reached until the student is 30 or more years of age. Once the student masters the basics of Philosophiae, he is ready to advance to the study of metaphysics and Theology. The minimum Ability scores for each grade are listed below.
 
-
-education. Only if a student shows a willingness to devote himself to a lifetime of learning does he advance to the second grade. The second grade is often not reached until the student is 30 or more years of age. Once the student masters the basics of Philosophiae, he is ready to advance to the study of metaphysics and Theology. The minimum Ability scores for each grade are listed below.
-
-GRADE ABILITY SCORES 2nd Grade Arabic 5, Artes Liberales 4 3rd Grade Philosophiae 4 Ath Grade Theology (Islam) 4
+| GRADE     |  ABILITY SCORES             |
+|-----------|-----------------------------|
+| 2nd Grade | Arabic 5, Artes Liberales 4 |
+| 3rd Grade | Philosophiae 4              |
+| 4th Grade | Theology (Islam) 4          |
 
 By the time a student reaches the fourth grade, he is often over 40 years of age and has devoted the majority of his life to the Brethren. Dedicated students can, and often do, advance more rapidly, but it is the exception rather than the rule. Membership in the Brethren is not an occupation, and acquiring the necessary foundation often takes students a lifetime.
 
-Gifted members of the Brethren are taught Philosophical Summoning, Philosophical Refining, and all the Elementalist Forms, as described above. UnGifted members, however, may only gain access
+Gifted members of the Brethren are taught Philosophical Summoning, Philosophical Refining, and all the Elementalist Forms, as described above. UnGifted members, however, may only gain access to their Arts through Initiation. The following are three Scripts that the Brethren may use. Because the Ritual of Making the Soul Actually Knowledgeable is not required for an unGifted Brother to utilize the traditions magic, only the very dedicated undergo it.
 
-to their Arts through Initiation. The following are three Scripts that the Brethren may use. Because the Ritual of Making the Soul Actually Knowledgeable is not required for an unGifted Brother to utilize the traditions magic, only the very dedicated undergo it.
+#### BLOOD OATH OF BECOMING A MEMBER OF IKHWAN AS-SAFA'
 
-### BLOOD OATH OF BECOMING A MEMBER OF IKHWAN AS-SAFA'
+**Initiation Ease Factor:** 21
 
-Initiation Ease Factor: 21
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sacrifice, +1 Sympathetic Bonus)
 
-Script Bonus: +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sacrifice, +1 Sympathetic Bonus)
+The supplicant must travel to a far off city, a trip requiring at least one season, obtain a book there that his local group of Brethren does not possess, and give a copy of that book to the group. The supplicant must also write a tractatus on Artes Liberales, Philosophiae, or Theology (Islam) and provide the only copy to his sponsor. Once the supplicant has accomplished these tasks, he gains the Major Virtue Philosophical Refining. After spending one season learning with his sponsor, the character acquires a score of 1 in Philosophical Refining and the Major Flaw Weak Elementalist Resistance; if he does not complete this study, he loses the Virtue. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
 
-C2
+#### RITUAL OF UNCOVERING THE ELEMENTAL NATURE OF MAN
 
-la
+**Initiation Ease Factor:** 15
 
-The supplicant must travel to a far off city, a trip requiring at least one season, obtain a book there that his local group of Brethren does not possess, and give a copy of that book to the group. The supplicant must also write a tractatus on Artes Liberales, Philosophiae, or Theology (Islam) and provide the only copy to his sponsor. Once the supplicant has accomplished these tasks, he gains the Major Virtue Philosophical Refining. After spending one season learning with his sponsor, the character acquires a score of 1 in Philosophical Refining and the Major Flaw Weak Elementalist Resistance; if
-
-
-he does not complete this study, he loses the Virtue. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
-
-### RITUAL OF UNCOVERING THE ELEMENTAL NATURE OF MAN
-
-Initiation Ease Factor: 15
-
-Script Bonus: +12 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
+**Script Bonus:** +12 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
 
 The supplicant must travel to a city different from the one to which he previously traveled, obtain another book that his local group of Brethren does not possess, and give that book to the sponsor. The character must also translate a previously unknown tractatus or summa on Artes Liberales, Philosophiae, or Theology (Islam) into Arabic and provide the only copy to his sponsor. Once the character has accomplished these tasks, he spends one season studying under the sponsor. At the end of the season, the character acquires a score of 1 in an Elementalist Form and the Minor Flaw Mentor. The mentor is the character's sponsor in the Initiation.
 
-The Elementalist Form that the character acquires is always tied to his bodily humors: sanguine, choleric, melancholic, or
+The Elementalist Form that the character acquires is always tied to his bodily humors: sanguine, choleric, melancholic, or phlegmatic. Gregarious or garrulous characters receive the Elementalist Air Virtue. Aggressive, brave, and loyal characters receive the Elementalist Fire Virtue. Docile, stoic, or serene characters receive the Elementalist Earth Virtue. Contemplative, shy, or taciturn characters receive the Elementalist Water Virtue. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
 
-phlegmatic. Gregarious or garrulous characters receive the Elementalist Air Virtue. Aggressive, brave, and loyal characters receive the Elementalist Fire Virtue. Docile, stoic, or serene characters receive the Elementalist Earth Virtue. Contemplative, shy, or taciturn characters receive the Elementalist Water Virtue. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
+#### RITUAL OF MAKING THE SOUL ACTUALLY KNOWLEDGEABLE
 
-# RITUAL OF MAKING THE SOUL ACTUALLY KNOWLEDGEABLE
+**Initiation Ease Factor:** 21
 
-Initiation Ease Factor: 21
-
-Script Bonus: +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 +1 Sacrifice, +1 Sympathetic Bonus)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +1 +1 Sacrifice, +1 Sympathetic Bonus)
 
 The supplicant must write a summa of at least Level 3 and provide the only copy to his sponsor. Once the supplicant has accomplished these tasks, he spends one season under the tutelage of his sponsor. At the end of that season, the character acquires the Major Virtue Elemental Philosophiae and the Major Flaw Study Requirement. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Artes Liberales, Philosophiae, and Theology (Islam) and a score of 5 in Arabic.
 
-# Spistles of the Brethren of Purity & Loyal Friends
+>#### Epistles of the Brethren of Purity & Loyal Friends
+>
+>The Epistles of the Brethren of Purity and Loyal Friends, Rasa'il Ikhwan as-Safa' wa Khillan al-Wafa, are 52 rasa'il or letters that are grouped into four sections, usually referred to as books. Each book is a collection of tractatus on a specific Ability, but when read together with the assistance of "The Comprehensive Epistle," the books serve as summae for Refining and the four Elementalist Arts. The Comprehensive Epistle, or Al-Risala al-Jami'a, is the key to unlocking the secrets of the Epistles, and without any it, no >character can gain knowledge of the secrets of the Brethren contained in the four books.
+>
+>Book One, Mathematical Sciences, contains 14 tractatus on Artes Liberales of Quality 6–10 with an average Quality of 8. The book also >serves as a summa for Elementalist Air, Level 3, Quality 8.
+>
+>Book Two, Natural Sciences, contains 17 tractatus on Philosophiae (natural philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Water, Level 4, Quality 8.
+>
+>Book Three, Psychological and Rational Sciences, contains 10 tractatus on Philosophiae (moral philosophy) of Quality 5–9 with an >average Quality of 7. The book also serves as a summa for Elementalist Fire of level 3, Quality 8.
+>
+>Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with Quality 7–11 with an average Quality of 9. The book also serves as a summa for Elementalist Earth Level 3, Quality 8.
+>
+>"The Comprehensive Epistle" is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and "The Comprehensive Epistle" provides no additional benefit if read in conjunction with additional >books beyond the first.
 
-The Epistles of the Brethren of Purity and Loyal Friends, Rasa'il Ikhwan as-Safa' wa Khillan al-Wafa, are 52 rasa'il or letters that are grouped into four sections, usually referred to as books. Each book is a collection of tractatus on a specific Ability, but when read together with the assistance of "The Comprehensive Epistle," the books serve as summae for Refining and the four Elementalist Arts. The Comprehensive Epistle, or Al-Risala al-Jami'a, is the key to unlocking the secrets of the Epistles, and without any it, no character can gain knowledge of the secrets of the Brethren contained in the four books.
-
-Book One, Mathematical Sciences, contains 14 tractatus on Artes Liberales of Quality 6–10 with an average Quality of 8. The book also serves as a summa for Elementalist Air, Level 3, Quality 8.
-
-Book Two, Natural Sciences, contains 17 tractatus on Philosophiae (natural philosophy) of Quality 5–9 with an average Qual-
-
-ity of 7. The book also serves as a summa for Elementalist Water, Level 4, Quality 8.
-
-Book Three, Psychological and Rational Sciences, contains 10 tractatus on Philosophiae (moral philosophy) of Quality 5–9 with an average Quality of 7. The book also serves as a summa for Elementalist Fire of level 3, Quality 8.
-
-Book Four, Theological Sciences, contains 11 tractatus on Theology (Islam) with Quality 7–11 with an average Quality of 9. The book also serves as a summa for Elementalist Earth Level 3, Quality 8.
-
-"The Comprehensive Epistle" is a summa on Philosophiae (metaphysics) Level 4, Quality 9, and if read in conjunction with one of the other four books, it serves as a summa for Philosophical Refining of Level 2, Quality 8. The character must have access to both texts during the season of study, and "The Comprehensive Epistle" provides no additional benefit if read in conjunction with additional books beyond the first.
-
-### CHARACTERS
+#### CHARACTERS
 
 Some unGifted Brethren are born with the Virtue Elemental Philosophiae, but these characters are rare. The average Gifted member has no knowledge of the Brethren or their magic before reading the Epistles. For each year the Brethren are engaged in studies, they receive 30 experience points to spend on Arcane and Academic Abilities. All Brethren have some knowledge of Organization Lore: Brethren of Purity. Junior Brethren concentrate their studies on Academic Abilities, especially Artes Liberales, Philosophiae, and Theology. The eclectic nature of the Brethren's teachings means that members may study Theology of all religions. Members of the Brethren also study Arcane Abilities, especially (Realm) Lore, but these topics are never publicly discussed, and they carefully hide any books on these subjects. Brethren also encourage their members to study other languages, especially Hebrew, Persian, Greek, and Latin.
 
 Unlike Tulab Ibn Sina (see below), the Brethren of Purity are rather egalitarian in their membership. All members must be literate before they are even considered for Initiation, but the Brethren sometimes encourage pious characters or those with a desire to learn by giving them anonymous gifts of books or funds to allow potential members to concentrate on their studies. In addition to their Arts, many Ikhwan as-Safa' know Mythic Alchemy or Mythic Herbalism. (See Chapter 5: Learned Magicians). Ikhwan as-Safa' often have Flaws related to their Isma'ili sect of Islam, which is oppressed in many areas, and their devotion to the pursuit of knowledge often results in Driven, Higher Purpose, Obsessed, Oversensitive, or Pious Flaws.
 
-# Tulab Ibn Sina
+### Tulab Ibn Sina
 
-Arts: Medicinal Summoning, Medicinal Divining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
+**Arts:** Medicinal Summoning, Medicinal Divining, and all four Elementalist Forms (Elementalist Air, Elementalist Earth, Elementalist Fire, Elementalist Water)
 
 This tradition is comprised of the most accomplished physicians in the Islamic world. The Tulab Ibn Sina, or the Students of Avicenna as they are known in the West, use their exceptional knowledge of medicine and the Elementalist Arts to serve their local rulers. The Tulab Ibn Sina are renowned throughout the Islamic world for maintaining hospitals and providing succor to the common people.
 
-
-# Inedge Magic
-
+#### History
 
 Abu Ali al-Hussain Ibn Abdallah Ibn Sina, the founder of the tradition, was born in 980 near the Persian city of Bukhara. Ibn Sina had memorized the Quran and had begun studying medicine by the age of 13. When he was 17, he was already famous for his medical expertise, and he cured the Sultan of Bukhara of a dread illness when no other physician could. The sultan rewarded Ibn Sina with access to his vast library where Ibn Sina discovered the mystical writings of ancient scholars and magicians. Ibn Sina combined the teachings of Aristotle, Galen, and Hippocrates with the magical knowledge of the Persian, Arab, and Indian magicians to vastly improve his knowledge of medicine and the Elementalist Arts.
 
 When the Sultan died, Ibn Sina became embroiled in the struggles for the throne and the victor imprisoned him. Ibn Sina used his magic to escape and fled to the court of a nearby sultanate. Throughout his life, the social effects of The Gift often forced Ibn Sina to travel from court to court. His reputation as a physician was such that he had little problem receiving invitations from various rulers, but The Gift inevitably prevented him from staying with any court too long.
 
-### "TEACHINGS OF IBN SINA
+#### TEACHINGS OF IBN SINA
 
 Many students of medicine approached Ibn Sina during his travels to request training, but he only selected Muslims with The Gift or those who showed an aptitude for the Elementalist Arts. Ibn Sina did teach several students over his lifetime, and he instructed them in the importance of acquiring knowledge and transmitting it. Ibn Sina would often take students who were less-than-devout Muslims, and he would always instruct them in the importance of following the tenets of the Quran. He did not hesitate to dismiss students who failed to become more righteous or showed little promise. Tulab Ibn Sina follows the same principles today. The group is constantly searching for exceptional physicians and untrained healers who are suitable for being taught the Elementalist Arts. If the student is also a Muslim, then the Tulab [bn Sina accept the new student into the fold.
 
 Gifted members of this tradition learn Medicinal Summoning, Medicinal Divining, and all the Elementalist Forms. UnGifted members, however, may only gain access to their Arts through Initiation. Because the Ritual of Refining the Physician's Character is not required for a member to utilize the traditions magic, only the very dedicated undergo it.
 
-### RITE OF TESTING THE PHYSICIAN'S DEDICATION
+#### RITE OF TESTING THE PHYSICIAN'S DEDICATION
 
-Initiation Ease Factor: 21
+**Initiation Ease Factor:** 21
 
-Script Bonus: +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +2 Sympathetic Bonus)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +2 Sympathetic Bonus)
 
 The supplicant must travel to a city where an epidemic or disaster has occurred. The supplicant must do everything in his power to help those affected and must grant any request for aid he receives for one year. Once the supplicant has accomplished this task, he spends one season learning Medicinal Divining with his sponsor. At the end of that season, the character acquires a score of 1 in Medicinal Divining and the Major Flaw Restriction (cannot affect himself). This Script always fails if the supplicant does not have the requisite scores of 3 or more in Medicine and Chirurgy.
 
-### RITUAL OF DISCOVERING THE PHYSICIAN'S HUMOR
+#### RITUAL OF DISCOVERING THE PHYSICIAN'S HUMOR
 
-Initiation Ease Factor: 15
+**Initiation Ease Factor: **15
 
-Script Bonus: +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus)
+**Script Bonus:** +11 (+3 Quest, +3 Minor Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus)
 
 The supplicant is grievously wounded (Medium Wound) and is forced to recover in a hospital for the indigent. The supplicant may not tell anyone of his true status and may only receive treatment that is provided to the poor. If the character survives, he spends one season studying under the sponsor. At the end of the season, the character acquires a score of 1 in an Elementalist Form and the Minor Flaw Vow. The character swears to find and train a suitable student in the tradition. This Script always fails if the supplicant does not have the requisite scores of 4 or more in Medicine and Chirurgy.
 
 The Elementalist Form that the character acquires is tied to his own bodily humor: sanguine, choleric, melancholic, or phlegmatic. Gregarious or garrulous characters receive the Virtue Elementalist Air. Aggressive, brave, and loyal characters receive the Elementalist Fire Virtue. Docile, stoic, or serene characters receive that Elementalist Earth Virtue. Contemplative, shy, or taciturn characters receive the Elementalist Water Virtue.
 
-### RITUAL OF IMPROVING THE PHYSICIAN'S CHARACTER
+#### RITUAL OF IMPROVING THE PHYSICIAN'S CHARACTER
 
-Initiation Ease Factor: 21
+**Initiation Ease Factor:** 21
 
-Script Bonus: +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
+**Script Bonus:** +18 (+3 Quest, +9 Major Ordeal, +3 Mystagogues Time, +1 Initiate's Time, +1 Sympathetic Bonus, +1 Sacrifice)
 
 The supplicant must spenda year healing the poor and may not accept any reward or payment. Once the supplicant has finished, he spends one season under the tutelage of his sponsor. At the end of that season, the character acquires the Major Virtue Elemental Medicine and the Major Flaw Study Requirement. This Script always fails if the supplicant does not have scores of 5 or more in Medicine and Chirurgy.
 
-### RITE OF OPENING THE MIND
+#### RITE OF OPENING THE MIND
 
 Ibn Sina taught his students that a disciplined, righteous, and enlightened scholar could obtain the gift of prophecy. This goal motivates many Tulab Ibn Sina members in their studies. Only after a student obtains expertise in Medicine, Artes Liberales, Arabic, Philosophiae, and Theology (Islam) and displays a commitment to acting righteously, do the elders of Tulab Ibn Sina consider him adequately prepared to undergo the Rite of Opening the Mind. Those who successfully complete the Initiation are accorded the utmost respect by their peers within the tradition, which is reflected as Reputation (Enlightened Student) 3.
 
-Initiation Ease Factor: 15
+**Initiation Ease Factor:** 15
 
-Script Bonus: +12 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +2 Sympathetic Bonus)
-
-CA --
-
-a,
+**Script Bonus:** +12 (+3 Quest, +3 Minor Ordeal, +3 Mystagogue's Time, +1 Initiate's Time, +2 Sympathetic Bonus)
 
 The Supplicant must travel to the tomb of Ibn Sina in the Persian city of Hamadan, where he spends a season fasting during daylight hours, meditating, and praying. The character must abstain from sinning for an entire season. At the end of the season, the player makes a Stamina roll against an Ease Factor of 9. The Ease Factor is modified by any Personality Traits that would encourage or discourage righteous behavior. If the roll is not successful, the character may remain for an additional season. Once the character spends a season behaving righteously, he returns to the sponsor for a season of instruction. At the end of that season, the character acquires a score of 1 in Premonitions and the Flaw Visions. This Script always fails if the Supplicant does not have the requisite scores of 5 or more in Medicine, Artes Liberales, Arabic, Philosophiae, and Theology (Islam).
 
 
-# Uritings of Ibn Sina
+>#### Uritings of Ibn Sina
+>
+>Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina's most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject.
+>
+>Al-Qanun fil-Tibb (Canon of Medicine), Summa Level 6, Quality 9, for Medicine and Summa Level 6, Quality 9, for Medicinal Divining. The sections on Divining are useless to anyone who does not possess the Virtue Elemental Medicine.
+>
+>Ibn Sina also wrote the *Kitab ash-Shifa* (Book of Healing), which is not as well known in the West, but is very influential in the Islamic world.
+>
+>Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.
 
-Ibn Sina was a prolific author and encouraged his students to follow his example of synthesizing previous works and adding his own knowledge to the subjects of Medicine, Artes Liberales, Philosophiae, and Theology (Islam). Ibn Sina's most famous work, Al-Qanun fil-Tibb, is a survey of the entire body of medical learning from the writing of the Ancients to contemporary Muslim sources. Most Western scholars regard the five books of the Canon of Medicine, as it is known in the West, as the authority on the subject.
-
-Al-Qanun fil-Tibb (Canon of Medicine), Summa Level 6, Quality 9, for Medicine and Summa Level 6, Quality 9, for Medicinal Divining. The sections on Divining are useless to anyone who does not possess the Virtue Elemental Medicine.
-
-Ibn Sina also wrote the *Kitab ash-Shifa* (Book of Healing), which is not as well known in the West, but is very influential in the Islamic world.
-
-Kitab ash-Shifa, Summa Level 4, Quality 9, Artes Liberales and Summa Level 5, Quality 9, for each of the four Elementalist Arts (Elementalist Air, Elementalist Earth, Elementalist Fire, and Elementalist Water). The sections on Elemental Abilities are incomprehensible to anyone who does not possess the Virtues Medicinal Divining, Medicinal Summoning, or Elemental Medicine.
-
-### CHARACTERS
+#### CHARACTERS
 
 The vast majority of Tulab Ibn Sina members are not born with the appropriate Virtues, but acquire Elemental Medicine, Summoning, Divining, and one of the four Elemental Arts when the Tulab Ibn Sina determine they are worthy of Initiation. The training period for Tulab Ibn Sina is relatively short but intense. In a five-year period, the student gains 150 experience points to spend on Academic and Arcane Abilities. Tulab Ibn Sina focus on the following Abilities: Artes Liberales, Organization Lore: Students of Avicenna, Medicine, Philosophiae, Theology (Islam), and Chirurgy. All members of the tradition are skilled in Arabic and Medicine, and a student with a score lower than 4 in either is rare.
 
@@ -1647,11 +1482,9 @@ with the Educated Virtue may allocate 50 experience points to Arabic, Persian, G
 
 In addition to their Favored Arts, some members of the Tulab Ibn Sina also know Mythic Herbalism. (See Chapter 5: Learned Magicians.) Tulab Ibn Sina often have Flaws related to their religion — Pious, Temperate, and Higher Purpose are particularly appropriate. For a more complete description of Islam, see *Realms of Power: The Divine*, page 101.
 
-# hermetic Integration
+## Hermetic Integration
 
-The magic of the elementalists can be translated to Hermetic magic with relative ease — indeed, it has already taken place, since some magi already possess Elemental Magic as a Hermetic Virtue. Any of the special background Virtues unique to them (Elemental Medicine, Elemental Philosophiae, or Elemental Theurgy) could be converted into a Hermetic Virtue with a Minor Break-
-
-through, affecting the Forms of Aquam, Auram, Ignem, or Terram instead.
+The magic of the elementalists can be translated to Hermetic magic with relative ease — indeed, it has already taken place, since some magi already possess Elemental Magic as a Hermetic Virtue. Any of the special background Virtues unique to them (Elemental Medicine, Elemental Philosophiae, or Elemental Theurgy) could be converted into a Hermetic Virtue with a Minor Breakthrough, affecting the Forms of Aquam, Auram, Ignem, or Terram instead.
 
 Magi who achieve a Major Breakthrough can adapt an Elementalist Art to Hermetic magic, which has the following effect: a magus may substitute his score in an appropriate Hermetic Technique or Form for his score in the Elementalist Art. In essence, he can use an appropriate Hermetic Art as if it were the Elementalist Art. This means that by adapting Summoning and Elementalist Air, he can summon airy targets he cannot perceive with Hermetic magic, without needing an Arcane Connection; or by integrating Controlling, Summoning, and Elementalist Earth into his magic, he can affect earthen targets whose resistance he has already penetrated with a summoning spell without needing to penetrate again; or by adapting Refining and Elementalist Fire, he could create Ignem vis instead of Vim vis in his laboratory.
 
@@ -1659,55 +1492,41 @@ This is an example of a breakthrough that would have very few negative implicati
 
 It may be that some elementalist discoveries have already been achieved, and have spread throughout the Order, but are still kept carefully guarded by a Mystery Cult. Elemental Magic might be considered an Outer Mystery for an Hermetic Elementalist group, since that Virtue is known to exist among magi, or perhaps it is one example of a mystery that has become common to several different cults, and so is no longer secret.
 
-# Chapter Three
-
-# Folk Witches
+# Chapter Three: Folk Witches
 
 Folk witches are a widespread hedge tradition in Mythic Europe, and many small towns count one or two folk witches among their citizens. Other folk witches live in isolated country cabins, but the local folk know how to find these old women and men when they're needed. And they know that witches use their fetishes, potions, and incantations to accomplish things beyond mortal ken. A witch might speak with the animals of the wild, curse one's enemies, or dowse for much more than water. She might fly among the clouds, see with the second sight, or heal people and animals alike. Or she may even have the power to take the shape of an animal herself.
 
-Almost all folk witches are unGifted, so
+Almost all folk witches are unGifted, so common folk are unafraid to approach them for help when they are plagued by supernatural nuisances, including diseases, and these women thus form an important part of the community. On the other hand, a few folk witches are Gifted and thus suffer from the normal social penalties. These Gifted folk witches are treated with fear and suspicion, and are often regarded by common people as a source of supernatural hazard.
 
-common folk are unafraid to approach them for help when they are plagued by supernatural nuisances, including diseases, and these women thus form an important part of the community. On the other hand, a few folk witches are Gifted and thus suffer from the normal social penalties. These Gifted folk witches are treated with fear and suspicion, and are often regarded by common people as a source of supernatural hazard.
+The Church frowns upon folk witches, whom it (largely inaccurately) views as remnants of primitive, pagan superstition, but by-and-large folk witches are ignored by the Church hierarchy at all levels. A few Church officials believe that folk witches draw their power from the Infernal, and do successfully mount prosecutions for executable crimes of heresy on this basis. Folk witches are not, in fact, connected to the Infernal at all — although some other hedge traditions of "witches" are. If your saga follows history, Church-inspired persecution of witches, of all types, and mass burnings of witches do not really occur until several centuries after the Ars Magica Fifth Edition period (1220 AD).
 
-The Church frowns upon folk witches, whom it (largely inaccurately) views as remnants of primitive, pagan superstition, but by-and-large folk witches are ignored by the Church hierarchy at all levels. A few Church officials believe that folk witches draw their
-
-power from the Infernal, and do successfully mount prosecutions for executable crimes of heresy on this basis. Folk witches are not, in fact, connected to the Infernal at all — although some other hedge traditions of "witches" are. If your saga follows history, Church-inspired persecution of witches, of all types, and mass burnings of witches do not really occur until several centuries after the Ars Magica Fifth Edition period (1220 AD).
-
-Unlike Hermetic magi, folk witches do not have an equivalent to the Order of Hermes, with its Houses, Tribunal politicking, and Latinate pretensions. Instead, folk witches quietly practice their magic in small localized groups called covens, which usu-
-
-# Story Seed: Slaves
-
-The magi of a covenant dominated by a Tytalus cabal discovered (at least some) folk witches can brew potions to restore Fatigue — a violation of the supposed Limit of Energy for Hermetic magic. Had this been discovered by Bonisagus magi it might have heralded a profitable new direction of research, but the Tytalus magi adopted a more direct approach. They tracked down, attacked, and captured a coven of folk witches, imprisoning them in a dungeon under their fortress-covenant. The magi use Rego Mentem magic to force them to brew potions.
-
-The Tytalus cabal has since won several certamen duels secretly using these potions, and they also enjoy the latitude to fatigue themselves while spellcasting without consequence. The players might become involved if they start to sell Fatigue potions, or if they create exuberant nuisances of themselves. Quaesitors may be sent to investigate, or Tremere certamen masters may suspect the Tytalus have a new strategy. Of course, the player characters could instead be members of the Tytalus cabal.
-
-
-
-ally consist of an elder "mother" witch and a number of "daughters." Like common folk, most folk witches never travel far from their place of birth, and consequently never meet a member of another coven except at the rare ill-fated sabbat. The insular lives of folk witches mean both that innovations stagnate in this hedge tradition, and also that the practices of covens can diverge wildly, depending on the nature and capabilities of individual coven members.
+Unlike Hermetic magi, folk witches do not have an equivalent to the Order of Hermes, with its Houses, Tribunal politicking, and Latinate pretensions. Instead, folk witches quietly practice their magic in small localized groups called covens, which usually consist of an elder "mother" witch and a number of "daughters." Like common folk, most folk witches never travel far from their place of birth, and consequently never meet a member of another coven except at the rare ill-fated sabbat. The insular lives of folk witches mean both that innovations stagnate in this hedge tradition, and also that the practices of covens can diverge wildly, depending on the nature and capabilities of individual coven members.
 
 The Order of Hermes at large certainly knows that folk witches exist, but the witches are, generally, arrogantly viewed as poor practitioners of peasant magic that is of no particular importance or threat. It is less well known that some folk witches are Gifted, and little is really known about the specifics of folk witch magic.
 
-# Oreating a Folk Oharacter
+>#### Story Seed: Slaves
+>
+>The magi of a covenant dominated by a Tytalus cabal discovered (at least some) folk witches can brew potions to restore Fatigue — a violation of the supposed Limit of Energy for Hermetic magic. Had this been discovered by Bonisagus magi it might have heralded a profitable new direction of research, but the Tytalus magi adopted a more direct approach. They tracked down, attacked, and captured a coven of folk witches, imprisoning them in a dungeon under their fortress-covenant. The magi use Rego Mentem magic to force them to brew potions.
+>
+>The Tytalus cabal has since won several certamen duels secretly using these potions, and they also enjoy the latitude to fatigue themselves while spellcasting without consequence. The players might become involved if they start to sell Fatigue potions, or if they create exuberant nuisances of themselves. Quaesitors may be sent to investigate, or Tremere certamen masters may suspect the Tytalus have a new strategy. Of course, the player characters could instead be members of the Tytalus cabal.
+
+## Creating a Witch Character
 
 A folk witch can either be generated as either a Gifted or an unGifted character. An unGifted folk witch may be created as either a companion or a grog character. In all cases you must obey the normal rules for assigning Virtues and Flaws to a character. Regardless of whether the folk witch is Gifted or not, you must also assign at least one Flaw that impacts on the folk witch's magical abilities. Finally, all folk witches must take the free Social Status Virtue: Folk Witch.
 
+>#### Male Witches
+>
+>Male folk witches are uncommon, and some versions of the folk witch initiations only work on female characters. Some covens are entirely made up of male folk witches, although this is rare.
+
 Assign the folk witch experience points as for a normal character — except that at some point, usually around age ten, the character is adopted by a folk witch, who initiates her charge into a folk witch coven. This is the folk witch equivalent to the Hermetic apprenticeship, and usually lasts for ten years. To represent the folk witch apprenticeship, you may spend 200 experience points for the character on any Abilities. This is less than a magus receives because a folk witch apprenticeship is shorter and folk witches do not have such a systematic and organized method of training. Following her apprenticeship, a folk witch is assigned the normal number of experience points for a character each year; that is, 15 XP each year, although this may be affected by the Wealthy Virtue or Poor Flaw.
 
-If the folk witch is Gifted then part of her apprenticeship is the Opening of The Gift, which gives her seven favored Supernatural
+If the folk witch is Gifted then part of her apprenticeship is the Opening of The Gift, which gives her seven favored Supernatural Abilities (normally Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, and Shapeshifter). During and after her apprenticeship you may freely spend experience points on these Supernatural Abilities, even if she does not have the requisite Virtues.
 
-Abilities (normally Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, and Shapeshifter). During and after her apprenticeship you may freely spend experience points on these Supernatural Abilities, even if she does not have the requisite Virtues.
-
-On the other hand, if the folk witch is unGifted you may only assign her experience points to Supernatural Abilities to which she
-
-# Male Witches
-
-Male folk witches are uncommon, and some versions of the folk witch initiations only work on female characters. Some covens are entirely made up of male folk witches, although this is rare.
-
-has the corresponding Virtues. Sometimes a character who is born with the required Virtues is found and then trained by a folk witch; alternatively, folk witch covens have access to initiation rites (see below) that can be used to develop these Supernatural Virtues in unGifted characters. However, not all covens have access to a complete set of seven initiation rites to teach their unGifted members. If your character developed Supernatural Virtues via initiation, you must also assign her the Flaws inflicted by the coven as ordeals. Obviously, an unGifted folk witch created as a grog character is likely to have fewer Supernatural Virtues (and be less powerful) than one created as a companion character.
+On the other hand, if the folk witch is unGifted you may only assign her experience points to Supernatural Abilities to which she has the corresponding Virtues. Sometimes a character who is born with the required Virtues is found and then trained by a folk witch; alternatively, folk witch covens have access to initiation rites (see below) that can be used to develop these Supernatural Virtues in unGifted characters. However, not all covens have access to a complete set of seven initiation rites to teach their unGifted members. If your character developed Supernatural Virtues via initiation, you must also assign her the Flaws inflicted by the coven as ordeals. Obviously, an unGifted folk witch created as a grog character is likely to have fewer Supernatural Virtues (and be less powerful) than one created as a companion character.
 
 After apprenticeship, if you wish to have a folk witch character work on laboratory activities (see later) during character generation, assume that she has access to a standard laboratory in a Magic aura of 3 (unless the troupe rules otherwise), and that she can expend up to four times her Folk Witch Magic Theory score in vis each year. Each season spent on laboratory activities reduce the number of experience points received for that year by 10, and a folk witch can only spend two seasons each year on laboratory activities — unless she is Wealthy or Poor. A wealthy character can spend three seasons each year on laboratory activities and a poor one can only spend one season each year on laboratory work.
 
-# Minimum Ability Scores
+### Minimum Ability Scores
 
 After apprenticeship, a Gifted folk witch should have a minimum score of 1 in the following Abilities: Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, Shapeshifter, and Folk Witch Magic Theory. An unGifted folk witch may lack some of the Supernatural Abilities, and she needs a corresponding Supernatural Virtue for each Supernatural Ability she does have. Obviously, if a Gifted folk witch has any Flawed Abilities she will not have a score in those Abilities.
 
@@ -1715,196 +1534,174 @@ It is also a good idea for a folk witch to have a score in the Abilities Animal 
 
 If you want the folk witch to be literate she must have a score of at least 4 in a Language (which does not need to be Latin), and a score of at least 1 in Artes Liberales. If she is a writer too she must have a score of 5 in that language. A literate folk witch might also find Profession (Scribe) useful, if she wants to copy texts.
 
-# New Virtues & Flaws
+### New Virtues & Flaws
 
 When creating a Gifted folk witch character you may assign her Hermetic Virtues and Flaws, if they are appropriate to her abilities. Supernatural Virtues and Flaws are accessible to all folk witch characters.
 
-### FOLK WITCH
+#### FOLK WITCH
 
 Free Social Status Virtue
 
 The character has been trained as a folk witch. She may perform folk witch laboratory activities such as brewing potions, she uses folk witch casting methods with her Supernatural Virtues and gains the associated magical defenses, and she is a member of a coven who attends sabbat meetings. As she is not supported by a covenant, like a magus is, she must spend two seasons each year supporting herself — normally by performing magical services for the local community. This Virtue is compatible with many other Social Status Virtues and Flaws, and with Wealthy and Poor.
 
-# FLAWED FOLK WITCH GIFT OPENING
+#### FLAWED FOLK WITCH GIFT OPENING
 
 Minor Hermetic Flaw
 
-The Opening of the folk witch's Gift was flawed — she does not treat one of the seven folk witch Supernatural Abilities as favored, and she may not learn the Ability during character generation. This Flaw can be taken
+The Opening of the folk witch's Gift was flawed — she does not treat one of the seven folk witch Supernatural Abilities as favored, and she may not learn the Ability during character generation. This Flaw can be taken several times, each time for a different Supernatural Ability. She can still learn the Ability at a later date, but she suffers the usual penalties for learning a Supernatural Ability. In addition, even if she does eventually learn the Ability she suffers a —1 penalty on all totals generated with it. This Flaw is Hermetic as it can only be taken by Gifted folk witches; it is normally unavailable to Gifted characters who are not folk witches.
 
-
-
-several times, each time for a different Supernatural Ability. She can still learn the Ability at a later date, but she suffers the usual penalties for learning a Supernatural Ability. In addition, even if she does eventually learn the Ability she suffers a —1 penalty on all totals generated with it. This Flaw is Hermetic as it can only be taken by Gifted folk witches; it is normally unavailable to Gifted characters who are not folk witches.
-
-### CURSING
+#### CURSING
 
 Major Supernatural Virtue
 
 The folk witch can cast curses on other characters. She has a score of 1 in the Supernatural Ability Cursing (see later).
 
-### HEALING
+#### HEALING
 
 Major Supernatural Virtue
 
 The folk witch can heal characters and has a score of 1 in the Supernatural Ability Healing (see later).
 
-### LirE-LINKED FOLK WITCH MAGIC
+#### LirE-LINKED FOLK WITCH MAGIC
 
 Major Supernatural Virtue
 
 The folk witch may expend Fatigue levels to boost her Casting Total. Boost her Casting Total by 5 for each Fatigue level spent.
 
-### ANIMAL HEALER
+#### ANIMAL HEALER
 
 Minor Supernatural Virtue
 
 The folk witch can heal animals, and she has a Supernatural Ability Animal Healing with a Score of 1. This works exactly the same as the Healing Ability except that it works on animals instead of people (expending Animal vis instead of Corpus). A folk witch character can also make potions using this Ability. This is not normally a Favored Ability of folk witches, although it is for some variant covens. The character may also have the Healing Ability.
 
-### CONCENTRATED POTIONS
+#### CONCENTRATED POTIONS
 
 Minor Supernatural Virtue
 
 The folk witch can use up to four times her Folk Witch Magic Theory Ability score worth of vis in a season when she brews potions (see later). This is double the usual amount of vis that may be used.
 
-# Inedge Magic
-
-### EXPERT POTION BREWER
+#### EXPERT POTION BREWER
 
 Minor Supernatural Virtue
 
 The folk witch doubles the Supernatural Ability used to form her Lab Total when brewing potions (see later), which increases the Brew Potency.
 
-### FLIGHT
+#### FLIGHT
 
 Minor Supernatural Virtue
 
 The folk witch character can fly. She has a score of 1 in the Supernatural Ability Flight (see later).
 
-### PAINLESS MOON
+#### PAINLESS MOON
 
 Minor Supernatural Virtue
 
 The folk witch does not suffer a Medium Wound during each month of her Witch's Moon (see later).
 
-### WELL-TRAINED FOLK WITCH
+#### WELL-TRAINED FOLK WITCH
 
 Minor General Virtue
 
 Due to the quality of her induction into the folk witch tradition, the character receives an extra 50 experience points to spend during apprenticeship. This Virtue can be taken several times.
 
-### PRIMITIVE TRADITION
+#### PRIMITIVE TRADITION
 
 Major Supernatural Flaw
 
 The folk witch is incapable of brewing potions (see later).
 
-### RAREFIED TRADITION
+#### RAREFIED TRADITION
 
 Major Supernatural Flaw
 
 The folk witch may only use her Supernatural Abilities via potions. That is, she must brew and drink a suitable potion when she uses her Supernatural Abilities; she cannot use the other folk witch casting methods.
 
-### HarsH Moon
+#### Harsh Moon
 
 Minor Supernatural Flaw
 
 The folk witch suffers a Heavy Wound (instead of a Medium Wound) during each month of her Witch's Moon (see later).
 
-### SHORT-RANGED CURSES
+#### SHORT-RANGED CURSES
 
 Minor Supernatural Flaw
 
 Curses cast by the folk witch are only effective if the curse fetish is within 100 yards of the target. The curse takes effect at the moment that the target moves within range of the completed fetish. Once a disease, aging, or miscarriage curse fetish has thus activated, removing the target from the vicinity of the fetish has no effect on the curse. On the other hand, if a target is removed from the range of an emotion, tongue, paralysis, reduction, or beast curse fetish the effect ceases, but resumes again if the target moves back into range (and the effect manages to Penetrate again) — this continues until either the Arcane Connection powering the fetish expires or the fetish is destroyed. This Flaw has no effect on curse potions brewed by the witch. This Flaw is only available if the character is a Gifted Folk Witch or has the Minor Supernatural Virtue Cursing. This Flaw is suitable for a Gifted character whose Opening of The Gift was flawed.
 
-### SILENT TRADITION
+#### SILENT TRADITION
 
 Minor Supernatural Flaw
 
 The folk witch cannot use the incantation casting method. This Flaw cannot be taken if the folk witch has the Rarefied Tradition Major Flaw.
 
-### UNSTABLE MAGIC
+#### UNSTABLE MAGIC
 
 Minor Supernatural Flaw
 
 Things that the folk witch creates in the laboratory (potions, fetishes, etc.) decay and cease to work after one year and one day. This Flaw is suitable for a Gifted character whose Opening of The Gift was flawed, although it may also be taken by unGifted characters.
 
-ig
-
-\e
-
-2
-
-### PoorLy TRAINED FOLK WITCH
+#### PoorLy TRAINED FOLK WITCH
 
 Minor General Flaw
 
 The folk witch was not well trained; she receives 50 fewer experience points to spend during her apprenticeship.
 
-
-# Inedge Magic
-
-# Cxisting Virtues & Flaws
+### Existing Virtues & Flaws
 
 The following existing Hermetic Virtues and Flaws from ArM5 are suitable for Gifted Folk Witches.
 
-Major Hermetic Virtues: Gentle Gift
+**Major Hermetic Virtues:** Gentle Gift
 
-Minor Hermetic Virtues: Adept Laboratory Student, Cautious Sorcerer, Cyclic Magic (positive), Fast Caster, Free Study, Harnessed Magic, Inventive Genius, Magical Memory, Personal Vis Source, Quiet Magic, Side Effect, Special Circumstances, Subtle Magic.
+**Minor Hermetic Virtues:** Adept Laboratory Student, Cautious Sorcerer, Cyclic Magic (positive), Fast Caster, Free Study, Harnessed Magic, Inventive Genius, Magical Memory, Personal Vis Source, Quiet Magic, Side Effect, Special Circumstances, Subtle Magic.
 
-Major Hermetic Flaws: Blatant Gift, Difficult Longevity Ritual, Necessary Condition, Painful Magic, Restriction, Rigid Magic, Waster of Vis.
+**Major Hermetic Flaws:** Blatant Gift, Difficult Longevity Ritual, Necessary Condition, Painful Magic, Restriction, Rigid Magic, Waster of Vis.
 
-Minor Hermetic Flaws: Careless Sorcerer, Creative Block, Cyclic Magic (negative), Deleterious Circumstances, Disorientating Magic, Susceptibility to Divine Power, Susceptibility to Faerie Power, Susceptibility to Infernal Power, Unimaginative Learner, Warped Magic, Weak Magic, Weird Magic.
+**Minor Hermetic Flaws:** Careless Sorcerer, Creative Block, Cyclic Magic (negative), Deleterious Circumstances, Disorientating Magic, Susceptibility to Divine Power, Susceptibility to Faerie Power, Susceptibility to Infernal Power, Unimaginative Learner, Warped Magic, Weak Magic, Weird Magic.
 
-# Folk (itch Magic
+## Folk Witch Magic
 
 As mentioned previously, Gifted folk witches have access to seven Supernatural Abilities: Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, and Shapeshifter. Each of these is represented in the Ars Magica Fifth Edition game by a Supernatural Virtue, but for Gifted folk witches these are favored Abilities (see the Introduction). Un-Gifted folk witches need to have the corresponding Supernatural Virtues, and so may not have all seven Supernatural Abilities. In either case, folk witches use the standard Ability experience advancement table when improving these Abilities (see ArM5, page 31).
 
-Folk witches do not use their Supernatural Abilities in the same manner as many other characters — even if those characters have the same Supernatural Abilities. Folk witches instead use one of three methods to access their powers. These are by brewing potions (which in some cases allows other characters temporary access to the folk witch's Super-
-
+Folk witches do not use their Supernatural Abilities in the same manner as many other characters — even if those characters have the same Supernatural Abilities. Folk witches instead use one of three methods to access their powers. These are by brewing potions (which in some cases allows other characters temporary access to the folk witch's Supernatural Abilities), by reciting incantations, or 
+by creating fetish objects that embody the folk witch’s powers (a witch’s broom is a fetish object for the Flight ability, for example)
 
 Although folk witches do not have a general Magic Resistance, like many hedge traditions, they do have limited Magical Defenses.
 
-# Polk (itch Powers
+### Folk Witch Powers
 
-Whena folk witch uses her Supernatural Abilities, a Casting Total is generated and compared to the Ease Factor for the effect, to determine whether or not the effect is successful. A Gifted folk witch can also boost her Casting Score by expending the appropriate Form of vis. Note that unGifted folk witches cannot use vis to boost their Casting Score. Each Ability description specifies which Form is appropriate, and this is also the Form Bonus used by Hermetic magi when resisting that folk witch effect. Each description also specifies which Characteristic is used to generate the Casting Score.
+When a folk witch uses her Supernatural Abilities, a Casting Total is generated and compared to the Ease Factor for the effect, to determine whether or not the effect is successful. A Gifted folk witch can also boost her Casting Score by expending the appropriate Form of vis. Note that unGifted folk witches cannot use vis to boost their Casting Score. Each Ability description specifies which Form is appropriate, and this is also the Form Bonus used by Hermetic magi when resisting that folk witch effect. Each description also specifies which Characteristic is used to generate the Casting Score.
 
-Fork WITCH CASTING SCORE: Characteristic + Ability + Aura Modifier
+**FOLLK WITCH CASTING SCORE:** Characteristic + Ability + Aura Modifier
 
-MAGNITUDE OF EFFECT: Ability
+**MAGNITUDE OF EFFECT:** Ability
 
-EQUIVALENT SPELL LEVEL: (5 x Ability)
+**EQUIVALENT SPELL LEVEL:** (5 x Ability)
 
-FoLk WITCH CASTING TOTAL: Casting Score + Stress Die
+**FOLK WITCH CASTING TOTAL:** Casting Score + Stress Die
 
-Ease Factor: Determined by Effect
+**Ease Factor:** Determined by Effect
 
-PENETRATION TOTAL: Casting Total + Penetration Bonus — Ease Factor
+**PENETRATION TOTAL:** Casting Total + Penetration Bonus — Ease Factor
 
-Vis BONUS TO CASTING SCORE: +1 per pawn (only if Gifted)
+**VIS BONUS TO CASTING SCORE:** +1 per pawn (only if Gifted)
 
-MAXIMUM Vis EXPENDITURE: Ability + Effect Vis Cost
+**MAXIMUM VIS EXPENDITURE:** Ability + Effect Vis Cost
 
-### CASTING METHODS
+#### CASTING METHODS
 
-A folk witch uses casting methods that are alien to Hermetic magic, and the casting methods for each Supernatural Ability are given below. Note that these special casting methods only apply to the way that folk witches use these Supernatural Abilities; a character who has learned one of these Supernatural Abilities from some other source is not restricted in this way. Folk witches must
+A folk witch uses casting methods that are alien to Hermetic magic, and the casting methods for each Supernatural Ability are given below. Note that these special casting methods only apply to the way that folk witches use these Supernatural Abilities; a character who has learned one of these Supernatural Abilities from some other source is not restricted in this way. Folk witches must use the appropriate casting method — they cannot vary their method like magi can. The folk witch casting methods are:
 
+**Potion:** The Ability is used by brewing a potion (see later), which the target drinks.
 
+**Incantation:** The folk witch recites a small rhyming poem in order to use her Ability. The target must be able to hear this incantation to be affected (see the Words and Gestures Table for the range of each level of voice loudness; ArM5, page 83). The folk witch cannot use the Ability if she cannot speak. If she loses her memory of the incantation (due to hostile magic, for example) make an Intelligence + Concentration roll against an Ease Factor of 6 for her every day after the memory-altering effect ceases. If this roll is successful, her memory of the incantation returns.
 
+**Fetish:** The folk witch needs to hold a particular item (the fetish) to use the Ability. She cannot use the Ability if this item is missing, nor can she use an item prepared by another character. It takes a season of laboratory work to prepare a suitable item. A folk witch can have several fetish items for a single Ability, and she only requires one of them to use the Ability. This means that she can create and cache spare fetish items.
 
-use the appropriate casting method — they cannot vary their method like magi can. The folk witch casting methods are:
-
-acca
-
-Potion: The Ability is used by brewing a potion (see later), which the target drinks.
-
-Incantation: The folk witch recites a small rhyming poem in order to use her Ability. The target must be able to hear this incantation to be affected (see the Words and Gestures Table for the range of each level of voice loudness; ArM5, page 83). The folk witch cannot use the Ability if she cannot speak. If she loses her memory of the incantation (due to hostile magic, for example) make an Intelligence + Concentration roll against an Ease Factor of 6 for her every day after the memory-altering effect ceases. If this roll is successful, her memory of the incantation returns.
-
-Fetish: The folk witch needs to hold a particular item (the fetish) to use the Ability. She cannot use the Ability if this item is missing, nor can she use an item prepared by another character. It takes a season of laboratory work to prepare a suitable item. A folk witch can have several fetish items for a single Ability, and she only requires one of them to use the Ability. This means that she can create and cache spare fetish items.
-
-### BOTCHES
+#### BOTCHES
 
 A botch on her Casting Total can be disastrous for a folk witch. Usually an effect still happens, but it is uncontrolled and not what the witch expected. She also gains 1 Warping Point for every 0 on the botch dice (see Warping, later in this chapter).
 
-### Mark
+#### Mark
 
 Each folk witch has a mark that reveals an effect as being cast by her. This is similar to a magus' sigil. To check whether a character can recognize a folk witch mark, make a Perception + Organization Lore: Folk Witch roll against an Ease Factor of 9. A folk witch may not normally suppress her mark, nor does she have the capability to "fake" another folk witch's mark. In addition, a successful Perception + Organization Lore: Folk Witch roll against an Ease Factor of 6 identifies an effect as one cast by a Folk Witch, but does not identify the particular witch.
 
@@ -1928,41 +1725,35 @@ Method: Fetish (each time the folk witch curses another character she must make 
 
 The folk witch can curse another (human) character that she has an Arcane Connection to, by working the Arcane Connection into an object (the fetish) — usually this is a piece of fabric that is prepared on a loom. Preparing the curse is a laboratory activity that takes the folk witch an entire season (see later), and the curse needs to penetrate the Magic Resistance of the target throughout the preparation season in order to be effective. This is the only way that folk witches may normally curse a particular character — although she can brew cursed potions that affect any character who can be persuaded to drink them. If the target's Magic Resistance varies throughout the season (for example, if the target moves in and out of an Aegis of the Hearth effect), then use the highest Magic Resistance the target has during the season. The Ease Factor depends on the nature of the curse.
 
-### Ease Factor: 9
+**Ease Factor: 9**
 
 Curse of Disease: The curse immediately inflicts a disease that causes a fever and inflicts a Medium Wound. The disease progresses normally (see ArM5, page 180) and the character does not count as being under a magical effect.
 
-### Ease Factor: 9
+**Ease Factor: 9**
 
 Curse of Miscarriage: The curse immediately causes difficulty for a pregnant woman that may force her to miscarry. The curse inflicts a Medium Wound and at the end of the month, the woman makes a Recovery roll as normal (see ArM5, page 179). If her Wound does not improve she miscarries, which kills the baby. If the woman gives birth, either naturally or through magical or medical intervention, before the end of the month then the curse has no effect on the baby — although the woman still suffers from the effects of a Medium Wound.
 
-Ease Factor: 12
+**Ease Factor: 12**
 
 Curse of Aging: The curse causes the character to immediately undergo an Aging Crisis (see ArM5, page 170). This disrupts the effect of a Longevity Potion.
 
-Ease Factor: 12
+**Ease Factor: 12**
 
 Curse of Emotion: The curse causes the target character to feel one strong emotion toward another specific character. Examples include love, hate, or pity. This curse requires an Arcane Connection to each character (which are both worked into the fabric), but the curse only needs to penetrate the Magic Resistance of the target character. It is only the target character who is directly affected by this curse; the feelings of the character who is the object of his emotion are unchanged. The effect lasts until either the curse item is destroyed or either Arcane Connection expires.
 
-Ease Factor: 15
+**Ease Factor: 15**
 
 Curse of the Tongue: The curse causes the character to forget how to speak any languages until either the curse object is destroyed, the Arcane Connection expires, or another magical effect restores his speech. This does not prevent a magus from casting spells, but he takes a penalty for casting without words.
 
-Ease Factor: 15
+**Ease Factor: 15**
 
 Curse of Paralysis: The curse causes the character to be unable to move his limbs until either the curse object is destroyed, the Arcane Connection expires, or another magical effect restores his mobility. The character may still speak and this curse does not prevent a magus from casting spells, but he takes a penalty for casting without gestures.
 
-(
-
-K'(
-
-Ease Factor: 18
+**Ease Factor: 18**
 
 Curse of the Beast: The curse transforms the character into a small animal (a frog, newt, or rat for example). The character is still really human, and is thus affected by Corpus and Mentem effects, as well as Animal effects. However, such a cursed character can no longer think or act like a person. The character does retain his Magic Resistance (if any), but a cursed magus cannot perform his Parma Magica ritual. The character remains as an animal until either the curse object is destroyed, the Arcane Connection expires, or another magical effect returns him to his original form.
 
-
-
-Ease Factor: 18
+**Ease Factor: 18**
 
 Curse of Reduction: The curse reduces the character in Size. Every month the character loses a Size level. This continues until either the curse object is destroyed, the Arcane Connection expires, or another magical effect returns the character to his original Size. When the effect ends, the character returns to his original Size at the rate of 1 Size level every hour. If the character reaches a Size of –18 he does not reduce further in Size, but he does not return to his original Size until the effect ends.
 
@@ -1987,19 +1778,15 @@ The folk witch has the ability to fly. The Ease Factor to take to the air is 9. 
 When making rolls to determine whether the folk witch can successfully perform a complex maneuver, use the Athletics Ability. If a flying folk witch is involved in combat, her Flight Ability score is added to both her Attack and Defense Totals — but only if her opponent cannot fly.
 
 #### HEALING
-
+Characteristic: Stamina
 Form: Corpus
 Method: Incantation or Potion.
-The folk witch can heal herself, or anoth-
-
-Characteristic: Stamina
-
-er character. This is true healing, and the folk witch can also use this power to recover, or aid another's recovery of, Fatigue Levels (Long or Short Term). Thus, this power breaks the Limit of Energy, but the folk witch must spend a number of pawns of Corpus vis depending on the wound type (indicated below). If vis is unavailable, then the power has no effect. The healing power must penetrate the Magic Resistance of the target. A target who is Dead cannot be healed, and a target who is Unconscious cannot have Fatigue Levels restored. The Ease Factor depends on the level of Wound/Fatigue, but how the wound was inflicted (trauma, disease, magic, etc) is irrelevant.
+The folk witch can heal herself, or another character. This is true healing, and the folk witch can also use this power to recover, or aid another's recovery of, Fatigue Levels (Long or Short Term). Thus, this power breaks the Limit of Energy, but the folk witch must spend a number of pawns of Corpus vis depending on the wound type (indicated below). If vis is unavailable, then the power has no effect. The healing power must penetrate the Magic Resistance of the target. A target who is Dead cannot be healed, and a target who is Unconscious cannot have Fatigue Levels restored. The Ease Factor depends on the level of Wound/Fatigue, but how the wound was inflicted (trauma, disease, magic, etc) is irrelevant.
 
 | EASE | WOUND (VIS)             | FATIGUE (VIS) |
 |------|-------------------------|---------------|
-| 6    | Light Wound (3 p)       | Winded (1 p   |
-| 9    | $Medium\ Wound\ (4\ p)$ | Weary (2 p)   |
+| 6    | Light Wound (3 p)       | Winded (1 p)  |
+| 9    | Medium Wound (4 p)      | Weary (2 p)   |
 | 12   | Heavy Wound (5 p)       | Tired (3 p)   |
 | 15   | Incapacitating (6 p)    | Dazed (4 p)   |
 
@@ -2023,68 +1810,61 @@ Method: Fetish or Potion.
 
 See ArM5, page 67. The fetish is made from the skin of the animal form.
 
-# Magical Defenses
+## Magical Defenses
 
 Each folk witch power grants her a Magic Defense against effects cast on her. Magic Defenses are detailed in the Introduction. An unGifted folk witch only has the Magic Defenses that correspond to the Supernatural Virtues that she has, of course. Note that these Supernatural Abilities do not normally grant a Magic Defense — this is a special consequence of the folk witch training.
 
-Power: Animal Ken
+**Power: Animal Ken**
 
 Defense: Magical Fortitude. Defense against effects cast by casters in an Animal form (includes shapeshifted magi, magical animals, faerie animals, etc.).
 
-
 Defense: Accelerated Expiry. Defense against effects that target her with an Arcane Connection.
 
-Power: Dowsing
+**Power: Dowsing**
 
-**Defense:** Confounding Magics. Defense against Mentem effects.
+Defense: Confounding Magics. Defense against Mentem effects.
 
-Power: Flight
+**Power: Flight**
 
 Defense: Immovable Object. Defense against Corpus effects.
 
-Power: Healing
+**Power: Healing**
 
-**Defense:** Magical Fortitude. Defense against Corpus effects.
+Defense: Magical Fortitude. Defense against Corpus effects.
 
-Power: Second Sight
+**Power: Second Sight**
 
-**Defense:** Accelerated Expiry. Defense against effects that affect her senses.
+Defense: Accelerated Expiry. Defense against effects that affect her senses.
 
-Power: Shapeshifter
+**Power: Shapeshifter**
 
-**Defense:** Strength of Form. Defense against Animal or Corpus effects.
+Defense: Strength of Form. Defense against Animal or Corpus effects.
 
-# Witch's Kitchen
+## Witch's Kitchen
 
 A folk witch uses a kitchen to study and perform other long-term activities, much like a magus uses a laboratory. In these rules the phrase "laboratory activity" is used to refer to the work that the folk witch does in her kitchen, even though she would not actually refer to it as a laboratory.
 
 Whenever a Lab Total is required this is calculated as:
 
-### Lab Total:
-
-(Supernatural Ability) + Intelligence + Folk Witch Magic Theory + Aura Modifier
+**Lab Total:** (Supernatural Ability) + Intelligence + Folk Witch Magic Theory + Aura Modifier
 
 For some activities there is no Supernatural Ability added to a folk witch's Lab Total. In these cases, her Lab Total will be very low in comparison to a Hermetic magus. In other circumstances, her Lab Total will still probably be lower than a magi's Lab Total as it is only generated from a single Ability score rather than a pair of Arts.
 
 An unGifted folk witch is capable of performing most laboratory tasks (she may brew potions, make fetishes, etc.), but only if she has the corresponding Virtues.
 
+>#### Folk Witch Magic Theory
+>
+>This Arcane Ability is analogous to the Magic Theory Ability of Hermetic magi. It covers the technical details of folk witch magic and is used in laboratory activities. Any character can be taught this Ability. Specialties: particular laboratory activities.
+
 ### BUILDING THE KITCHEN
 
-A folk witch kitchen is similar in concept to a Hermetic laboratory, but it normally occupies a much smaller space (100 square feet).
-
-
-
-Despite this similarity, a folk witch cannot actually use a magus' laboratory, and vice versa, but they can each recognize the other's workspace as being some sort of magical laboratory.
+A folk witch kitchen is similar in concept to a Hermetic laboratory, but it normally occupies a much smaller space (100 square feet). Despite this similarity, a folk witch cannot actually use a magus' laboratory, and vice versa, but they can each recognize the other's workspace as being some sort of magical laboratory.
 
 Part of the reason that folk witches and magi cannot use each others' laboratories is that a folk witch kitchen does not contain the same physical apparatus as most magi's laboratories. A folk witch kitchen is usually based around a cauldron (used for brewing potions), has little in the way of expensive glassware, and she uses local herbal ingredients rather than exotic materials.
 
-SETTING UP A KITCHEN:
-2 Seasons and a minimum Folk Witch
-Magic Theory score of 3
+**SETTING UP A KITCHEN:** 2 Seasons and a minimum Folk Witch Magic Theory score of 3
 
-CONVERTING AN HERMETIC LABORATORY TO A FOLK WITCH KITCHEN (AND VICE VERSA):
-
-1 Season, and both Folk Witch Magic Theory and Magic Theory of 3.
+**CONVERTING AN HERMETIC LABORATORY TO A FOLK WITCH KITCHEN (AND VICE VERSA):** 1 Season, and both Folk Witch Magic Theory and Magic Theory of 3.
 
 If your troupe has access to Covenants, many of the rules in that book (page 106) for refining and modifying Hermetic Laboratories are also applicable to a folk witch kitchen. If you use these rules add 3 to the Laboratory Size Scale (Covenants, page 110), when evaluating the effective size of the kitchen; thus a 100-square-foot space is a Size 0 kitchen, a 500-square-foot space is a Size +3 kitchen, etc. This means that if, for example, a standard Hermetic Laboratory is converted to a folk witch kitchen, it will be a very large kitchen.
 
@@ -2096,16 +1876,11 @@ A folk witch cannot normally be assisted in her work by other characters. There 
 
 A folk witch may experiment with any laboratory activity that uses a Lab Total. This works exactly the same as Hermetic experimentation — she receives a bonus to her Lab Total and a roll must be made on the Extraordinary Results table (see ArM5, page 107-109). Many folk witches live in towns or villages with Divine Auras, and so often experiment to try to overcome the negative penalty of the aura to their Lab Totals.
 
-EXPERIMENTAL BONUS TO LAB TOTAL:
-Simple die + Risk Modifier
+**EXPERIMENTAL BONUS TO LAB TOTAL:**  Simple die + Risk Modifier
 
 ### LAB TEXTS
 
 Many folk witches are illiterate and are thus incapable of producing or using Lab Texts in their laboratory activities. This does not stop them performing laboratory activities, but it does make it difficult to share innovations with others. A few folk witches are literate, and those witches may utilize Lab Texts for some activities; these are detailed below.
-
-# Folk Witch Magic Theory
-
-This Arcane Ability is analogous to the Magic Theory Ability of Hermetic magi. It covers the technical details of folk witch magic and is used in laboratory activities. Any character can be taught this Ability. Specialties: particular laboratory activities.
 
 Folk witch Lab Texts have a level, and a folk witch uses the same rules as a magus when copying or writing Lab Texts (although she need not write in Latin). Like a magus, each folk witch writes her Lab Text using idiosyncratic notation, so she must translate the Lab Texts of other folk witches (see ArM5, page 102-103). Folk witch Lab Texts are normally of no use to a magus, although he can recognize them as being Lab Texts, and he could study the Lab Texts as a source of Insight when trying to integrate folk witch practices with Hermetic theory. Hermetic Lab Texts are likewise normally of no use to a folk witch.
 
@@ -2113,13 +1888,11 @@ Folk witch Lab Texts have a level, and a folk witch uses the same rules as a mag
 
 Folk witches may find vis using their Dowsing Ability.
 
-Vis Extraction: A folk witch can, in a season, extract a number of pawns of Vim vis from the local aura equal to a tenth of her Lab Total (round up). No Supernatural Ability is added to this Lab Total, so it is likely that she will only be able to extract 1 or 2 pawns per season.
+**Vis Extraction: **A folk witch can, in a season, extract a number of pawns of Vim vis from the local aura equal to a tenth of her Lab Total (round up). No Supernatural Ability is added to this Lab Total, so it is likely that she will only be able to extract 1 or 2 pawns per season.
 
-Vis Transfer: A folk witch can easily move raw vis from one physical form to another
+**Vis Transfer:** A folk witch can easily move raw vis from one physical form to another in her kitchen. This takes one day and uses the same rules as for Hermetic magi.
 
-in her kitchen. This takes one day and uses the same rules as for Hermetic magi.
-
-Vis Use: In a season, a folk witch can only use up to twice her Folk Witch Magic Theory Ability score in pawns of vis on laboratory projects.
+**Vis Use:** In a season, a folk witch can only use up to twice her Folk Witch Magic Theory Ability score in pawns of vis on laboratory projects.
 
 ### FIXING ARCANE CONNECTIONS
 
@@ -2133,10 +1906,7 @@ Although a folk witch does often study in her kitchen, she does not technically 
 
 ### CURSE FETISH WEAVING
 
-If she has the Cursing Ability, the folk witch may weave a curse. The curse is woven on a loom and the fabric details the curse. She must do this (or brew a potion) in order to curse a character. The effect of various curses are described earlier in this chapter, and creating a single fabric (which targets an Individual) both occupies the character for an entire season, and requires a kitchen. The witch must have an active Arcane Connection to the target at the beginning of the season to create such a fabric, but it need not
-
-
-be an Arcane Connection that lasts for the entire season.
+If she has the Cursing Ability, the folk witch may weave a curse. The curse is woven on a loom and the fabric details the curse. She must do this (or brew a potion) in order to curse a character. The effect of various curses are described earlier in this chapter, and creating a single fabric (which targets an Individual) both occupies the character for an entire season, and requires a kitchen. The witch must have an active Arcane Connection to the target at the beginning of the season to create such a fabric, but it need not be an Arcane Connection that lasts for the entire season.
 
 Disease, miscarriage, and aging curses take effect immediately, once the fabric is complete, and this destroys the Arcane Connection. Love, tongue, paralysis, beast, and reduction curses normally last until either the fabric is destroyed, magic cancels the effect, or the Arcane Connection expires. The lifetime of the Arcane Connection is counted from the completion of the fabric.
 
@@ -2152,9 +1922,7 @@ If she has the Flight Ability, a folk witch can enchant a flying aid in her kitc
 
 ### SKIN KNITTING
 
-If she has the Shapeshifter Ability, the folk witch may enchant an animal skin in her kitchen. This is the fetish that she needs to use the Ability. Rather than a skin, some folk witches use another part of the animal, for example a foot, as a fetish. Regardless of the precise form, enchanting the fetish takes a season and consumes 1 pawn of Animal vis. Once enchanted, a Shapeshifter fetish lasts indefinitely but it can be destroyed; it is still
-
-just an animal skin. A folk witch may have fetishes for as many different types of animals as she has a score in the Shapeshifter Ability, and she can have any number of fetishes for each type. Duplicate fetishes for the same type of animal give her no advantage, except as a spare in case she loses one.
+If she has the Shapeshifter Ability, the folk witch may enchant an animal skin in her kitchen. This is the fetish that she needs to use the Ability. Rather than a skin, some folk witches use another part of the animal, for example a foot, as a fetish. Regardless of the precise form, enchanting the fetish takes a season and consumes 1 pawn of Animal vis. Once enchanted, a Shapeshifter fetish lasts indefinitely but it can be destroyed; it is still just an animal skin. A folk witch may have fetishes for as many different types of animals as she has a score in the Shapeshifter Ability, and she can have any number of fetishes for each type. Duplicate fetishes for the same type of animal give her no advantage, except as a spare in case she loses one.
 
 ### POTION BREWING
 
@@ -2168,36 +1936,31 @@ If the folk witch is literate she may write a potion Lab Text, which has a level
 
 A few folk witch covens do not brew potions, but bake special breads instead. Use the same game mechanics for these items.
 
-> Brew Potency: Supernatural Ability Lab Total
+**Brew Potency:** Supernatural Ability Lab Total
 
-POTION CASTING TOTAL: Brew Potency + stress die
+**POTION CASTING TOTAL:** Brew Potency + stress die
 
-Doses per Brew: Folk Witch Magic Theory (+ Lab Text Level)
+**Doses per Brew:** Folk Witch Magic Theory (+ Lab Text Level)
 
-Vis Cost: 1 per Dose + Effect Cost
+**Vis Cost:** 1 per Dose + Effect Cost
 
-POTION LAB TEXT LEVEL: Folk Witch Magic Theory
+**POTION LAB TEXT LEVEL:** Folk Witch Magic Theory
 
-For example: A folk witch with an Intelligence of +1, a Folk Witch Magic Theory Ability score of 4, and a Healing Ability score of 5 is attempting to brew a batch of potions to heal Light Wounds. Her kitchen is in a magic aura of 3.
+*For example: A folk witch with an Intelligence of +1, a Folk Witch Magic Theory Ability score of 4, and a Healing Ability score of 5 is attempting to brew a batch of potions to heal Light Wounds. Her kitchen is in a magic aura of 3.*
 
-Her Lab Total is 13(1+4+5+3). This is the Brew Potency, which means that when the potions are consumed they will easily heal a Light Wound (as the effective Casting Total will be 13 + stress die and the Ease Factor to heal a Light Wound is 6). Her brew will produce 4 doses, and costs a total of 7 pawns of Corpus vis (1 per dose + effect cost). As she has a Folk Witch Magic Theory Ability score of 4, the folk witch may use 8 pawns of vis in a season of laboratory work, so she may do this. However if she only had 4 pawns of vis available, she would only be able to manufacture 1 dose.
+*Her Lab Total is 13(1+4+5+3). This is the Brew Potency, which means that when the potions are consumed they will easily heal a Light Wound (as the effective Casting Total will be 13 + stress die and the Ease Factor to heal a Light Wound is 6). Her brew will produce 4 doses, and costs a total of 7 pawns of Corpus vis (1 per dose + effect cost). As she has a Folk Witch Magic Theory Ability score of 4, the folk witch may use 8 pawns of vis in a season of laboratory work, so she may do this. However if she only had 4 pawns of vis available, she would only be able to manufacture 1 dose.*
 
-If she was literate she would be able to produce a Lab Text for this brew (which would have a level of 4). This would mean that the next time she made this brew she could work from the Lab Text and be able to manufacture 8 doses (4 + 4). Unfortunately this would require 11 pawns of vis, which is too many for her to cope with in a season (unless she has the Minor Supernatural Ability Concentrated Potions). So, she will only be able to make 5 doses (for a cost of 8 vis).
+*If she was literate she would be able to produce a Lab Text for this brew (which would have a level of 4). This would mean that the next time she made this brew she could work from the Lab Text and be able to manufacture 8 doses (4 + 4). Unfortunately this would require 11 pawns of vis, which is too many for her to cope with in a season (unless she has the Minor Supernatural Ability Concentrated Potions). So, she will only be able to make 5 doses (for a cost of 8 vis).*
 
 ### POTION EFFECTS
 
-Some potions allow the drinker to temporarily act as if they have a Supernatural
+Some potions allow the drinker to temporarily act as if they have a Supernatural Ability. In this case the character (who could be a folk witch) does not need to recite an incantation or have a fetish item to use the Ability. It is also possible that the Ability score granted by sucha potion may be greater than the folk witch's score in Supernatural Ability (if she has a low Supernatural Ability, but high Folk Witch Magic Theory Ability score, for example).
 
-
-Ability. In this case the character (who could be a folk witch) does not need to recite an incantation or have a fetish item to use the Ability. It is also possible that the Ability score granted by sucha potion may be greater than the folk witch's score in Supernatural Ability (if she has a low Supernatural Ability, but high Folk Witch Magic Theory Ability score, for example).
-
-Ability: Animal Ken
-
-acca
+**Ability: Animal Ken**
 
 Effect: The character drinking this potion acts as if he had the Animal Ken Ability, with an Ability score equal to the Brew Potency / 5 (round up). This effect lasts for a number of days equal to the Brew Potency.
 
-Ability: Cursing
+**Ability: Cursing**
 
 Effect: The character drinking this potion is affected by the curse specified at the time the potion was brewed. Disease, miscarriage, and aging curses activate immediately when the potion is drunk, but are not ongoing magical effects. The other curse types activate when the potion is drunk and persist as ongoing magical effects until either their effect is reversed by magic, or a year and a day has passed since the potion was drunk.
 
@@ -2205,26 +1968,25 @@ Of course, no sensible character will knowingly drink such a potion, but sometim
 
 All doses in a brew inflict the same type of curse. The type of curse is not limited by the Brew Potency; for example a folk witch with a Brew Potency of 10 could manufacture potions that inflict the beast curse. However, such a potion will only actually work if (at the time of consumption) the Brew Potency plus a stress die roll equal or exceeds an Ease Factor of 18 (and penetrates the drinker's Magic Resistance).
 
-Ability: Dowsing
+**Ability: Dowsing**
 
 Effect: The character drinking this potion acts as if he had the Dowsing Ability, with an Ability score equal to the Brew Potency / 5 (round up). This effect lasts for a single search for an item.
 
-
-Ability: Flight
+**Ability: Flight**
 
 Effect: The character drinking this potion acts as if he had the Flight Ability, with a score equal to the Brew Potency / 5 (round up). This effect lasts for a single flight.
 
-Ability: Healing
+**Ability: Healing**
 
 Effect: The character is healed of a Wound or Fatigue level when he drinks the potion. The target Ease Factor (that is, the type of Wound/Fatigue level) must be specified at the time of brewing, and the appropriate amount of vis is consumed (for each dose) during the brewing process. Potions that heal Wounds and Fatigue levels are different; this must also be specified at the time of brewing. All doses in a brew have the same effect.
 
 The potion can heal one Wound of the specified type or one lesser Wound. For example, if a healing potion that is designed to heal a Heavy Wound is drunk by a character with only Light Wounds, then a single Light Wound will be healed. If a character has several Wounds, then the worst that the potion is capable of healing is healed.
 
-Ability: Second Sight
+**Ability: Second Sight**
 
 Effect: The character drinking this potion acts as if he had the Second Sight Ability, with a score equal to Brew Potency / 5 (round up). This effect lasts for a number of days equal to the Brew Potency.
 
-Ability: Shapeshifter
+**Ability: Shapeshifter**
 
 Effect: The character drinking this potion transforms into an animal specified at the time of brewing (which is the same animal for all doses in the brew), and a part of the animal must be included in the brew. The folk witch must also have a fetish for this animal type available when she is brewing the potion. This effect lasts for a number of days equal to the Brew Potency. At the end of the effect, the character transforms back to his natural form. The character can end the effect sooner, at will, but he cannot then transform back into the animal form.
 
@@ -2232,32 +1994,23 @@ Effect: The character drinking this potion transforms into an animal specified a
 
 A folk witch may enrich Things of Virtue, using the rules printed in Realms ofPower: Magic.
 
-\e
-
 ### LONGEVITY RITUAL
 
-A folk witch can create a Longevity Ritual for herself using the same rules used by a Hermetic magus (see ArM5, page 101). Use
+A folk witch can create a Longevity Ritual for herself using the same rules used by a Hermetic magus (see ArM5, page 101). Use her Healing Ability Lab Total for this activity, which means that a folk witch's Longevity Ritual is likely to be considerably less potent than a magus'. Also remember that a folk witch can only generate a Lab Text if she is literate, so she may not be able to easily repeat the ritual when it fails. A folk witch cannot create a Longevity Ritual for another character.
 
+>#### Investigating a Potion
+>
+>A folk witch can inspect a potion to determine its effect, which is represented by a Folk Witch Magic Theory Ability roll. This takes her a few minutes, and reveals the Brew Potency and precise effect of the potion.
+>
+>**POTION INVESTIGATION:** Intelligence + Folk Witch Magic Theory + Stress Die vs Ease Factor of 9
+>
+>To a Hermetic magus, a potion appears to be a magical effect of Magnitude equal to the Brew Potency / 5, and thus can be detected via an appropriate Intellego Vim spell. Note that a standard detection spell will merely note that the potion is "a magical effect," but an additional magnitude of effect will identify the potion as being "non-Hermetic," and a second additional magnitude of effect will reveal the Form of the effect (see ArM5, page 158). To correctly identify the Form of the effect, the magus must be familiar with folk witch magic; a magus with a score in Folk Witch Magic Theory or Organization Lore: Folk Witches, or the Supernatural Ability granted by the potion, is sufficiently familiar. To precisely identify the effect of a potion, a magus may investigate it in his laboratory, and again can only do this if he is familiar with folk witch magic. Treat the potion as a single effect with a level equal to the Brew Potency (see ArM5, page 100).
 
-# Investigating a Potion
-
-A folk witch can inspect a potion to determine its effect, which is represented by a Folk Witch Magic Theory Ability roll. This takes her a few minutes, and reveals the Brew Potency and precise effect of the potion.
-
-POTION INVESTIGATION
-Intelligence + Folk Witch Magic Theory
-+ Stress Die vs Ease Factor of 9
-
-To a Hermetic magus, a potion appears to be a magical effect of Magnitude equal to the Brew Potency / 5, and thus can be detected via an appropriate Intellego Vim spell. Note that a standard detection spell will merely note that the potion is "a magi-
-
-cal effect," but an additional magnitude of effect will identify the potion as being "non-Hermetic," and a second additional magnitude of effect will reveal the Form of the effect (see ArM5, page 158). To correctly identify the Form of the effect, the magus must be familiar with folk witch magic; a magus with a score in Folk Witch Magic Theory or Organization Lore: Folk Witches, or the Supernatural Ability granted by the potion, is sufficiently familiar. To precisely identify the effect of a potion, a magus may investigate it in his laboratory, and again can only do this if he is familiar with folk witch magic. Treat the potion as a single effect with a level equal to the Brew Potency (see ArM5, page 100).
-
-her Healing Ability Lab Total for this activity, which means that a folk witch's Longevity Ritual is likely to be considerably less potent than a magus'. Also remember that a folk witch can only generate a Lab Text if she is literate, so she may not be able to easily repeat the ritual when it fails. A folk witch cannot create a Longevity Ritual for another character.
-
-# Pamiliars
+## Familiars
 
 A folk witch can bind an animal to herself as a familiar. This is a laboratory activity and takes one season. In order to bind an animal, her Animal Ken Lab Total must exceed the Binding Total:
 
-FOLK WITCH FAMILIAR BINDING TOTAL: 10 + Familiar's Size + Familiar's Magic Might
+**FOLK WITCH FAMILIAR BINDING TOTAL:** 10 + Familiar's Size + Familiar's Magic Might
 
 It is quite easy for a folk witch to bind a small non-magical animal (like a cat, which has a negative Size) as her familiar, and many folk witches do. It is rather more difficult for folk witches with low Animal Ken Lab Totals to bind an animal with Magic Might, and so magical familiars are rare. The "Book of Mundane Beasts" appendix in Realms of Power: Magic and the Bjornaer chapter of Houses of Hermes: Mystery Cults (page 38) contain statistics for mundane beasts that may make suitable familiars. Realms of Power: Magic also contains rules for creating magical animals.
 
@@ -2269,7 +2022,7 @@ If it did not previously have human Intelligence, the familiar gains it, with a 
 
 This leads to the main benefit of a familiar: it may serve as an assistant in the kitchen. The folk witch receives a bonus to her Lab Total equal to the familiar's Intelligence + Folk Witch Magic Theory. Of course, this will be only worthwhile if the familiar isn't too stupid.
 
-Familiar's Intelligence + Familiar's Folk Witch Magic Theory
+**Familiar Bonus to Lab Total:** Familiar's Intelligence + Familiar's Folk Witch Magic Theory
 
 The familiar binding gives both the folk witch and the familiar the Minor Virtue True Friend, relating to the other half of the partnership. Thus, they also each gain Personality Traits of Loyal (partner) +3.
 
@@ -2277,9 +2030,7 @@ The familiar won't die of old age as long as the folk witch is alive, and it onl
 
 The folk witch and the familiar are magically linked. Each serves as an Arcane Connection to the other. Neither needs to overcome the other's Magic Resistance in order to affect him or her with a magical effect.
 
-The folk witch can use her Healing Abil-
-
-ity on the familiar, but expends Animal vis instead of Corpus vis to power the effect.
+The folk witch can use her Healing Ability on the familiar, but expends Animal vis instead of Corpus vis to power the effect.
 
 The folk witch does not increase the Ease Factor due to distance or rarity when attempting to Dowse for the location of her familiar. That is, the Ease Factor is always 9.
 
@@ -2287,7 +2038,7 @@ The folk witch can use her Animal Ken Ability to enter a trance-like state that 
 
 Folk witches do not know how to form the bonds that a hermetic magus does to his familiar, nor can they invest additional powers in the familiar bond.
 
-# Carping
+## Warping
 
 A folk witch gains Warping points via the usual methods, including exposure to strong (non-Magical) auras and powerful or constant mystical effects. She also gains Warping points when she botches using her Supernatural Abilities. Whenever she gains enough Warping points to increase her Warping Score by 1, she experiences a painful and disturbing event known as the Witch Moon. This occurs immediately *after* her Warping Score increases, so at her first Witch Moon the folk witch will have just acquired a Warping Score of 1 (unless she somehow acquires a large number of Warping points that increase her Warping Score to a higher level).
 
@@ -2295,37 +2046,31 @@ This is the folk witch equivalent of Wizard's Twilight and replaces the normal e
 
 ### THE WITCH MOON
 
-The Witch Moon lasts for at least one month, during which the character temporarily loses all her Supernatural Abilities. She also suffers a hot fever, which causes a Medium Wound — this wound is treated as a disease, and many
-
-
-
-folk witches keep a healing potion handy for dealing with it. The folk witch can still drink potions even though she can't brew any.
+The Witch Moon lasts for at least one month, during which the character temporarily loses all her Supernatural Abilities. She also suffers a hot fever, which causes a Medium Wound — this wound is treated as a disease, and many folk witches keep a healing potion handy for dealing with it. The folk witch can still drink potions even though she can't brew any.
 
 At the end of the month, make a roll for the folk witch to see if the Witch Moon has passed. If this roll fails, then the folk witch gains another Warping Point and the Witch Moon lasts for another month, inflicting another Medium Wound on the witch due to fever. Roll again at the end of the second month and so forth, until she recovers. If the roll to end the Witch Moon is botched, the folk witch gains an additional number of Warping Points equal to the number of 0s of the botch die. Note that the penalties due to wounds do not affect this roll.
 
-To End WITCH MOON:
-Stamina – Warping Score + stress die
-vs Ease Factor 6
+**TO END WITCH MOON:** Stamina – Warping Score + stress die vs Ease Factor 6
 
 ### EFFECTS OF THE WITCH MOON
 
 Assuming that the folk witch recovers from the Witch Moon, she gains some kind of mark from the experience. If the folk witch took more months to recover from the Witch Moon than her Warping score, then the experience is bad. Otherwise, her experience is good. So for example, if a folk witch with a Warping Score of 1 recovers at the end of the first month of the Witch Moon, then her experience is a good one. In either case, the story guide should select the effect from the following options:
 
-### GOOD EXPERIENCES
+#### GOOD EXPERIENCES
 
-Increased Knowledge: The folk witch gains a number of experience points in a pre-existing Supernatural Ability or in Folk Witch Magic Theory, equal to  $5 \times 10^{-5}$  number of months spent in the Witch Moon.
+**Increased Knowledge:** The folk witch gains a number of experience points in a pre-existing Supernatural Ability or in Folk Witch Magic Theory, equal to 5 x number of months spent in the Witch Moon.
 
-New Mystical Virtue: The folk witch gains a Minor Virtue.
+**New Mystical Virtue: **The folk witch gains a Minor Virtue.
 
-New Ability: The folk witch gains a new Supernatural Ability, with an Ability score of 1.
+**New Ability:** The folk witch gains a new Supernatural Ability, with an Ability score of 1.
 
-### BAD EXPERIENCES
+#### BAD EXPERIENCES
 
-Lost Knowledge: She loses 2 experience points in a Supernatural Ability or in Folk Witch Magic Theory for every Warping Point gained during the Witch Moon. This cannot reduce the score below 0.
+**Lost Knowledge:** She loses 2 experience points in a Supernatural Ability or in Folk Witch Magic Theory for every Warping Point gained during the Witch Moon. This cannot reduce the score below 0.
 
-New Mystical Flaw: The folk witch gains a Minor Flaw.
+**New Mystical Flaw:** The folk witch gains a Minor Flaw.
 
-# Covens
+## Covens
 
 A coven is a group of folk witches (usually three or four, perhaps up to a dozen) who form a community of hedge wizards. Each coven can be thought of as a mini-tradition of its own, and most folk witches seldom meet with witches from other covens.
 
@@ -2333,111 +2078,81 @@ A coven is also the equivalent of a Hermetic covenant, although the folk witches
 
 Many folk witches are unGifted, and although such witches are usually less powerful than their Gifted sisters, they're able to more easily interact with each other and the mundane world. A coven might have several unGifted members living in villages, bartering their supernatural prowess for food and wood, who support a Gifted sister living in a remote cave.
 
-# Coven Initiations
+### Coven Initiations
 
 Folk witches use these initiations:
 
-### OPENING THE GIFT
+#### OPENING THE GIFT
 
 Gifted folk witches have their Gift Opened in a special ceremony. The folk witch version obeys all the standard rules for this, as given in the Introduction. The effect of the Opening is to give the folk witch seven favored Supernatural Abilities. These are normally Animal Ken, Cursing, Dowsing, Flight, Healing, Second Sight, and Shapeshifter.
 
-> FOLK WITCH OPENING TOTAL: Int + Folk Witch Magic Theory + Sabbat Bonus
+**FOLK WITCH OPENING TOTAL:** Int + Folk Witch Magic Theory + Sabbat Bonus
 
 If the troupe desires, you may swap some of the standard powers for other Supernatural Abilities. Likely powers that a coven could use include Animal Healing, Entrancement, Enchanting Music, Nightwalking, Premonitions, and Wilderness Sense. You will need to decide what casting methods these Abilities use and devise potions for them and (if you want) initiation scripts to teach the relevant Supernatural Virtues to unGifted characters.
 
-# Initiations for unGifted Folk Witches
+#### Initiations for unGifted Folk Witches
 
 UnCifted folk witches also initiate in the folk witch powers using the general rules given in the Introduction. Usually, a folk witch undergoes her first initiation during the first year or so of her apprenticeship. The first initiation usually culminates in a formal ceremony performed at a sabbat, when the new witch is introduced to the coven, but it is also possible for a witch to initiate a young girl secretly.
 
-FOLK WITCH INITIATION TOTAL:
+**FOLK WITCH INITIATION TOTAL:** Mystagogue's Presence + Mystagogue's Folk Witch Magic Theory + Script Bonus + Sabbat Bonus
 
-Mystagogue's Presence + Mystagogue's
-
-Folk Witch Magic Theory + Script Bonus
-
-+ Sabbat Bonus
-
-Unlike some kinds of initiations, each folk witch may only initiate others in a Supernatural Ability that she knows herself, and some initiations can only be performed at certain times or places. Gifted folk witches can usually initiate other folk witches in any of these Supernatural Abilities. Some of these initia-
-
-# Organization Lore: Folk Witches
-
-A character with this Ability (see the Introduction) knows the sorts of effects that folk witches are capable of, where coven members meet and live, and the names and reputations of some folk witches. The specialty for the Organization Lore: Folk Witches Ability must be a particular
-
-"home" coven. Whenever a roll is made to determine what the character knows about another coven, it is always a stress die; also, roll an additional botch die for every week's travel this coven is from the character's "home" coven. Specialities: a particular coven.
-
-
-
-tions are quite difficult and are thus almost always performed at a sabbat (see below).
+Unlike some kinds of initiations, each folk witch may only initiate others in a Supernatural Ability that she knows herself, and some initiations can only be performed at certain times or places. Gifted folk witches can usually initiate other folk witches in any of these Supernatural Abilities. Some of these initiations are quite difficult and are thus almost always performed at a sabbat (see below).
 
 Once a girl has undergone her first initiation, she is considered to be a witch by her peers. Of course, a typical girl has no significant skills immediately after her initiation and so normally remains with her sponsor, learning the craft, for a total of 10 years. Some covens swap newly initiated witches between the coven members, so a girl might be trained by a succession of witches throughout her apprenticeship. And as she nears the end of her apprenticeship, she may even be assigned to train younger witches herself.
 
 If playing a variant folk witch tradition, the troupe may like to create different initiations for the witches' different Supernatural Abilities.
 
-RHYME OF THE BEAST Initiation Ease Factor: 15
+>#### Precocious Girls
+>
+>It is not unusual for a coven to accidentally initiate a Gifted girl into the folk witch powers as if she was unGifted, particularly if none of the current witches in the coven have The Gift. Eventually this mistake may be noticed if the Gifted girl begins to learn the Supernatural Abilities of her mistress (via exposure) without completing the appropriate initiation rituals. At this point the coven has two choices: either a Gifted folk witch can be found to Open the girl's Gift properly (although this will be more difficult as the girl has already learned some Supernatural Abilities); alternatively, the girl can be taught Supernatural Abilities by the unGifted witches (which will also be difficult — as her Gift is not Opened she has no favored Abilities).
 
-Script Bonus: +6 (+3 Minor Ordeal, +1 Time, +2 Sympathetic)
+>#### Organization Lore: Folk Witches
+>
+>A character with this Ability (see the Introduction) knows the sorts of effects that folk witches are capable of, where coven members meet and live, and the names and reputations of some folk witches. The specialty for the Organization Lore: Folk Witches Ability must be a particular "home" coven. Whenever a roll is made to determine what the character knows about another coven, it is always a stress die; also, roll an additional botch die for every week's travel this coven is from the character's "home" coven. Specialities: a particular coven.
+
+**RHYME OF THE BEAST** 
+**Initiation Ease Factor:** 15
+**Script Bonus:** +6 (+3 Minor Ordeal, +1 Time, +2 Sympathetic)
 
 The initiate must live as an animal for a season. She cannot talk or eat with people during this season. The initiate gains the Minor General Flaw Incomprehensible, and the Minor Supernatural Virtue Animal Ken.
 
-# Precocious Girls
-
-It is not unusual for a coven to accidentally initiate a Gifted girl into the folk witch powers as if she was unGifted, particularly if none of the current witches in the coven have The Gift. Eventually this mistake may be noticed if the Gifted girl begins to learn the Supernatural Abilities of her mistress (via exposure) without completing the appropriate initiation rituals. At this point the
-
-coven has two choices: either a Gifted folk witch can be found to Open the girl's Gift properly (although this will be more difficult as the girl has already learned some Supernatural Abilities); alternatively, the girl can be taught Supernatural Abilities by the unGifted witches (which will also be difficult — as her Gift is not Opened she has no favored Abilities).
-
-
-Initiation Ease Factor: 21
-
-Script Bonus: +10 (+9 Major Ordeal, +1 Time)
+**VENOMOUS DARTS**
+**Initiation Ease Factor:** 21
+**Script Bonus:** +10 (+9 Major Ordeal, +1 Time)
 
 This initiation may only be performed in winter — the initiate performs purification rituals every evening of the season. The initiate gains the Major General Flaw Magical Air, and the Major Supernatural Virtue Cursing.
 
-SENSE OF PLACE
-
-Initiation Ease Factor: 15
-
-Script Bonus: +6 (+3 Minor Ordeal,
-
- $+ 1 \ Time, \ + 2 \ Sympathetic \ Bonus)$ 
+**SENSE OF PLACE**
+**Initiation Ease Factor:** 15
+**Script Bonus:** +6 (+3 Minor Ordeal, + 1 Time, + 2 Sympathetic Bonus)
 
 The initiate must spend the initiation season traveling up and down the same path, which is not more than one day's walk in length. She may rest just off the path, but may not stray more than 100 feet from the path at any time. The initiate gains the Minor General Flaw Motion Sickness, and the Minor Supernatural Virtue Dowsing.
 
-Unbound by Land
-
-Initiation Ease Factor: 15
-
-Script Bonus: +6 (+3 Minor Ordeal, +1 Time, +2 Sympathetic Bonus)
+**Unbound by Land**
+**Initiation Ease Factor:** 15
+**Script Bonus:** +6 (+3 Minor Ordeal, +1 Time, +2 Sympathetic Bonus)
 
 The initiate must spend the initiation season above the ground. She might live in a tree, for example. The initiate gains the Minor General Flaw Arthritis, and the Minor Supernatural Virtue Flight.
 
-HANDS OF LIFE
-
-Initiation Ease Factor: 21
-
-Script Bonus: +10 (+9 Major Ordeal, +1 Time)
+**HANDS OF LIFE**
+**Initiation Ease Factor:** 21
+**Script Bonus:** +10 (+9 Major Ordeal, +1 Time)
 
 This initiation may only be performed in the spring — the initiate performs purification rituals every evening of the season. The initiate gains the Major General Flaw Enfeebled, and the Major Supernatural Virtue Healing.
 
-THE DEVIL'S EYE
-
-Initiation Ease Factor: 15
-
-Script Bonus: +7 (+3 Minor Ordeal,
-
-+3 Quest, +1 Sympathetic Bonus)
+**THE DEVIL'S EYE**
+**Initiation Ease Factor:** 15
+**Script Bonus:** +7 (+3 Minor Ordeal, +3 Quest, +1 Sympathetic Bonus)
 
 The initiate must find an Arcane Connection to an invisible creature. She gains the Minor General Flaw Missing Eye, and the Minor Supernatural Virtue Second Sight.
 
-SECOND LIFE
-
-Initiation Ease Factor: 21
-
-Script Bonus: +13 (+9 Major Ordeal,
-
-+3 Quest, +1 Sympathetic Bonus)
+**SECOND LIFE**
+**Initiation Ease Factor:** 21
+**Script Bonus:** +13 (+9 Major Ordeal, +3 Quest, +1 Sympathetic Bonus)
 
 The initiate must make a cloak from the hide of a Beast of Virtue. She gains the Major Supernatural Flaw Age Quickly, and the Major Supernatural Virtue Shapeshifter.
 
+## Sabbat
 
 A sabbat is a meeting of the coven, and most covens meet at certain times throughout the year (see insert). The sabbat is an opportunity for the witches to trade vis, discuss common threats, and gossip. As folk witches do not normally live together, this is often the only opportunity for the coven members to meet. This is fortunate, since because a folk witch does not have Parma Magica she is not insulated from the social effects of her Gifted sisters. In fact, this has led many sabbats to end in acrimonious bickering, and consequently some covens only hold annual or biannual sabbats.
 
@@ -2455,13 +2170,13 @@ As covens are each very different, there are no standard procedures for a sabbat
 
 Of course, the coven might also change over the course of a saga.
 
-Easy: The witches meet, discuss, trade vis, and make some cooperative decisions without serious problems. This is quite plausible for a coven where the witches are unGifted, Gentle Gifted, or when the coven is facing a common, uniting threat like a nearby, aggressive Hermetic covenant. This is a good option when the troupe does not want to spend significant time telling stories about internal coven politics.
+**Easy:** The witches meet, discuss, trade vis, and make some cooperative decisions without serious problems. This is quite plausible for a coven where the witches are unGifted, Gentle Gifted, or when the coven is facing a common, uniting threat like a nearby, aggressive Hermetic covenant. This is a good option when the troupe does not want to spend significant time telling stories about internal coven politics.
 
-Bickering: Most of the witches meet for the sabbat but, despite their best intentions, they can agree on little. However, on specific issues a determined witch can probably cajole her sisters into action. This is the most likely option if there are several Cifted witches in the coven.
+**Bickering:** Most of the witches meet for the sabbat but, despite their best intentions, they can agree on little. However, on specific issues a determined witch can probably cajole her sisters into action. This is the most likely option if there are several Cifted witches in the coven.
 
-Dictatorial: One dominant witch (usually the eldest) makes any important decisions needed for the whole coven, and the others are sufficiently scared, or impressed, to follow her lead. This option could suit a troupe where folk witches are antagonists in stories.
+**Dictatorial:** One dominant witch (usually the eldest) makes any important decisions needed for the whole coven, and the others are sufficiently scared, or impressed, to follow her lead. This option could suit a troupe where folk witches are antagonists in stories.
 
-Feuding: Most of the coven's members don't attend the sabbat, and those who do trade insults or even attack one another. This option may be difficult to run well if several player characters are witches in the coven; on the other hand, such a coven could also generate rewarding stories.
+**Feuding:** Most of the coven's members don't attend the sabbat, and those who do trade insults or even attack one another. This option may be difficult to run well if several player characters are witches in the coven; on the other hand, such a coven could also generate rewarding stories.
 
 ### SABBAT MAGIC
 
@@ -2469,45 +2184,42 @@ Although the sabbat is a social event, it is also an auspicious time for folk wi
 
 For cooperative potion brewing, a folk witch may bring along a partially prepared brew to a sabbat (that is, the brew that she is working on in her kitchen during that particular season). At the sabbat, other folk witches may increase the potency of the brew by casting incantations over the bubbling cauldron. Add 1 to the brew potency for each folk witch that assists. Each of the assisting folk witches must have a score in the Supernatural Ability that the potion is based on (note that the other components of the Lab Total for the brew are calculated based on the kitchen the the main caster works in throughout the rest of the season).
 
-POTENCY BONUS FOR SABBAT BREW: +1 each folk witch assisting main caster
+**POTENCY BONUS FOR SABBAT BREW: **+1 each folk witch assisting main caster
 
-MAXIMUM NUMBER OF ASSISTANTS: Magic Aura at sabbat site
+**MAXIMUM NUMBER OF ASSISTANTS:** Magic Aura at sabbat site
 
 For sabbat Openings of The Gift the apprentice is brought to the sabbat and other Gifted folk witches can recite incantations that increase the Opening Total. Only Gifted folk witches can assist in this way.
 
-# Sabbat Times
+**Opening total bonus for sabbat opening: **+1 each Gifted witch helping Mystagogue
 
-### WINTER SOLSTICE
-
-Imbolg/Brigid/Candlemas: 1 February Eostre: Spring Equinox
-
-Beltane/May Day/Walpurgis' Night:
-
-30 April/1 May
-
-### SUMMER SOLSTICE
-
-Lammas/Lugnasad: 2 August Mabon: Autumn Equinox Samhain/All Hallow's Eve: 31 October/1 November
-
-# Story Seed: The Grand Sabbat
-
-Some magi claim to know of a grand sabbat held every 101 years, attended by folk witches from all over Mythic Europe. But given the disorganized nature of folk witches, such an event is likely to only occur in their imagination. However, in the Stonehenge Tribunal, a small number of folk witch covens do meet every All Hallow's Eve for a festival they do indeed call a grand sabbat. In the Rhine, anoth-
-
-er group of covens meets together for a grand sabbat held on Walpurgis' Night at the Witches' Altar on Brocken Mountain (see *Guardians of the Forests*, page 80). Magi who stumble upon these events might be concerned at such organized activity, and even speculate that these "shadow Tribunals" are evidence of Schism War refugees, or their descendants, masquerading as folk witches.
-
-
-
-# MAXIMUM NUMBER OF ASSISTANTS: Magic Aura at sabbat site
+**MAXIMUM NUMBER OF ASSISTANTS:** Magic Aura at sabbat site
 
 Sabbat initiations work similarly. An initiate is brought along and the other folk witches recite incantations that increase the Initiation Total. The folk witches assisting must each have a score in the Supernatural Ability that the initiation grants.
 
-TOTAL BONUS FOR SABBAT INITIATION: +1 each folk witch assisting Mystagogue
+**TOTAL BONUS FOR SABBAT INITIATION:** +1 each folk witch assisting Mystagogue
 
-# MAXIMUM NUMBER OF ASSISTANTS: Magic Aura at sabbat site
+**MAXIMUM NUMBER OF ASSISTANTS:** Magic Aura at sabbat site
 
 On each sabbat date there is only a limited window of opportunity during which these helpful incantations may be cast. Thus on each sabbat, each witch may only be involved in one activity, whether as a main caster or an assistant, or as a Mystagogue or an initiate. Also, each activity can only benefit from a single sabbat; for example, there is no point bringing the same potion brew along to several sabbat meetings.
 
-# Creating a Coven
+>#### Sabbat Times
+>
+>**WINTER SOLSTICE**
+>
+>**Imbolg/Brigid/Candlemas:** 1 February 
+>**Eostre:** Spring Equinox
+>**Beltane/May Day/Walpurgis' Night:** 30 April/1 May
+>
+>**SUMMER SOLSTICE**
+>**Lammas/Lugnasad:** 2 August 
+>**Mabon:** Autumn Equinox 
+>**Samhain/All Hallow's Eve:** 31 October/1 November
+
+>#### Story Seed: The Grand Sabbat
+>
+>Some magi claim to know of a grand sabbat held every 101 years, attended by folk witches from all over Mythic Europe. But given the disorganized nature of folk witches, such an event is likely to only occur in their imagination. However, in the Stonehenge Tribunal, a small number of folk witch covens do meet every All Hallow's Eve for a festival they do indeed call a grand sabbat. In the Rhine, another group of covens meets together for a grand sabbat held on Walpurgis' Night at the Witches' Altar on Brocken Mountain (see *Guardians of the Forests*, page 80). Magi who stumble upon these events might be concerned at such organized activity, and even speculate that these "shadow Tribunals" are evidence of Schism War refugees, or their descendants, masquerading as folk witches.
+
+## Creating a Coven
 
 Setting a saga in a folk witch coven, instead of a Hermetic covenant, is one option for a saga. The coven can be devised using the Customized Covenant Creation rules (ArM5, page 71; Covenants, page 5, 6-29), bearing a few guidelines in mind. Even if a coven does not form the focus of the saga, it may be a valuable exercise for the troupe to think about the resources available to an antagonist coven of folk witches. The examples below might give ideas, and can, of course, be modified to suit your saga.
 
@@ -2515,9 +2227,7 @@ Setting a saga in a folk witch coven, instead of a Hermetic covenant, is one opt
 
 As folk witches don't usually live together, some resources should be duplicated; you need to separately purchase the aura at each folk witch's home, for example. Some other Hooks and Boons may also make more sense when assigned to individual folk witches, particularly those that describe the location of the coven.
 
-By default, the coven has a single site
-
-with a level-3 aura — this can be improved — and the aura at other sites must be purchased separately. To raise the aura from 0 to 1, purchase the Minor Boon Aura for each additional site.
+By default, the coven has a single site with a level-3 aura — this can be improved — and the aura at other sites must be purchased separately. To raise the aura from 0 to 1, purchase the Minor Boon Aura for each additional site.
 
 The Poverty Hook and Wealth Boon do not make sense for a coven — the folk witches support themselves individually and may take the Poor or Wealthy character Flaw/Virtue instead. As they must support themselves, folk witches usually live in considerably less luxury than magi.
 
@@ -2533,7 +2243,7 @@ A coven is unlikely to have a turb, although some individual folk witches may ha
 
 The total number of Build Points available for a coven depends on the power level of the coven. Note that a coven of Medium power or greater is likely to be noticed by neighboring covenants as they compete for vis resources. Thus, only low-power covens may be able to proceed entirely unnoticed.
 
-| Power Level | <b>BUILD POINTS</b> |
+| Power Level | <b>BUILD POINTS |
 |-------------|---------------------|
 | Low         | 0 - 149             |
 | Medium      | 150 - 299           |
@@ -2542,7 +2252,7 @@ The total number of Build Points available for a coven depends on the power leve
 
 ### THE WITCHES OF REIMS
 
-### (143 build points)
+(143 build points)
 
 The coven of Reims is based in and around the French town of Reims (see *The Lion and the Lilly*, page 99). In the late 12th century several of the witches were burned at the stake at the order of the archbishop William, who mistook them for heretics.
 
@@ -2550,467 +2260,444 @@ The coven was not entirely destroyed, however, and mistress Greta escaped the st
 
 **Initiation Scripts**: Rhyme of the Beast (+6), Unbound by Land (+6), Hands of Life (+10), The Devil's Eye (+7).
 
-Forest Cave: Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven's sabbat. Hooks: none. Boons: regio (major), aura (x 3) (minor). Vis Sources: 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). Library: Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3).
+**Forest Cave:** Mistress Greta (a Gifted folk witch) fled from the stake to this remote forest cave (Magic aura 6), where she has since lived, usually alone. The cave is in fact inside a regio, that can only be entered by someone who knows the correct path (the other coven members know the correct path). Mistress Greta only occasionally attends the coven's sabbat. **Hooks**: none. **Boons**: regio (major), aura (x 3) (minor). **Vis Sources**: 5 pawns Herbam per year (mushrooms from a forest grove), 1 pawn Auram per year (from the first wind of autumn), 1 pawn Animal per year (from first rabbit of spring). **Library**: Ars Grammatica, by Donatus (a very poor copy; Artes Liberales Ability Summa; Quality 5, Level 4), Scent of Water, anonymous (Dowsing Ability Summa; Quality 10, Level 5), The Piercing Tongue, by Luzabel (Penetration Ability Summa; Quality 10, Level 3).
 
-Townhouse: This ramshackle townhouse is built inside the poor quarter of the town of Reims (Divine aura of 3), and it is haunted by the ghosts of the witches who were burned over twenty years ago. Eliza, an old unGifted folk witch, now lives in the townhouse and she is often called upon to help heal the poor of Reims. In return, Eliza is well looked after by the townsmen, who have kept her existence hidden from the episcopal authorities. Hooks: missing aura (major), urban (major), haunted (minor). Boons: loyal covenfolk (minor). Vis Sources: 3 pawns Corpus per year (from paupers' graveyard), 2 pawns Animal per year (from city tanneries).
+**Townhouse:** This ramshackle townhouse is built inside the poor quarter of the town of Reims (Divine aura of 3), and it is haunted by the ghosts of the witches who were burned over twenty years ago. Eliza, an old unGifted folk witch, now lives in the townhouse and she is often called upon to help heal the poor of Reims. In return, Eliza is well looked after by the townsmen, who have kept her existence hidden from the episcopal authorities. **Hooks**: missing aura (major), urban (major), haunted (minor). **Boons**: loyal covenfolk (minor). **Vis Sources**: 3 pawns Corpus per year (from paupers' graveyard), 2 pawns Animal per year (from city tanneries).
 
-Vineyard: Near Reims, on the banks of the river Marne is a vineyard (Magic aura 1) where the young Gifted folk witch Matilda lives. She is a daughter of a family of vintagers (grape harvesters) and finished training two years ago with mistress Greta in the forest cave. The workers at the vineyard know about Matilda's Gift, but much of their suspiciousness was allayed when she healed a child who had been crushed by a cart. The absentee owners of the vineyard (a small monastery) do not know about Matilda. Hooks: monastery (minor) Boons: aura (minor). Vis Sources: 2 pawns Mentem per year (from wine).
+**Vineyard:** Near Reims, on the banks of the river Marne is a vineyard (Magic aura 1) where the young Gifted folk witch Matilda lives. She is a daughter of a family of vintagers (grape harvesters) and finished training two years ago with mistress Greta in the forest cave. The workers at the vineyard know about Matilda's Gift, but much of their suspiciousness was allayed when she healed a child who had been crushed by a cart. The absentee owners of the vineyard (a small monastery) do not know about Matilda. **Hooks**: monastery (minor) **Boons**: aura (minor). **Vis Sources**: 2 pawns Mentem per year (from wine).
 
+>#### Matilda
+>
+>Characteristics: Int +3, Per +1, Pre +2 Com 0, Str –1, Sta 0, Dex +1, Qik 0
+>
+>Size: 0 
+>
+>Age: 22 (22) 
+>
+>Decrepitude: 0
+>
+>Warping Score: 0 (3) 
+>
+>Confidence Score: 1 (3)
+>
+>Virtues and Flaws: The Gift; Folk Witch; Cyclic Magic (positive) (spring and summer), Improved Characteristics, Quiet Magic; Dependent, Short-Ranged Curses.
+>
+>Personality Traits: Loyal +2, Friendly +1
+>
+>Reputations: Weird healer woman at vineyard 2 (local)
+>
+>Combat:
+>
+>Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
+>
+>Knife: Init 0, Attack +3, Defense +1, Damage +1
+>
+>Soak: 0
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Reims 2 (river), Artes Liberales 1 (grammer), Animal Handling 2 (dogs), Animal Ken 2 (dogs), Athletics 1 (running), Awareness 2 (child), Brawl 1 (dodge), Concentration 1 (flight), Cursing 2 (tongue), Craft: vintner 2 (sorting), Craft: weaving 1 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (river-side), Flight 1 (indoors), Folk Witch Magic Theory 2 (potion brewing), Healing 5 (children), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 1 (personalities), Penetration 2 (Dowsing), Second Sight 2 (faeries), Shapeshifter 1 (dog), Survival 2 (forest).
+>
+>Witch Moon Scars: None.
+>
+>Equipment: bandages, knife, dog, child, wooden toys.
+>
+>Appearance: Matilda is an attractive woman who lives at the vineyard where her extended family works. Due to her Gift, she is somewhat shunned by the other peasants (although they are not unpleasant to her), and she sleeps in a loft above the dog kennels with her husband and baby son. Her husband is a laborer at the vineyard and he spends as little time as possible with Matilda, whom he fears. The loft is actually quite spacious, and Matilda has built her kitchen in it. Matilda earns her keep by helping to look after the dogs, and she also helps to sort grapes during the harvest. Most of the peasants who work the surrounding lands know that she is a healer, and even the reeve sometimes turns to her for assistance. The monks who own the vineyard seldom visit, although they do live nearby, and do not know of Matilda's powers. With her Shapeshifter Ability she can turn into a dog.
 
+>#### Eliza
+>
+>Characteristics: Int +1, Per +2 (1), Pre +2 (1), Com -1, Str +1, Sta -1, Dex 0, Qik -2 (1)
+>
+>Size: 0 
+>
+>Age: 45 (45) 
+>
+>Decrepitude: 1 (3) 
+>
+>Warping Score: 1 (8) 
+>
+>Confidence Score: 1 (3)
+>
+>Virtues and Flaws: Folk Witch; Healing; Animal Ken, Flight, Painless Witch Moon, Second Sight, Sharp Ears, Social Contacts (poor townsfolk); Enfeebled; Animal Companion, Arthritis, Incomprehensible, Missing Eye, Noncombatant.
+>
+>Personality Traits: Kindly +3, Mothering +2, Gossip +1
+>
+>Reputations: Healer who lives near tannery 4 (local)
+>
+>Combat:
+>
+>Dodge: Init −2, Attack n/a, Defense −2, Damage n/a
+>
+>Soak: -1
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Reims 5 (town), Animal Handling 3 (chickens), Animal Ken 4 (rooster), Athletics 1 (flying), Awareness 3 (visitors), Bargain 1 (barley), Carouse 2 (quantities of beer), Charm 1 (elderly men), Concentration 3 (flight), Craft: brewing 3 (large volumes), Dead Language: Latin 2 (magic terms), Flight 3 (low), Folk Ken 3 (townsfolk), Guile 2 (clergy), Folk Witch Magic Theory 5 (potion brewing), Healing 6 (disease), Intrigue 2 (town), Leadership 2 (townsfolk), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (personalities), Penetration 1 (Healing), Second Sight 4 (ghosts), Stealth 2 (town), Teaching 1 (folk witches).
+>
+>Witch Moon Scars: 1. Gains Painless Witch Moon (Minor Virtue).
+>
+>Equipment: pots and pans, brewing apparatus.
+>
+>Appearance: Eliza lives in a large ramshackle townhouse in the center of the poor quarter of the town of Reims. She is an old, portly woman, who has difficulty moving about her house. She is always willing to give advice to those who visit her, and indeed she has many visitors as she usually has a large cauldron of ale brewing in the kitchen. Eliza also often has several poor families, who have no other place to go, sheltering in one of the rooms of the house. Eliza is consequently well liked by the townsfolk, who also come to her for special brews when a family member is suffering from some disease or another, and she has many contacts and friends among the townsfolk. The townhouse is actually haunted by the ghosts of a number of folk witches who were burned at the stake, at the archbishop's court, about twenty years ago. The ghosts often bicker with each other (they blame one another for the outcome of their disastrous trial), but they usually keep out of the way of Eliza's visitors. A large, black-feathered rooster (who rules a harem of hens that Eliza keeps in one room of the townhouse) often accompanies Eliza, and some speculate (inaccurately) that the rooster is the source of her powers. The rooster is her familiar; it is otherwise a mundane animal.
 
-# Matilda
-
-Characteristics: Int +3, Per +1, Pre +2 Com 0, Str –1, Sta 0, Dex +1, Qik 0
-
-Size: 0 Age: 22 (22) Decrepitude: 0 Warping Score: 0 (3) Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift; Folk Witch; Cyclic Magic (positive) (spring and summer), Improved Characteristics, Quiet Magic; Dependent, Short-Ranged Curses.
-
-Personality Traits: Loyal +2, Friendly +1
-Reputations: Weird healer woman at vineyard 2 (local)
-
-Combat:
-
-Dodge: Init 0, Attack n/a, Defense +2, Damage n/a
-
-Knife: Init 0, Attack +3, Defense +1, Damage +1
-
-Soak: 0
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
-
-Abilities: Area Lore: Reims 2 (river), Artes Liberales 1 (grammer), Animal Handling 2 (dogs), Animal Ken 2 (dogs), Athletics 1 (running), Awareness 2 (child), Brawl 1 (dodge), Concentration 1 (flight), Cursing 2 (tongue), Craft: vintner 2 (sorting), Craft: weaving 1 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (river-side), Flight 1 (indoors), Folk Witch Magic Theory 2 (potion brewing), Healing 5 (children), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 1 (personalities), Penetration 2 (Dowsing), Second Sight 2 (faeries), Shapeshifter 1 (dog), Survival 2 (forest).
-
-Witch Moon Scars: None.
-
-Equipment: bandages, knife, dog, child, wooden toys.
-
-Appearance: Matilda is an attractive wom-
-
-an who lives at the vineyard where her extended family works. Due to her Gift, she is somewhat shunned by the other peasants (although they are not unpleasant to her), and she sleeps in a loft above the dog kennels with her husband and baby son. Her husband is a laborer at the vineyard and he spends as little time as possible with Matilda, whom he fears. The loft is actually quite spacious, and Matilda has built her kitchen in it. Matilda earns her keep by helping to look after the dogs, and she also helps to sort grapes during the harvest. Most of the peasants who work the surrounding lands know that she is a healer, and even the reeve sometimes turns to her for assistance. The monks who own the vineyard seldom visit, although they do live nearby, and do not know of Matilda's powers. With her Shapeshifter Ability she can turn into a dog.
-
-# Cliza
-
-Characteristics: Int +1, Per +2 (1), Pre +2 (1), Com -1, Str +1, Sta -1, Dex 0, Qik -2 (1)
-
-Size: 0 Age: 45 (45) Decrepitude: 1 (3) Warping Score: 1 (8) Confidence Score: 1 (3)
-
-Virtues and Flaws: Folk Witch; Healing; Animal Ken, Flight, Painless Witch Moon, Second Sight, Sharp Ears, Social Contacts (poor townsfolk); Enfeebled; Animal Companion, Arthritis, Incomprehensible, Missing Eye, Noncombatant.
-
-Personality Traits: Kindly +3, Mothering +2, Gossip +1
-
-Reputations: Healer who lives near tannery 4 (local)
-
-Combat:
-
-Dodge: Init −2, Attack n/a, Defense −2, Damage n/a
-
-Soak: -1
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
-
-Abilities: Area Lore: Reims 5 (town), Animal Handling 3 (chickens), Animal Ken 4 (rooster), Athletics 1 (flying), Awareness 3 (visitors), Bargain 1 (barley), Carouse 2 (quantities of beer), Charm 1 (elderly men), Concentration 3 (flight), Craft: brewing 3 (large volumes), Dead Language: Latin 2 (magic terms), Flight 3 (low), Folk Ken 3 (townsfolk), Guile 2 (clergy), Folk Witch Magic Theory 5 (potion brewing), Healing 6 (disease), Intrigue 2 (town), Leadership 2 (townsfolk), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (personalities), Penetration 1 (Healing), Second Sight 4 (ghosts), Stealth 2 (town), Teaching 1 (folk witches).
-
-Witch Moon Scars: 1. Gains Painless
-Witch Moon (Minor Virtue).
-
-Equipment: pots and pans, brewing apparatus.
-
-Appearance: Eliza lives in a large ramshackle townhouse in the center of the poor quarter of the town of Reims. She is an old, portly woman, who has difficulty moving about her house. She is always willing to give advice
-
-to those who visit her, and indeed she has many visitors as she usually has a large cauldron of ale brewing in the kitchen. Eliza also often has several poor families, who have no other place to go, sheltering in one of the rooms of the house. Eliza is consequently well liked by the townsfolk, who also come to her for special brews when a family member is suffering from some disease or another, and she has many contacts and friends among the townsfolk. The townhouse is actually haunted by the ghosts of a number of folk witches who were burned at the stake, at the archbishop's court, about twenty years ago. The ghosts often bicker with each other (they blame one another for the outcome of their disastrous trial), but they usually keep out of the way of Eliza's visitors. A large, black-feathered rooster (who rules a harem of hens that Eliza keeps in one room of the townhouse) often accompanies Eliza, and some speculate (inaccurately) that the rooster is the source of her powers. The rooster is her familiar; it is otherwise a mundane animal.
-
-
-# Mistress Greta
-
-Characteristics: Int +2, Per 0, Pre 0, Com 0, Str –1, Sta –2 (2), Dex +1, Qik –3 (3)
-
-Size: (
-
-Age: 76 (50) (Longevity Ritual provides +4 bonus; she has a Lab Text for it)
-
-Decrepitude: 2 (5) Warping Score: 3 (7) Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift; Folk Witch; Life Linked Folk Witch Magic, Affinity with Ability (Dowsing), Animal Healer, Clear Thinker, Expert Potion Brewer, Inventive Genius; Blatant Gift, Poor, Arthritis, Reclusive.
-
-Personality Traits: Arrogant +3, Reclusive +2
-
-**Reputations**: Folk witch who escaped the stake 4 (local)
-
-Combat:
-
-*Kick*: Init –4, Attack +3, Defense –2, Damage +2
-
-Dodge: Init −3, Attack n/a, Defense −2,
-
-Damage n/a
-
-Soak: -2
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
-
-Abilities: Area Lore: Reims 3 (forest), Artes Liberales 4 (grammer), Animal Handling 3 (oxen), Animal Ken 4 (birds), Athletics 2 (flying), Awareness 3 (forest), Brawl 1 (kick), Civil and Canon Law 1 (heresy), Concentration 2 (flight), Cursing 4 (disease), Craft: weaving 3 (wool), Dead Language: Latin 5 (magic terms), Dowsing 8 (in forest), Flight 2 (at night), Folk Witch Magic Theory 5 (vis extraction), Healing 4 (child-birth injuries), Leadership 1 (apprentices), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (initiations),
-
-Penetration 3 (cursing), Premonitions 1 (visitors), Second Sight 5 (ghosts), Shapeshifter 2 (cat), Survival 4 (forest), Teaching 1 (apprentices)
-
-Witch Moon Scars: 1. Gains Premonitions (Minor Virtue) 2. Gains Animal Healer (Minor Virtue) 3. Inflicted with Arthritis (Minor Flaw).
-
-Equipment: staff, herbs, tea pot.
-
-Appearance: Mistress Greta is a wizened and bent woman, with thick grey hair that flows untamed to her waist. She dresses in simple peasant clothes, and can often be found squatting at the cave-mouth of her home, where she brews a pungent tea made from wild herbs. She also spends a lot of time foraging in the forest for the nuts and roots on which she subsists. With her Shapeshifter Ability, she can turn into a cat or a black bird.
-
+>#### Mistress Greta
+>
+>Characteristics: Int +2, Per 0, Pre 0, Com 0, Str –1, Sta –2 (2), Dex +1, Qik –3 (3)
+>
+>Size: 0
+>
+>Age: 76 (50) (Longevity Ritual provides +4 bonus; she has a Lab Text for it)
+>
+>Decrepitude: 2 (5) 
+>
+>Warping Score: 3 (7) 
+>
+>Confidence Score: 1 (3)
+>
+>Virtues and Flaws: The Gift; Folk Witch; Life Linked Folk Witch Magic, Affinity with Ability (Dowsing), Animal Healer, Clear Thinker, Expert Potion Brewer, Inventive Genius; Blatant Gift, Poor, Arthritis, Reclusive.
+>
+>Personality Traits: Arrogant +3, Reclusive +2
+>
+>Reputations: Folk witch who escaped the stake 4 (local)
+>
+>Combat:
+>
+>Kick: Init –4, Attack +3, Defense –2, Damage +2
+>
+>Dodge: Init −3, Attack n/a, Defense −2, Damage n/a
+>
+>Soak: -2
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Reims 3 (forest), Artes Liberales 4 (grammer), Animal Handling 3 (oxen), Animal Ken 4 (birds), Athletics 2 (flying), Awareness 3 (forest), Brawl 1 (kick), Civil and Canon Law 1 (heresy), Concentration 2 (flight), Cursing 4 (disease), Craft: weaving 3 (wool), Dead Language: Latin 5 (magic terms), Dowsing 8 (in forest), Flight 2 (at night), Folk Witch Magic Theory 5 (vis extraction), Healing 4 (child-birth injuries), Leadership 1 (apprentices), Living Language: French 5 (Reims dialect), Organization Lore: Folk Witches 4 (initiations), Penetration 3 (cursing), Premonitions 1 (visitors), Second Sight 5 (ghosts), Shapeshifter 2 (cat), Survival 4 (forest), Teaching 1 (apprentices)
+>
+>Witch Moon Scars: 1. Gains Premonitions (Minor Virtue) 2. Gains Animal Healer (Minor Virtue) 3. Inflicted with Arthritis (Minor Flaw).
+>
+>Equipment: staff, herbs, tea pot.
+>
+>Appearance: Mistress Greta is a wizened and bent woman, with thick grey hair that flows untamed to her waist. She dresses in simple peasant clothes, and can often be found squatting at the cave-mouth of her home, where she brews a pungent tea made from wild herbs. She also spends a lot of time foraging in the forest for the nuts and roots on which she subsists. With her Shapeshifter Ability, she can turn into a cat or a black bird.
 
 ### THE KILKENNY COVEN
-
 (106 build points)
 
 This coven of witches is fractured. There are two Gifted witches in the coven, one of whom lives in the Irish town of Kilkenny, while the other lives close to the town. Both witches (who are cousins, taught by their now-dead Gifted grandmother) are the wives of rival wealthy merchants, and the witches are likewise bitter rivals. In fact, the rivalry of the witches dates from their childhood and has directly led to the merchants' feud. The feud originated in a dispute over a vis source, which the two witches discovered together in a bog, but it has now escalated well beyond that. The witches have each initiated a number of unGifted servants as folk witches, and hold competing sabbats. Although the unGifted servants fear their Gifted mistresses, and are grateful for the power that they have shared, they do secretly communicate with each other across the lines of the feud. If your saga follows history, this coven and its feud survives until the early 14th century when a bishop adjudicating a property dispute between the rival families stumbles upon the coven, mistakes them for infernalists, and executes several coven members.
 
 **Scripts:** Unbound by land (+6), The Devil's Eye (+7), Second Life (+13).
 
-Janine's House: Janine is the older of the two rival cousins. Her townhouse has a
+**Janine's House:** Janine is the older of the two rival cousins. Her townhouse has a large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. **Hooks**: urban (major), dwindling resource (minor). **Boons**: aura (x4) (minor). **Vis Sources**: 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant's account books).
 
+**Anne's House:** Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dving giant to the earth — which is damp as it is saturated with his blood. **Hooks**: monster (dying giant) (minor), spies (minor) **Boons**: aura (x2) (minor), manor house (free). **Vis Sources**: 5 pawns Corpus per year (from giant's blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house).
 
-large secret basement of which half is used as an auxiliary warehouse by her husband, for particularly valuable goods. The other half is used by Janine as a kitchen. The basement has a Magic aura of 4, and a small spring rises in the center of the kitchen. The spring water is vis, but the amount of vis has declined over the last few years. **Hooks**: urban (major), dwindling resource (minor). **Boons**: aura (x4) (minor). **Vis Sources**: 5 pawns Aquam per year (from spring), 1 pawn Corpus per year (from town graveyard), 1 pawn Mentem per year (from merchant's account books).
+**Farmhouse:** Several days distant from Kilkenny, this is the farm on which Janine's and Anne's grandmother taught them the folk witch craft. The farm buildings are built in a dell with a Faerie aura of 4. The family of an aunt now works on the farm, and Janine's sister, Agnes, who is an unGifted folk witch, also lives there. Agnes has tried to remain neutral in the feud, and sends vis from the farm to both of the town factions of the coven. **Hooks**: Faerie aura (minor). **Boons**: aura (minor), peasants (free). **Vis Sources**: 2 pawns Animal per year (from last lamb of the year), 2 pawns Herbam per year (from crops harvested at midnight, Autumn equinox).
 
-Anne's House: Anne has a manor a few miles out of town — her husband is the wealthier of the two merchants. Her laboratory is constructed in an outbuilding of the manor house, which has a Magic aura of 2. Unbeknownst to Anne, Janine has planted several spies on her staff. At the edge of the manor lands is a boggy ground out of which rises a number of large rocks. The large rocks pin a dving giant to the earth — which is damp as it is saturated with his blood. Hooks: monster (dying giant) (minor), spies (minor) Boons: aura (x2) (minor), manor house (free). Vis Sources: 5 pawns Corpus per year (from giant's blood), 1 pawn Auram per year (a warm breeze rising from a cave near the manor house).
+>#### Janine Kyteler
+>
+>Characteristics: Int +2, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik 0
+>
+>Age: 32 (32)
+>
+>Decrepitude: 0 (0)
+>
+>Warping Score: 1 (9)
+>
+>Confidence Score: 1 (3)
+>
+>Virtues and Flaws: The Gift, Folk Witch, Wealthy, Piercing Gaze, Reserves of Strength, Temporal Influence, Feud, Obese, Unstable Magic.
+>
+>Personality Traits: Angry +3, Obsessed +1
+>
+>Reputations: Strange, intimidating wife of merchant 4 (local)
+>
+>Combat:
+>
+>Dagger: Init: 0, Attack +5, Defense +2, Damage +4
+>
+>Dodge: Init 0, Attack n/a, Defense +1, Damage n/a
+>
+>Soak: +1
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Kilkenny 3 (merchants), Artes Liberales 1 (astronomy), Animal Handling 1 (pigs), Animal Ken 2 (pigs), Athletics 1 (flying), Awareness 1 (faulty goods), Bargain (merchants), Brawl 1 (dagger), Concentration 2 (flight), Cursing 4 (beast), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 5 (bog), Flight 2 (rural), Folk Witch Magic Theory 3 (curse fabric), Healing 3 (disease), Intrigue 2 (merchants), Leadership 3 (intimidation), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (initiations), Penetration 2 (cursing), Profession: merchant 1 (assessing penalty fines), Second Sight 1 (faeries), Shapeshifter 2 (pig), Teaching 1 (apprentices).
+>
+>Witch Moon Scars: 1. Gains Reserves of Strength (Minor Virtue).
+>
+>Equipment: Town clothes, dagger.
+>
+>Appearance: Janine is a heavy, red-faced woman, with narrow piercing eyes. She helps her husband run his mercantile business, principally by chasing down debtors — all of the Kilkenny merchants fear a visit from Janine and her maid. She can shapeshift into a pig and a seagull. Her familiar is a pig who lives in a sty attached to the townhouse.
 
-Farmhouse: Several days distant from Kilkenny, this is the farm on which Janine's and Anne's grandmother taught them the folk witch craft. The farm buildings are built in a dell with a Faerie aura of 4. The family of an aunt now works on the farm, and Janine's sister, Agnes, who is an unGifted folk
-
-# Janine Kyteler
-
-Characteristics: Int +2, Per 0, Pre +1, Com 0, Str +1, Sta +1, Dex +1, Qik 0
-
-Age: 32 (32)
-Decrepitude: 0 (0)
-Warping Score: 1 (9)
-Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift, Folk Witch, Wealthy, Piercing Gaze, Reserves of Strength, Temporal Influence, Feud, Obese, Unstable Magic.
-
-Personality Traits: Angry +3,
-Obsessed +1
-
-**Reputations:** Strange, intimidating wife of merchant 4 (local)
-
-Combat:
-
-Dagger: Init: 0, Attack +5, Defense +2, Damage +4
-
-Dodge: Init 0, Attack n/a, Defense +1, Damage n/a
-
-Soak: +1
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-**Wound Penalties**: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
-
-Abilities: Area Lore: Kilkenny 3 (merchants), Artes Liberales 1 (astronomy), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (pigs), Animal Handling 1 (
-
-mal Ken 2 (pigs), Athletics 1 (flying), Awareness 1 (faulty goods), Bargain (merchants), Brawl 1 (dagger), Concentration 2 (flight), Cursing 4 (beast), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 5 (bog), Flight 2 (rural), Folk Witch Magic Theory 3 (curse fabric), Healing 3 (disease), Intrigue 2 (merchants), Leadership 3 (intimidation), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (initiations), Penetration 2 (cursing), Profession: merchant 1 (assessing penalty fines), Second Sight 1 (faeries), Shapeshifter 2 (pig), Teaching 1 (apprentices).
-
-Witch Moon Scars: 1. Gains Reserves of Strength (Minor Virtue).
-
-Equipment: Town clothes, dagger.
-
-Appearance: Janine is a heavy, red-faced woman, with narrow piercing eyes. She helps her husband run his mercantile business, principally by chasing down debtors — all of the Kilkenny merchants fear a visit from Janine and her maid. She can shapeshift into a pig and a seagull. Her familiar is a pig who lives in a sty attached to the townhouse.
-
-witch, also lives there. Agnes has tried to remain neutral in the feud, and sends vis from the farm to both of the town factions of the coven. Hooks: Faerie aura (minor). Boons:
-
-aura (minor), peasants (free). **Vis Sources**: 2 pawns Animal per year (from last lamb of the year), 2 pawns Herbam per year (from crops harvested at midnight, Autumn equinox).
-
-# Anne Kors
-
-Characteristics: Int +1, Per +1, Pre +2, Com 0, Str -1, Sta +1, Dex +1, Qik +1
-
-Size: 0 Age: 30 (30) Decrepitude: 0 (0) Warping Score: 1 (8) Confidence Score: 1 (3)
-
-Virtues and Flaws: The Gift, Folk Witch, Wealthy, Affinity with Cursing, Expert Potion Brewer, Luck, Venus' Blessing, Rigid Magic, Feud, Judged Unfairly.
-
-Personality Traits: Temperamental +3,
-Obsessed +1
-
-Reputations: Depraved wife of merchant 2 (local)
-
-Combat:
-
-Fist: Init +1, Attack +4, Defense +4, Damage -1
-
-Dagger: Init +1, Attack +5, Defense +3, Damage +2
-
-Dodge: Init +1, Attack n/a, Defense +3, Damage n/a
-
-Soak: 0
-
-Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
-
-Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
-
-Abilities: Area Lore: Kilkenny 3 (countryside), Artes Liberales 1 (logic), Animal Handling 1 (horse), Animal Ken 2 (horse), Athletics 1 (flying), Awareness 2 (rural), Brawl 2 (fist), Concentration 1 (flight), Cursing 6 (tongue), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (bog), Etiquette 1 (hostess), Flight 2 (rural), Folk Witch Magic Theory 3 (potion brewing), Guile 2 (husband), Healing 3 (stab wounds) (5), Leadership 2 (staff),
-
-Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (vis sources), Penetration 2 (cursing), Second Sight 2 (faeries), Shapeshifter 1 (horse), Teaching 1 (apprentices).
-
-Witch Moon Scars: 1. Gains Additional 5 XP in Healing.
-
-Equipment: dagger, walking clothes, staff. Appearance: Anne is an attractive woman, although she has a very short temper. She usually stays in the manor house working in her kitchen, or wandering the nearby bog fields, and travels only occasionally into town. She has acquired a reputation for holding debauched parties while her husband is absent with his business. This is not really true, although she does host sabbats in the manor house. Anne can shapeshift into the form of a beautiful mare.
-
-
-# Inedge Magic
+>#### Anne Kors
+>
+>Characteristics: Int +1, Per +1, Pre +2, Com 0, Str -1, Sta +1, Dex +1, Qik +1
+>
+>Size: 0 
+>
+>Age: 30 (30) 
+>
+>Decrepitude: 0 (0) 
+>
+>Warping Score: 1 (8) 
+>
+>Confidence Score: 1 (3)
+>
+>Virtues and Flaws: The Gift, Folk Witch, Wealthy, Affinity with Cursing, Expert Potion Brewer, Luck, Venus' Blessing, Rigid Magic, Feud, Judged Unfairly.
+>
+>Personality Traits: Temperamental +3, Obsessed +1
+>
+>Reputations: Depraved wife of merchant 2 (local)
+>
+>Combat:
+>
+>Fist: Init +1, Attack +4, Defense +4, Damage -1
+>
+>Dagger: Init +1, Attack +5, Defense +3, Damage +2
+>
+>Dodge: Init +1, Attack n/a, Defense +3, Damage n/a
+>
+>Soak: 0
+>
+>Fatigue Levels: OK, 0, -1, -3, -5, Unconscious
+>
+>Wound Penalties: -1 (1-5), -3 (6-10), -5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Kilkenny 3 (countryside), Artes Liberales 1 (logic), Animal Handling 1 (horse), Animal Ken 2 (horse), Athletics 1 (flying), Awareness 2 (rural), Brawl 2 (fist), Concentration 1 (flight), Cursing 6 (tongue), Craft: weaving 2 (wool), Dead Language: Latin 4 (magic terms), Dowsing 3 (bog), Etiquette 1 (hostess), Flight 2 (rural), Folk Witch Magic Theory 3 (potion brewing), Guile 2 (husband), Healing 3 (stab wounds) (5), Leadership 2 (staff), Living Language: Irish 5 (Kilkenny dialect), Organization Lore: Folk Witches 3 (vis sources), Penetration 2 (cursing), Second Sight 2 (faeries), Shapeshifter 1 (horse), Teaching 1 (apprentices).
+>
+>Witch Moon Scars: 1. Gains Additional 5 XP in Healing.
+>
+>Equipment: dagger, walking clothes, staff. Appearance: Anne is an attractive woman, although she has a very short temper. She usually stays in the manor house working in her kitchen, or wandering the nearby bog fields, and travels only occasionally into town. She has acquired a reputation for holding debauched parties while her husband is absent with his business. This is not really true, although she does host sabbats in the manor house. Anne can shapeshift into the form of a beautiful mare.
 
 ### THE ORLEANS WITCHES
-
 (110 Build points)
 
 This coven of folk witches practices a variant tradition that replaces the Shapeshifter Supernatural Ability with the Premonitions Supernatural Ability; and, unusually, most of the members are men. The coven currently only has one Gifted member, Claude of Orleans) who is a man. Two other Gifted coven members died in mysterious circumstances several years ago, and it is rumored that Claude killed them with curses. There are a several unGifted coven members scattered throughout the Orleans area, and the coven has good relationships with the local judicial magistrates after several cases involving stolen property were resolved by Dowsing — although the magistrates only deal with unGifted members of the coven.
 
-Scripts: Sense of Place (+6), Sense of
+**Scripts:** Sense of Place (+6), Sense of Time (ScriptforPremonitions; +6).
 
-Time (ScriptforPremonitions; +6).
+**Claude's Shack:** Claude lives alone in a shack, on the banks of a small stream, about one day's travel north of Orleans. There is a Magic aura of level 3 in the area, and nearby is a ruined Roman villa with a large magic apple tree growing in what was once the courtyard. **Hooks**: Roman ruin (minor). **Boons**: seclusion (minor). **Vis Sources**: 5 pawns Herbam per year (magic tree), 1 pawn Aquam per year (fish spawn).
 
-Claude's Shack: Claude lives alone in a shack, on the banks of a small stream, about one day's travel north of Orleans. There is a Magic aura of level 3 in the area, and nearby is a ruined Roman villa with a large magic apple tree growing in what was once the courtyard. Hooks: Roman ruin (minor). Boons: seclusion (minor). Vis Sources: 5 pawns Herbam per year (magic tree), 1 pawn Aquam per year (fish spawn).
+**Magistrate's Court:** A clerk called Jean the Wise, working in the Orleans magistrates court, is an unGifted member of the coven. He uses his Dowsing powers to help the magistrate determine the location of stolen property — which often quickly results in a confession. The magistrate has come to respect Jean's opinion when making legal decisions. **Hooks**: missing aura (major), urban (major). **Boons**: powerful ally (major; magistrate). **Vis Sources**: 2 pawns of Corpus per year (blood of first and last gallows victim each year). **Library**: Reading the Perturbations of Place, by Goodwin (Dowsing Ability Summa; Quality 10, Level 3), Civitas Orleans, by Magistrate Bayne (Civil and Canon Law Tractatus; Quality 9).
 
-Magistrate's Court: A clerk called Jean the Wise, working in the Orleans magistrates court, is an unGifted member of the coven. He uses his Dowsing powers to help the magistrate determine the location of stolen property — which often quickly results in a confession. The magistrate has come to respect Jean's opinion when making legal decisions. Hooks: missing aura (major), urban (major). Boons: powerful ally (major; magis-
+**Joseph's House:** Joseph lives just outside Orleans in a large house constructed in a regio, with a Magic aura of 3. He is an unGifted member of the coven, and uses his Dowsing Ability to find objects for people in the city. He maintains a townhouse in the city, where clients come to seek his services. By collecting a fee for finding objects, Joseph has become a wealthy man. **Hooks**: city (major) **Boons**: regio (major), aura (x3) (minor), manor house (free) **Vis Sources**: 2 pawns of Animal per year (tannery), 2 pawns of Terram (blacksmith), 2 pawns of Vim (a spring in the regio).
 
-trate). Vis Sources: 2 pawns of Corpus per year (blood of first and last gallows victim each year). Library: Reading the Perturbations of Place, by Goodwin (Dowsing Ability Summa; Quality 10, Level 3), Civitas Orleans, by Magistrate Bayne (Civil and Canon Law Tractatus; Quality 9).
+>#### Jean the Wise
+>Characteristics: Int +3, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +1
+>
+>Size: 0
+>
+>Age: 28 (28)
+>
+>Decrepitude: 0 (0)
+>
+>Warping Score: 2 (3) Confidence Score: 1 (3)
+>
+>Virtues and Flaws: Folk Witch; Concentrated Potions, Dowsing, Educated, Improved Characteristics, tions, Temporal Influence; Meddler, Motion Sickness, Offensive to Animals, Warped Magic. Premoni-
+>
+>Personality Traits: Studious +2, Meddler +3
+>
+>Reputations: Wizard in Magistrate's Court 3 (local)
+>
+>Combat:
+>
+>
+>Dodge: Init +1, Attack n/a, Defense +3,
+>
+>Damage n/a
+>
+>Soak: +1
+>
+>Fatigue Levels: OK, 0, -1, -3, —5, Unconscious
+>
+>Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead (21+)
+>
+>Abilities: Area Lore: Orleans 4 (criminals), Artes Liberales 3 (logic), Athletics 1 (running), Awareness 1 (ambush), Brawl 1 (dodge), Carouse 1 (students), Civil and Canon Law2 (land rights), Charm 1 (women), Concentration 2 (writing), Dead Language: Latin 5 (legal terms), Dowsing 6 (made items), Etiquette 2 (legal court), Folk Ken 2 (liars), Folk Witch Magic Theory 3 (potion brewing), Intrigue 1 (legal court), Leadership 2 (clerks), Living Language: French 5 (Orleand dialect), Organization Lore: Folk Witches 1 (history), Penetration 3 (Dowsing), Philosophiae 3 (moral), Premonitions 3 (natural events), Profession: scribe 3 (legal records), Teaching 1 (Artes Liberales).
+>
+>Witch Moon Scars: 1. Gains Concentrated Potions (Minor Virtue). 2. Acquires Warped Magic (ringing noise) (Minor Flaw).
+>
+>Equipment: Writing equipment, documents. legal
+>
+>Appearance: Jean dresses in the simple clothes of a clerk; he is balding, with a long pointed nose. Whenever Jean uses his Supernatural Abilities, all other characters within Voice Range hear an irritating ringing noise in their ears (Warped Magic).
 
-\_—\_———
-
-Joseph's House: Joseph lives just outside Orleans in a large house constructed in a regio, with a Magic aura of 3. He is an unGifted member of the coven, and uses his Dowsing Ability to find objects for people in the city. He maintains a townhouse in the city, where clients come to seek his services. By collecting a fee for finding objects, Joseph has become a wealthy man. Hooks: city (major) Boons: regio (major), aura (x3) (minor), manor house (free) Vis Sources: 2 pawns of Animal per year (tannery), 2 pawns of Terram (blacksmith), 2 pawns of Vim (a spring in the regio).
-
-# ean theWise|
-
-oA win Pelee.
-
-that cridtics: Int +3, Per +1, Pre 0, Com 0, Str +1, Sta +1, Dex 0, Qik +1
-
-Size: 0
-
-Age: 28 (28)
-
-Decrepitude: 0 (0)
-
-Warping Score: 2 (3) Confidence Score: 1 (3)
-
-Virtues and Flaws: Folk Witch; Concentrated Potions, Dowsing, Educated, Improved Characteristics, tions, Temporal Influence; Meddler, Motion Sickness, Offensive to Animals, Warped Magic. Premoni-
-
-Personality Traits: Studious +2 Meddler +3 ,
-
-Reputations: Wizard in Magistrate's Court 3 (local)
-
-Combat:
-
-hi
-
-Dodge: Init +1, Attack n/a, Defense +3,
-
-Damage n/a
-
-Soak: «1
-
-Fatigue Levels: OK, 0, -1, -3, —5,
-
-Unconscious
-
-Wound Penalties: —1 (1-5), —3 (6-10), —5 (11-15), Incapacitated (16-20), Dead
-
-(21+)
-
-Abilities: Area Lore: Orleans 4 (criminals), Artes Liberales 3 (logic), Athletics 1 (running), Awareness 1 (ambush), Brawl 1 (dodge), Carouse 1 (students), Civil and Canon Law2 (land rights), Charm 1 (women), Concentration 2 (writing), Dead Language: Latin 5 (legal terms), Dowsing 6 (made items), Etiquette 2 (legal court), Folk Ken 2 (liars), Folk Witch Magic Theory 3 (potion brewing), Intrigue 1 (legal court), Leadership 2 (clerks), Living Language: French
-
-BIO une dialect)Breanitrignteredl, Folk Witches 1 (history), Penetration 3 (Dowsing), Philosophiae 3 (moral), Premonitions 3 (natural events), Profession: scribe 3 (legal records), Teaching 1 (Artes Liberales).
-
-Witch Moon Scars: 1. Gains Concentrated Potions (Minor Virtue). 2. Acquires Warped Magic (ringing noise) (Minor Flaw).
-
-Equipment: Writing equipment, documents. legal
-
-Appearance: Jean dresses in the simple clothes of a clerk; he is balding, with a long pointed nose. Whenever Jean uses his Supernatural Abilities, all other characters within Voice Range hear an irritating ringing noise in their ears (Warped Magic).
-
-# Inermetic Integration
+## Hermetic Integration
 
 The following are some breakthroughs available through research projects to integrate the practices of folk witches with Hermetic magic. It may seem like a lot of breakthroughs, but they're just examples. It's up to the troupe to decide if any of them are actually possible in your saga. Or, you can use these as inspiration for your own integration projects.
 
-# Subtle Opening
-
-Suggested Breakthrough Points: 30
+### Subtle Opening
+**Suggested Breakthrough Points:** 30
 
 By incorporating the Gifted folk witch Opening The Gift ritual into the Hermetic Opening of the Arts, a magus can invent an alternative form of Opening the Arts that removes the penalty due to Arts when learning new Supernatural Abilities. Other hedge traditions that have Opening The Gift rituals that grant the apprentice favored Abilities may also provide insights toward this breakthrough.
 
 Unlike a normal integration result, the inventing character does not personally gain anything from this breakthrough, as he has already had his Arts opened. Instead, once the research is complete the character may open an apprentices Arts using a special technique (which still takes a season) and the apprentice gains the Minor Hermetic Virtue: Subtle Opening. The character may also write a level 30 Lab Text, detailing the special Art Opening technique, that can be followed by any other magus Opening the Arts of an apprentice.
 
-# New Virtue: Subtle Opening
+>##### New Virtue: Subtle Opening
+>Minor Hermetic Virtue
+>
+>The magus had his Arts Opened using a more-subtle and flexible technique than normal. Consequently, he does not suffer a penalty to the study Source Quality for his Arts scores when learning Supernatural Abilities (see ArM5, page 166). The magus is still penalized for scores in other Supernatural Abilities.
 
-Minor Hermetic Virtue
+>#### Story Seeds for Subtle Opening
+>
+>**RUINED APPRENTICES**
+>
+>An unlucky Bonisagus magus, attempting to research this breakthrough, commandeers a number of promising "apprentices" and damages or destroys their Gifts via experimental methods of Opening the Arts. These are genuine mistakes — the Bonisagus magus is not being malicious — and as his "victims" had not yet had their Arts Opened they were not technically anyone's apprentice. Nonetheless, the other magi of the Tribunal are appalled at this waste of Gifted talent, and try to stop the magi's research.
+>
+>**LONG-LOST POWER**
+>
+>The magi of the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126) make this breakthrough and Open the Arts of a number of apprentices, using the Subtle Opening. The new apprentices are then given access to a secret library, which contains many books written over the centuries by hedge wizard converts to the Order of Hermes. By studying the store of books, the apprentices can learn exotic Supernatural Abilities that were thought lost to the Order of Hermes.
+>
+>**ORDER OF ODIN INFILTRATORS**
+>
+>Hedge wizards of the Order of Odin learn of this improvement to Hermetic theory and, along with a Bonisagus ally, use it as the basis of a new research project to allow an apprentice to learn both Rune Magic and Hermetic Magic without penalty. Once completed, this project allows the Order of Odin to begin to infiltrate the Order of Hermes, virtually undetected.
+>
+>**A SUBTLE PRICE**
+>
+>A Tytalus magus invents the Subtle Opening, but refuses to share his method and instead asks a fee from other magi to perform it on their apprentices. His price is reasonable, but the Subtle Opening becomes so popular that the magus can't keep up with demand, and this bottleneck causes a delay in the training of a large number of apprentices in the Tribunal. Some concerned magi try to pass a Tribunal ruling that forces the magus to share the Subtle Opening method. It's possible that other magi may try to steal the method, or alternatively race to perform the research themselves (damaging The Gift of several unlucky apprentices during the experimentation).
 
-The magus had his Arts Opened using a more-subtle and flexible technique than normal. Consequently, he does not suffer a penalty to the study Source Quality for his Arts scores when learning Supernatural Abilities (see ArM5, page 166). The magus is still penalized for scores in other Supernatural Abilities.
-
-### INTEGRATION EFFECTS
+#### INTEGRATION EFFECTS
 
 Vim effects are the most suitable lab projects produced from Insights to contribute to this breakthrough. In addition, the magus may instead use an Insight to vary his technique when Opening the Arts of an apprentice. A roll should be made on the Extraordinary Results table for Experimentation, as normal, and if a Discovery results, the apprentice's Gift is Opened as normal and the magus earns 5 breakthrough points. Other results may damage the apprentice's Gift, causing him to acquire Hermetic Flaws or even lose his Gift.
 
-### Consequences of Integration
+#### Consequences of Integration
 
 This extension to Hermetic theory allows apprentices to easily learn exotic magics. In terms of game balance, apprentices who have their Gifts Opened via the new techniques are likely to become more powerful than mainstream hermetic magi. This is because the new apprentices will be able to easily supplement their Hermetic Arts with a set of exotic Supernatural Abilities. However, as this integration project does not directly affect magi who have already had their Arts Opened, many magi may be reluctant to invest the time and effort to develop a project that only benefits their apprentices, being too selfish or too fearful of powerful apprentices. On the other hand, magi who are involved in high-level House politics, or other long-term strategic alliances, may be very interested in cultivating a new generation of powerful magi.
 
-# Energy Magic
+### Energy Magic
 
-Suggested Breakthrough Points: 55 Folk witches are not restricted by the
+Suggested Breakthrough Points: 55 Folk witches are not restricted by the Limit of Energy in the same way as a magus, so studying their practices and integrating them into Hermetic magic may allow a magus to break this limit as well. The result of this integration is additional Creo Corpus and Perdo Corpus guidelines.
 
-## hedge Magic
+#### INTEGRATION EFFECTS
 
-Limit of Energy in the same way as a magus, so studying their practices and integrating them into Hermetic magic may allow a magus to break this limit as well. The result of this integration is additional Creo Corpus and Perdo Corpus guidelines.
-
-### INTEGRATION EFFECTS
+>#### New Energy Magic Virtue & Guidelines
+>
+>#### ENERGY MAGIC
+>Minor Hermetic Virtue
+>
+>The magus may access additional Creo Corpus and Perdo Corpus guidelines.
+>
+>#### New Perdo Corpus Guidelines
+>Level 5: Double the time a character recovers a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
+>
+>Level 5: Cause a target to lose a Short-Term Fatigue level.
+>
+>Level 10: Cause a target to lose a Long-Term Fatigue level. Note that this is not a new guideline. Any magus can cause the loss of a Fatigue level with this level of effect (see ArM5, page 133).
+>
+>Level 15: While under this effect, characters can't recover Fatigue levels by resting.
+>
+>#### New Creo Corpus Guidelines
+>
+>Ritual spells formulated according to these guidelines with Momentary Duration truly restore Fatigue levels. Spells with other Durations only temporarily restore Fatigue levels, and at the end of the spell's duration the Fatigue levels are lost again as Long-Term Fatigue levels, even if they were originally only Short-Term Fatigue levels.
+>
+>Level 5: Halve the time that a character takes to recover a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
+>
+>Level 10: Restore a lost Short-Term Fatigue level.
+>
+>Level 15: Restore a lost Long-Term Fatigue level.
 
 Corpus effects are the most suitable laboratory projects that may be produced from Insights to contribute to this breakthrough. Some example effects include:
 
-Pungent Potion of Ease CrCo Level 20 Pen +0, charged item R: Touch, D: Sun, T: Individual
+**Pungent Potion of Ease** 
+CrCo Level 20 Pen +0, charged item 
+R: Touch, D: Sun, T: Individual
 
-When this potion is drunk, a Short-Term Fatigue level is restored, but the character gains a Long-Term Fatigue level when the effect expires. The character must be conscious to drink this potion, and as it is very
-
-pungent he must make a Stamina roll against an Ease Factor of 3 to avoid gagging, which wastes the potion.
+When this potion is drunk, a Short-Term Fatigue level is restored, but the character gains a Long-Term Fatigue level when the effect expires. The character must be conscious to drink this potion, and as it is very pungent he must make a Stamina roll against an Ease Factor of 3 to avoid gagging, which wastes the potion.
 
 (Effect: Base 5, +1 Touch, +2 Sun; Modifications: None)
 
-TRAVELLER'S RESPITE CrCo Level 30
-
- $R{:}\ \, Touch,\ \, D{:}\ \, Momentary,\ \, T{:}\ \, Group,$  Ritual
+**TRAVELLER'S RESPITE**
+CrCo Level 30
+R: Touch, D: Momentary, T: Group, Ritual
 
 This ritual spell restores one Long-Term Fatigue level to up to 10 individuals. Note that as this is a Ritual spell, the caster will lose at least one Long-Term Fatigue level himself, and possibly more if his Casting Total is low (see ArM5 page 81).
 
 (Base: 15, +1 Touch, +2 Group)
 
-ENERGY SENSE InCo(Me) Level 20
+**ENERGY SENSE** 
+InCo(Me) Level 20
+R: Voice, D: Momentary, T: Individual 
 
-R: Voice, D: Momentary, T: Individual The caster senses the Fatigue status of
+The caster senses the Fatigue status of the target (winded, weary, tired, etc). 
 
-the target (winded, weary, tired, etc). (Base: 5, + 2 Voice, +1 Requisite)
+(Base: 5, + 2 Voice, +1 Requisite)
 
-# Story Seeds for Subtle Opening
-
-### RUINED APPRENTICES
-
-An unlucky Bonisagus magus, attempting to research this breakthrough, commandeers a number of promising "apprentices" and damages or destroys their Gifts via experimental methods of Opening the Arts. These are genuine mistakes — the Bonisagus magus is not being malicious — and as his "victims" had not yet had their Arts Opened they were not technically anyone's apprentice. Nonetheless, the other magi of the Tribunal are appalled at this waste of Gifted talent, and try to stop the magi's research.
-
-### LONG-LOST POWER
-
-The magi of the Lineage of Pralix (see *Houses of Hermes: Societates*, page 126) make this breakthrough and Open the Arts of a number of apprentices, using the Subtle Opening. The new apprentices are then given access to a secret library, which contains many books written over the centuries by hedge wizard converts to the Order of Hermes. By studying the store of books, the apprentices can learn exotic Supernatural Abilities that were thought lost to the Order of Hermes.
-
-### ORDER OF ODIN INFILTRATORS
-
-Hedge wizards of the Order of Odin learn of this improvement to Hermetic theory and, along with a Bonisagus ally, use it as the basis of a new research project to allow an apprentice to learn both Rune Magic and Hermetic Magic without penalty. Once completed, this project allows the Order of Odin to begin to infiltrate the Order of Hermes, virtually undetected.
-
-### A SUBTLE PRICE
-
-A Tytalus magus invents the Subtle Opening, but refuses to share his method and instead asks a fee from other magi to perform it on their apprentices. His price is reasonable, but the Subtle Opening becomes so popular that the magus can't keep up with demand, and this bottleneck causes a delay in the training of a large number of apprentices in the Tribunal. Some concerned magi try to pass a Tribunal ruling that forces the magus to share the Subtle Opening method. It's possible that other magi may try to steal the method, or alternatively race to perform the research themselves (damaging The Gift of several unlucky apprentices during the experimentation).
-
-
-
-### ENERGY MAGIC
-
-Minor Hermetic Virtue
-
-The magus may access additional Creo Corpus and Perdo Corpus guidelines.
-
-### New Perdo Corpus Guidelines
-
-Level 5: Double the time a character recovers a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
-
-Level 5: Cause a target to lose a Short-Term Fatigue level.
-
-Level 10: Cause a target to lose a Long-Term Fatigue level. Note that this is not a new guideline. Any magus can cause the loss of a Fatigue level with this level of effect (see ArM5, page 133).
-
-Level 15: While under this effect, characters can't recover Fatigue levels by resting.
-
-### New Creo Corpus Guidelines
-
-Ritual spells formulated according to these guidelines with Momentary Duration truly restore Fatigue levels. Spells with other Durations only temporarily restore Fatigue levels, and at the end of the spell's duration the Fatigue levels are lost again as Long-Term Fatigue levels, even if they were originally only Short-Term Fatigue levels.
-
-Level 5: Halve the time that a character takes to recover a lost Short-Term Fatigue level (see Fatigue Recovery Table, ArM5, page 179).
-
-Level 10: Restore a lost Short-Term Fatigue level.
-
-Level 15: Restore a lost Long-Term Fatigue level.
-
-Circle of Lethargy PeCo Level 30
-
+**Circle of Lethargy**
+PeCo Level 30
 R: Touch, D: Ring, T: Circle
 
 Targets within the circle do not regain Fatigue levels by resting. This can keep a character unconscious indefinitely, unless he is moved from the circle or the circle is broken.
 
 (Base: 15, +1 Touch, +2 Ring)
 
-### Consequences of Integration
+#### Consequences of Integration
 
 This integration effect changes the balance of power between Formulaic and Spontaneous magic, as being able to restore Fatigue allows a caster to more readily risk expending it on Fatiguing Spontaneous spells. Another effect is that casting Formulaic spells in marginal situations — which can result in Fatigue loss — becomes a more-sustainable proposition for magi. This means that magi are more willing and able to attack targets within hostile auras, strengthening the Order against the Divine and Infernal.
 
-# Story Seeds for Gnergy Magic
+>#### Story Seeds for Gnergy Magic
+>
+>**A Prestigious Project**
+>
+>A coven has been selling Fatigue-restoring potions to a Hermetic covenant, which the resident magi secretly study. The magi have learned the secret of their manufacture (that is, they invent Energy Magic), and are anxious to disguise the origins of their Hermetic breakthrough — they wish to present the breakthrough to the Order as the fruit of a more prestigious, original research project. So the magi try to hunt down and eliminate the coven of folk witches.
+>
+>**BALANCE OF POWER**
+>
+>A Tytalus magus secretly invents Energy Magic, and teaches it to a cabal of low-ranking Tremere. These Tremere use their new ability to restore and destroy Fatigue to attack their superiors, both in certamen and Wizard's War, and so rapidly claim their own sigils. This disrupts the balance of power among the Tremere, and temporarily fragments the Tremere voting block at many Tribunals. While the new Tremere masters consolidate their power, other Tribunal factions take the chance to pass a number of Tribunal rulings that have been vetoed for decades by the Tremere.
+>
+>**A DIEDNE RESURGENCE?**
+>
+>House Diedne's magi were masters of Spontaneous magic. When several bands of Hoplites in the Roman Tribunal demonstrate a surprising proficiency with Spontaneous magic, the Tribunal's senior Quaesitors suspect that the Hoplites have stumbled upon Diedne secrets. Investigators are sent to discover the source of this supposed "recovered" Diedne magic.
+>
+>**THE BJORNAER CRUSADE**
+>
+>Emboldened by the ability to restore Fatigue — and thus operate more easily in a Divine aura — a Bjornaer sept erupts from the forest. The bellowing beasts destroy a number of towns that fringe the wilderness, and the attacks claim several bishops. The outraged papacy calls a crusade and thousands of knights, included groups armed with saintly relics, arrive at the forest edge ready for war. The Bjornaer are relatively secure - they are hidden in a number of forest regios, from which they occasionally sally forth to harass the crusaders — but the frustrated crusaders may attack neighboring covenants.
 
-### A Prestigious Project
-
-A coven has been selling Fatigue-restoring potions to a Hermetic covenant, which the resident magi secretly study. The magi have learned the secret of their manufacture (that is, they invent Energy Magic), and are anxious to disguise the origins of their Hermetic breakthrough — they wish to present the breakthrough to the Order as the fruit of a more prestigious, original research project. So the magi try to hunt down and eliminate the coven of folk witches.
-
-### BALANCE OF POWER
-
-A Tytalus magus secretly invents Energy Magic, and teaches it to a cabal of low-ranking Tremere. These Tremere use their new ability to restore and destroy Fatigue to attack their superiors, both in certamen and Wizard's War, and so rapidly claim their own sigils. This disrupts the balance of power among the Tremere, and temporarily fragments the Tremere voting block at many Tribunals. While the new Tremere masters consolidate their power, other Tribunal factions take the chance to pass a number of Tribunal rulings that have been vetoed for decades by the Tremere.
-
-### A DIEDNE RESURGENCE?
-
-House Diedne's magi were masters of Spontaneous magic. When several bands of Hoplites in the Roman Tribunal demonstrate a surprising proficiency with Spontaneous magic, the Tribunal's senior Quaesitors suspect that the Hoplites have stumbled upon Diedne secrets. Investigators are sent to discover the source of this supposed "recovered" Diedne magic.
-
-### THE BJORNAER CRUSADE
-
-Emboldened by the ability to restore Fatigue — and thus operate more easily in a Divine aura — a Bjornaer sept erupts from the forest. The bellowing beasts destroy a number of towns that fringe the wilderness, and the attacks claim several bishops. The outraged papacy calls a crusade and thousands of knights, included groups armed with saintly relics, arrive at the forest edge ready for war. The Bjornaer are relatively secure - they are hidden in a number of forest regios, from which they occasionally sally forth to harass the crusaders — but the frustrated crusaders may attack neighboring covenants.
-
-# Sense of the Mystic
-
-### Suggested Breakthrough Points: 45
+### Sense of the Mystic
+**Suggested Breakthrough Points:** 45
 
 Folk witches have access to the Supernatural Virtue Second Sight, which is superior to Hermetic magic at detecting some types of invisible creatures, as it does not need to penetrate the Magic Resistance of the sensed creature (see ArM5, page 67). Studying Second Sight allows a Hermetic researcher to invent a new Hermetic Virtue that improves how he may use Intellego magics. Note that a magus does not need to study the powers of folk witches for this integration project; any character with the Supernatural Virtue Second Sight can provide insight. However, trained folk witches do have some theoretical understanding of how their magic works, and can also produce artifacts like Second Sight potions that may be studied for insight.
 
-### INTEGRATION EFFECTS
+#### INTEGRATION EFFECTS
 
 Intellego effects are the most suitable laboratory projects that may be produced from Insights to contribute to this breakthrough. Some example effects include:
 
-Lens of Glimpsing Spirits InIm(Me) Level 34 Pen +0, constant effect device. R: Touch, D: Constant, T: Vision
-
+**Lens of Glimpsing Spirits** 
+InIm(Me) Level 34 Pen +0, constant effect device. 
+R: Touch, D: Constant, T: Vision
 
 This device is a crystal lens about the size of a fist, which is inset into a brass ring etched with Hermetic script. When a character looks through this lens, he can see spirits with Mentem Mights even if they are normally invisible. The character can target spirits seen in this way with spells, but must add 3 to any Concentration Ease Factors due to the awkwardness of using the lens. The character can also use the lens to engage in melee combat with an invisible spirit, with a penalty of 3 to his Attack Score, although obviously if the spirit is incorporeal the character requires a suitable magical weapon. The lens does not need to penetrate the Magic Resistance of the spirit.
 
 (Effect: Base 3, +1 Touch, +2 Sun, +4 Vision; Modifications: +4 levels environmental trigger)
 
-Eyes for the Prince InVi Level 15
-
+**Eyes for the Prince**
+InVi Level 15
 R: Personal, D: Concentration, T: Vision
+
 The caster can detect Faerie creatures
-with a Might of 40 or higher. The effect allows the caster to recognize the creature even\nif it is disguised or invisible, and does not need
-to penetrate the creature's Magic Resistance.
+with a Might of 40 or higher. The effect allows the caster to recognize the creature even\nif it is disguised or invisible, and does not need to penetrate the creature's Magic Resistance.
 The effect does not allow the caster to see
 through intervening objects, however.
 
 (Base: 2, +1 Conc, +4 Vision)
 
-### Consequences of Integration
+#### Consequences of Integration
 
 This integration effect considerably strengthens the powers of the Order of Hermes against magical and faerie foes.
 
-# Ritual Items
-
-### Suggested Breakthrough Points: 45
+### Ritual Items
+**Suggested Breakthrough Points:** 45
 
 Hermetic magi would understand some folk witch potions as being ritual effects incorporated into charged items, however creating such items is beyond the capacity of mainstream Hermetic magic. Integration of folk witch potion-brewing techniques could allow magi to create ritual items. This integration could be particularly powerful if Energy Magic is also invented.
 
-### INTEGRATION EFFECTS
+#### INTEGRATION EFFECTS
 
 Suitable laboratory projects that may be produced from Insights towards this breakthrough include:
 
-
-STOUT POTION
+**STOUT POTION**
 CrCo Level 60
 Pen +0, charged item.
 R: Touch, D: Momentary, T: Individual, Ritual
@@ -3019,65 +2706,56 @@ The character who drinks this dark, bitter potion has his Stamina increased by 1
 
 (Effect: Base 55, +1 Touch)
 
-# New Virtue: Sense of the Mystic
+>#### New Virtue: Sense of the Mystic
+>Major Hermetic Virtue
+>
+>Intellego effects cast or invented by this magus that grant magic senses (see ArM5, page 113) do not need to penetrate the Magic Resistance of the sensed creatures. The effect must still penetrate the Magic Resistance (if any) of the person who is granted the sense. Note that this only applies to effects that have a Sense Target.
+>
+>#### Story Seed: Waking the Oragon
+>
+>The magi learn this breakthrough, and when they return home they discover to their surprise that their covenant is home to a sleeping dragon (this could be an Unknown Monster Hook). The dragon is invisible while sleeping, and has not yet been disturbed by the activities of the magi. However, it is unclear how long the dragon has been sleeping. Maybe it arrived recently, or perhaps it predates the foundation of the covenant. Now that they know it exists, can the magi resist the temptation to wake the dragon? The dragon is within the Aegis of the Hearth.
 
-Major Hermetic Virtue
-
-Intellego effects cast or invented by this magus that grant magic senses (see ArM5, page 113) do not need to penetrate the Magic Resistance of the sensed creatures. The effect must still penetrate the Magic Resistance (if any) of the person who is granted the sense. Note that this only applies to effects that have a Sense Target.
-
-# Story Seed: Waking the Oragon
-
-The magi learn this breakthrough, and when they return home they discover to their surprise that their covenant is home to a sleeping dragon (this could be an Unknown Monster Hook). The dragon is invisible while sleeping, and has not yet been disturbed by the activities of the
-
-magi. However, it is unclear how long the dragon has been sleeping. Maybe it arrived recently, or perhaps it predates the foundation of the covenant. Now that they know it exists, can the magi resist the temptation to wake the dragon? The dragon is within the Aegis of the Hearth.
-
-
-OIL OF PROMETHEUS Crlg Level 60
-
+**OIL OF PROMETHEUS** 
+Crlg Level 60
 Pen +0, charged item.
+R: Touch, D: Diameter, T: Boundary, Ritual 
 
-R: Touch, D: Diameter, T: Boundary, Ritual This oil is carefully poured onto the ground at a Boundary — a city wall, or the edge of a forest, for example — which erupts into flame. From the site of ignition, which is about a pace in diameter, the conflagration rapidly spreads through the Boundary doubling in diameter every round until it covers an area up to 60 miles in diameter. The fire burns incredibly fiercely (+20 damage) for the Duration of the effect — even stones burn and iron melts. When
+This oil is carefully poured onto the ground at a Boundary — a city wall, or the edge of a forest, for example — which erupts into flame. From the site of ignition, which is about a pace in diameter, the conflagration rapidly spreads through the Boundary doubling in diameter every round until it covers an area up to 60 miles in diameter. The fire burns incredibly fiercely (+20 damage) for the Duration of the effect — even stones burn and iron melts. When
 
 the effect expires the fire no longer spreads with supernatural speed or heat, but any fires begun continue to burn naturally. The potion must be poured on the edge of a defined Boundary to have an effect (see ArM5, page 113).
 
 (Effect: Base 15, +1 Touch, +1 Diameter, +4 Boundary, +3 Size)
 
-DRAM OF THE LION MuCo(An) 35
-
+**DRAM OF THE LION** 
+MuCo(An) 35
 Pen +0, charged item.
-
 R: Touch, D: Year, T: Individual, Ritual
 
-Drinking this potion causes the character to change into a lion for a year. When the
-
-character returns to normal, he may temporarily retain some leonine aspect.
+Drinking this potion causes the character to change into a lion for a year. When the character returns to normal, he may temporarily retain some leonine aspect.
 
 (Effect: Base 10, +1 Touch, +4 Year)
 
-### Consequences of Integration
+#### Consequences of Integration
 
 In some respects, this integration project has limited consequences; it does not really open up new powers to the magi. Its main effect is that it allows powerful magi to more effectively use subordinates, as rather than needing to accompany their subordinates to cast a ritual effect, the magus can send a ritual item.
 
-# Story Seeds for Ritual Items
+>#### Story Seeds for Ritual Items
+>
+>**COVENFOLK REBELLION**
+>
+>A remote covenant is found, by a Redcap, to have been devastated in a rain of fiery, molten metal; he presumes that all of the magi are dead. The Tribunal sends a group to investigate the ruin, and it becomes apparent that the devastation was caused by a powerful ritual cast from within the covenant itself. Some of the covenfolk are found hiding in the hills nearby. The investigators may eventually determine that the covenant was destroyed by a revolt of the covenfolk, whom the magi had foolishly armed with powerful ritual items. It is possible that the covenfolk were encouraged by enemies of the covenant.
+>
+>**TOWERS OF WAR**
+>
+>On the Rhine Tribunal side of the Rhine/Novogorod border, a number of featureless towers are rapidly erected, each warded by powerful castings of Aegis of the Hearth. The towers are raised almost on top of known vis sources, and the Rhine magi soon find that their vis sources are warded against them. Early attempts to communicate with the inhabitants of the towers are unanswered, but a Quaesitor eventually recognizes in all the effects the sigil of a single powerful Novgorod archmagus. However, when questioned the archmagus in question claims no involvement — and he was provably well away from the area as the towers appeared. In fact, a small number of freshly Gauntleted magi, wielding a set of charged, ritual wands created by the archmagus, are behind the attack on the Rhine tribunal. The young magi may have stolen the wands, or they may be acting with the blessing of their Novogorod elders. In any case, the two Tribunals are now at the brink of war due to the reckless use of ritual magic.
 
-### COVENFOLK REBELLION
-
-A remote covenant is found, by a Redcap, to have been devastated in a rain of fiery, molten metal; he presumes that all of the magi are dead. The Tribunal sends a group to investigate the ruin, and it becomes apparent that the devastation was caused by a powerful ritual cast from within the covenant itself. Some of the covenfolk are found hiding in the hills nearby. The investigators may eventually determine that the covenant was destroyed by a revolt of the covenfolk, whom the magi had foolishly armed with powerful ritual items. It is possible that the covenfolk were encouraged by enemies of the covenant.
-
-### TOWERS OF WAR
-
-On the Rhine Tribunal side of the Rhine/Novogorod border, a number of
-
-featureless towers are rapidly erected, each warded by powerful castings of Aegis of the Hearth. The towers are raised almost on top of known vis sources, and the Rhine magi soon find that their vis sources are warded against them. Early attempts to communicate with the inhabitants of the towers are unanswered, but a Quaesitor eventually recognizes in all the effects the sigil of a single powerful Novgorod archmagus. However, when questioned the archmagus in question claims no involvement — and he was provably well away from the area as the towers appeared. In fact, a small number of freshly Gauntleted magi, wielding a set of charged, ritual wands created by the archmagus, are behind the attack on the Rhine tribunal. The young magi may have stolen the wands, or they may be acting with the blessing of their Novogorod elders. In any case, the two Tribunals are now at the brink of war due to the reckless use of ritual magic.
-
-# New Virtue: Ritual Items
-
-Minor Hermetic Virtue
-
-The magus may make charged items that incorporate ritual effects. Each charge requires the same number of pawns of vis that casting the effect normally would otherwise cost. For example, a wand that produced an effect similar to *Curse of the Unportended Plague* (PeCo 55; ArM5, page 133) would require 11 pawns of Perdo or Corpus vis per charge. The number of pawns of vis that the magus may use in a season is limited in the usual way, and the number of charges is also calculated in the normal manner.
+>#### New Virtue: Ritual Items
+>Minor Hermetic Virtue
+>
+>The magus may make charged items that incorporate ritual effects. Each charge requires the same number of pawns of vis that casting the effect normally would otherwise cost. For example, a wand that produced an effect similar to *Curse of the Unportended Plague* (PeCo 55; ArM5, page 133) would require 11 pawns of Perdo or Corpus vis per charge. The number of pawns of vis that the magus may use in a season is limited in the usual way, and the number of charges is also calculated in the normal manner.
 
 
-# Gruagachan
+# Chapter Four: Gruagachan
 
 The gruagachan (pronounced: GROOuh-guk-an, singular: gruagach, pronounced: GROO-uh-guk) are a tradition of hedge wizards descending from ancient Pictish priests of the god Gruagach. The Picti were a people native to what is now Scotland, described by invading Romans as fierce barbarians covered in tattoos. Gruagach — the Pictish god of the sun, plants, and animals — has been all but forgotten outside of the gruagachan, whose numbers are dwindling. But they secretly worship the deity, maintain a cult in his honor, and take their name from him.
 
@@ -3087,7 +2765,7 @@ The gruagachan are found primarily in the Loch Leglean Tribunal, but also exist 
 
 the Stonehenge and Hibernian Tribunals. The gruagachan have a long history with the Order of Hermes. They were bitter rivals of the tradition that would become House Diedne, both before and after they joined the Order, and because of that animosity joined with the wizard Damhan-Allaidh against the Order. After the Schism War and the destruction of House Diedne, the relations between the Order and the gruagachan warmed slightly. Some gruagachan have even joined the Order, but the vast majority remain independent.
 
-# Character @eneration
+## Character Generation
 
 There are both Gifted and unGifted gruagachan. An unGifted gruagach is treated as a companion character when assigning Virtues and Flaws, while a Gifted gruagach may be treated as either a magus or a companion character, at the discretion of the troupe.
 
@@ -3095,22 +2773,13 @@ Gruagachan receive experience points using the normal character generation rules
 
 After some initial training in the Pictish language, the gruagach master performs the ritual necessary for Opening of The Gift. This season-long ritual grants the gruagach apprentice a score of 0 in the following Arts: Give, Take, Blessing, Curse, Shape, and Vision. The gruagach master's Opening Total is his Give Vision Lab Total, described later. This total only matters if the student has preexisting Supernatural Abilities. The process for Opening of The Gift is described in the Introduction of this book.
 
-The gruagach is able also to perform any of the laboratory activities described in this chapter. After the gruagach's Gift is opened, the player may spend experience points on any of these Arts, and the player
-
-
-# Inedge Magic
-
-need not purchase any of the corresponding Virtues. The gruagach apprenticeship grants the character 160 experience points for any Abilities, including Arcane ones or the gruagach Arts, and 80 levels of spells. After the gruagach apprenticeship, the character accumulates experience using the standard rules.
+The gruagach is able also to perform any of the laboratory activities described in this chapter. After the gruagach's Gift is opened, the player may spend experience points on any of these Arts, and the player need not purchase any of the corresponding Virtues. The gruagach apprenticeship grants the character 160 experience points for any Abilities, including Arcane ones or the gruagach Arts, and 80 levels of spells. After the gruagach apprenticeship, the character accumulates experience using the standard rules.
 
 UnGifted gruagachan are generally not taken as apprentices during childhood. They often do not begin training in gruagach magic until much later in life. UnGifted gruagachan may only gain experience points in Arts for which they possess the corresponding Virtues. Sometimes gruagach masters find individuals born with the required Virtues and train them in their magic; however, this is a rare occurrence. More often, a potential student who exhibits the proper temperament and possesses the Giant Blood, Large, or Shapeshifter Virtues — which are regarded as favors granted by Gruagach — is recruited by a gruagach, who then Initiates him into the tradition. UnGifted characters who become gruagach through Initiation must also take the Flaws inflicted by the Ordeals associated with each ritual. Because the gruagach Techniques are Major Virtues, no gruagach may be a grog character.
 
 The unGifted gruagach apprenticeship is shorter, and often apprentices do not receive Initiation in all of the gruagach Arts. Because unGifted gruagach remain members of their communities, they receive their training while maintaining their normal vocations. The un-Gifted apprenticeship generally lasts three to five years. For each year of training, the player may spend 16 experience points in Abilities or gruagach Arts and take8 levels of spells.
 
-# Training
-
-hi
-
-"
+## Training
 
 The magical tradition of the gruagachan is largely an oral one, and there are few known texts on the Arts of the gruagachan. Gruagach masters initially train their students one-on-one. If a gruagach no longer has access to a teacher, he must then improve his abilities through the study of vis, exposure, or adventure. Abilities may also be raised by practice, but gruagachan may not improve their Arts through practice.
 
