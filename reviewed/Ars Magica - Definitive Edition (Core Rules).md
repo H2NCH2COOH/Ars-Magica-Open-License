@@ -51,27 +51,86 @@ Some identified issues present in source PDF (latest release as per march 2026).
 - Style inconsistency with hyphenation: Long-Term/Long Term/longterm (partly fixed); as well as Brother-Knight, Long-Winded, Simple-Minded and likely some more (none fixed).
 - Inconsistent use of "unravelling" (British spelling) and "unraveling" (American spelling). Three of each throughout the book (not fixed, but we probably should due to linkage)
 - Often inconsistent use of punctuation in lists (only occasionally fixed).
+- p5: "Structure of the Book" section dropped "over months or years, including character" from the Chapter 10 description, leaving "covers things that happen to the characters improvement, aging and death" (fixed)
+- p12-14: Cluster of v/y and letter-swap OCR errors in Chapter 2 (Order of Hermes): "Biornaer" for "Bjornaer" (twice), "LAH-nav-ah" for "LAH-nay-ah", "GWAIR-neekuss" for "GWAIR-nee-kuss", "KWAEsee-tor" for "KWAE-see-tor", "Ouaesitor(es/s)" for "Quaesitor(es/s)" (three instances), and a dropped em-dash before "including most members of the House" (all fixed)
+- p15: "un Gifted" should be "unGifted"; "the domus magna of the House. Magvillus" should be "...House, Magvillus" (comma, not a full stop); "Hedvosmos"/"labvrinth" should be "Hedyosmos"/"labyrinth" (all fixed)
 - p16: House Tremere voting sigil reference to p314 likely should be p224 (fixed)
 - p31-43: Note the mix use of both semicolon and comma under Virtues and Flaws throughout all Character Templates. This is apparently not an error and the logic is: \[special] ; \[social status] ; \[major virtue], \[major virtue], ... ; \[minor virtue], \[minor virtue], ... ; \[major flaw], \[major flaw], ... ; \[minor flaw], \[minor flaw], ... (not fixed)
 - p38: The spell "Phantom of the Talking Head" should be "Phantasm of the Talking Head" (fixed, thanks to garin1000)
+- p48 and p52: Two "Example: Darius of Flambeau" insert headings were one Markdown heading level higher than the matching Darius example inserts in the same sequence (fixed)
+- p54: Darius's appearance said "no eves" instead of "no eyes" (fixed)
+- p71: The Bard Virtue heading was extracted as "Rard" (fixed)
 - p76: Early in first column "The character many learn..." should of course be "The character may learn". (fixed)
+- p86: Distracting Prop said "whose eves also follow the prop" instead of "whose eyes" (fixed)
+- p87-88: Minor punctuation fixes in Kassalan Exorcism, Keen Vision, Knows People, and Laborer entries (fixed)
+- p99: Minor Magical Focus had a comma instead of a full stop before "You cannot..." and "Birds of prey" was extracted as "Birds of prev" (fixed)
+- p112: Templar Administrator/Commander/Office Holder had collapsed compound words: "brothersergeant" and "wellknown" (fixed)
+- p128: Failed Monk type line was missing the comma in "Minor, Social Status" (fixed)
+- p143: Repellent example said "demonic eves" instead of "demonic eyes" (fixed)
+- p160: Memorization Ease Factors table used non-breaking spaces for padding (fixed)
+- p175: "the older magican give orders" should be "the older magi can give orders" (fixed)
+- p179: "a group of buildings in a clearing in forest" appears in the source PDF; likely missing "a" before "forest" (not fixed)
+- p189: "the Quaesitores may take an interest it" appears in the source PDF; likely missing "in" before "it" (not fixed)
+- p197: "guestions" should be "questions" and "menat-arms" should be "men-at-arms" (fixed)
+- p198: "selforganize" should be "self-organize" (fixed)
+- p208: Animal Form heading had a mismatched closing quote (fixed)
+- p209: Herbam Form heading had lower-case "he" instead of "He" (fixed)
+- p240: Spell Timing heading had "Mustery" instead of "Mystery" (fixed)
 - p118: The virtue Folk Magic is erroneously listed in Flaws (fixed, thanks to garin1000)
 - p236: Weird trailing colon at "Script Bonus: +15:" (fixed)
+- p256: "Designing the Offect" should be "Designing the Effect" (fixed)
 - p263: Casting Tablets" section is weird have the table within the text (fixed)
 - p275: Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading, David Chart: "The heading got taken into the insert, and not replaced in the main text.", flow problem is fixed in the markdown)
+- p276: Side Effect table first result row was missing its closing table pipe (fixed)
+- p279: Stabilizing the Unknown heading had title-case inconsistency (fixed)
 - p279: "Having deciding" should be "Having decided" (fixed)
 - p279: "your must add" should be "you must add" (fixed)
+- p295: Elementary lab Flaw has a missing page reference in the source PDF: "(see the list of possible activity Specializations earlier on page )" (not fixed)
 - p296: Extra "an" in 2nd paragraph Regio: "...there is an another regio level" (fixed)
+- p296: Haunted lab Flaw statistics had punctuation/spacing errors (fixed)
+- p296: Astronomical Device says "and example" in the source PDF, likely "an example" (not fixed)
 - p325: Creo Auram Guidelines: Bottom bullet points are indented under Level 25 (fixed)
+- p306: Magical Wards rule said "equal to or less than or equal to its level" (fixed)
+- p314-358: Several spell-name headings were at the same Markdown heading level as LEVEL headings (fixed)
+- p318-319: Two Animal spell descriptions had "eves" instead of "eyes" (fixed)
+- p323: Comfort of the Drenched Traveler spell title had title-case inconsistency (fixed)
+- p337: Rego Corpus Spells heading said "Svells" (fixed)
+- p340: Shadows of the Fires Past spell title had title-case inconsistency (fixed)
+- p340, p348, p353: Muto Herbam Guidelines, Creo Imaginem Guidelines, and Creo Mentem Spells headings were one Markdown heading level too high (fixed)
 - p339: Creo Herbam Spells: "LEVEL 20" heading is missing before "Bridge of Wood" (fixed) - Thanks Jason Tondro.
 - p372: Circular Ward Against Demons grammar: "equal to or less than or equal to the level" (fixed)
+- p385: Training creature loyalty rules say "at least equal to level of the Lab Text" in the source PDF, likely missing "the" before "level" (not fixed)
+- p386: Training creature example had "and be then commands" instead of "and he then commands" (fixed)
+- p388: Mystery Initiation has an extra closing parenthesis after "previous Initiation" in the source PDF (not fixed)
+- p395: Combat example says "Polandrus fighting with his teeth" in the source PDF, likely missing "is" (not fixed)
+- p403: Recovery from Short-Term Fatigue heading had title-case inconsistency (fixed)
+- p407: Deprivation Table heading had trailing whitespace (fixed)
 - p401: Extra "is" in "Fist: This is includes..." (fixed)
+- p415: Infernal Creatures heading said "Infernal Oreatures" (fixed)
+- p419: Relic power heading said "SCOURCING THE INFERNAL" instead of "SCOURGING THE INFERNAL" (fixed)
+- p420: Regiones section had a missing space after comma in "phenomenon,imagine" (fixed)
+- p421: Magic in Regiones heading had title-case inconsistency (fixed)
+- p446: Dietrich von Bern's power text says "can only to a maximum of +3" in the source PDF, likely missing a verb (not fixed)
+- p448: Portunes heading said "Safe Narbor" instead of "Safe Harbor" (fixed)
+- p465: Stellatus's human-form description had "eves" instead of "eyes" (fixed)
+- p491: Nasir heading said "the Delper" instead of "the Helper" (fixed)
+- p509: Game Use heading said "Markets and Pairs" instead of "Markets and Fairs" (fixed)
 - p524: Extra "a" in "...enforce a myriad rules" - EDIT: While it's a less common grammar option when without the "of" it's apparently ok (reverted fix to stick to original DE)
+- p527: Fixed blockquote formatting and "noone" to "no-one" in the Resources sidebar.
 - p528: Fast Saga grammar garble: "Virtues and Flaws that affect only a character's starting scores are much less important, and should probably be made reclassified or made more effective if they are to be balanced." (not fixed)
+- p536: Open License appendix headings had OCR/substitution errors ("That" for "What" and "Same" for "Game") (fixed)
+- p541: Reference Guide heading said "Deprivation Page" instead of "Deprivation"; restored its paired original/Definitive Edition page reference line (fixed)
 - p544: Repeated word: "1 pawn of vis per per spell magnitude" (fixed)
+- p546: Volumes and Targets heading said "Volumes and Targets Parts"; restored its paired original/Definitive Edition page reference line (fixed)
+- p546: Reference Guide Base Individuals text attached "area inside a standard Boundary" to Terram base metals instead of Auram (fixed)
+- p546: The source PDF's Auram Base Individuals summary says "a weather phenomenon the area inside a standard Boundary," likely missing wording such as "affecting" (not fixed)
+- p546: Vim Base Individuals text said "don't apply direction to Vim effects" instead of "don't apply to Vim effects" (fixed)
 - p546: Spelling error: "accomodate" (fixed)
+- p548: Teaching Hermetic Virtues heading said "Teaching Hermetic Virtues Property"; restored its paired original/Definitive Edition page reference line (fixed)
+- p552: Advancement Source Qualities heading had stray "Dvancement" (fixed)
 
 Found Index Issues (p558-568):
+- Markdown quick link for Appendix B pointed to the wrong generated anchor for "The Ars Magica Open License" (fixed)
 - Arcane Lore listed as Ability instead of Virtue in Index (fixed)
 - Casting Tablet entry in index pointing to p180 which only covers covenant resource, the rules are on p263 (fixed)
 - Corrupt Beasts misplaced in Index (fixed)
@@ -326,7 +385,7 @@ Map of Mythic Europe<br>
 [**Chapter 15: Stories**](#chapter-15-stories)<br>
 [**Chapter 16: Sagas**](#chapter-16-sagas)<br>
 [**Appendix A: Editor's Note**](#editors-note)<br>
-[**Appendix B: Ars Magica Open License**](#ars-magica-open-license)<br>
+[**Appendix B: Ars Magica Open License**](#the-ars-magica-open-license)<br>
 [**Appendix C: Fourth Edition Conversion**](#fourth-edition-conversion)<br>
 [**Appendix D: Reference Guide**](#reference-guide)<br>
 [**Appendix E: Spells Index**](#spells-index)<br>
@@ -392,7 +451,7 @@ This is a big book, as it needs to be to explain all the rules and background fo
 
 Chapter 2, Order of Hermes, describes the order of wizards that is central to the game.
 
-Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
+Chapters 3, 4 and 5, Characters, Virtues and Flaws, and Abilities contain all the information necessary to create a character. Chapter 6, Covenants, deals with creating the place where the characters live. Chapters 7, 8, and 9, Hermetic Magic, Laboratory, and Spells, describe Hermetic Magic. Chapter 10, Long Term Events, covers things that happen to the characters over months or years, including character improvement, aging and death, and Warping by supernatural power. Chapter 11, Obstacles, details the things that might harm the characters, most notably combat.
 
 Chapter 12, Realms, explains the four different sorts of supernatural power in Mythic Europe, the Divine, Faerie, Infernal, and Magical Realms. Chapter 13, Bestiary, provides a sample of creatures from each of these Realms. Chapter 14, Mythic Europe, provides hints on making your game feel like it happens in the mythic world.
 
@@ -637,7 +696,7 @@ Since the Schism War, the Order has existed in a state of relative peace and co-
 
 The Order of Hermes is divided into twelve Houses, all but Ex Miscellanea descended in some way from one of the Twelve Founders. This section provides a brief overview of the Houses, but it is important to remember that individuals within a House can vary widely.
 
-The twelve Houses fall into three groups. Four (Bonisagus, Guernicus, Mercere, and Tremere) are true lineages, made up of those trained by someone trained by someone (etc) trained by the founder of the House. It is not possible to join those Houses later. These Houses are described in the supplement Houses of Hermes: True Lineages. Four (Biornaer, Criamon, Merinita, and Verditius) are Mystery Cults, and magi can join those Houses by being initiated into the cult. Such initiations teach the Outer Mystery of the cult, the only cult ability that is not kept largely secret. Their secret Mysteries, and much more detail of the Houses, are detailed in Houses of Hermes: Mystery Cults. The last four (Ex Miscellanea, Flambeau, Jerbiton, and Tytalus) are gatherings of magi with common interests. It is relatively easy to join these Houses after training, and magi who feel that they do not fit in to their old Houses often do. Ex Miscellanea, in particular, will take anyone with The Gift, a smattering of Latin and Magic Theory, and the ability to raise a Parma Magica — and many members will teach the last three to potential recruits. The interests and activities of these Houses are discussed in Houses of Hermes: Societates.
+The twelve Houses fall into three groups. Four (Bonisagus, Guernicus, Mercere, and Tremere) are true lineages, made up of those trained by someone trained by someone (etc) trained by the founder of the House. It is not possible to join those Houses later. These Houses are described in the supplement Houses of Hermes: True Lineages. Four (Bjornaer, Criamon, Merinita, and Verditius) are Mystery Cults, and magi can join those Houses by being initiated into the cult. Such initiations teach the Outer Mystery of the cult, the only cult ability that is not kept largely secret. Their secret Mysteries, and much more detail of the Houses, are detailed in Houses of Hermes: Mystery Cults. The last four (Ex Miscellanea, Flambeau, Jerbiton, and Tytalus) are gatherings of magi with common interests. It is relatively easy to join these Houses after training, and magi who feel that they do not fit in to their old Houses often do. Ex Miscellanea, in particular, will take anyone with The Gift, a smattering of Latin and Magic Theory, and the ability to raise a Parma Magica — and many members will teach the last three to potential recruits. The interests and activities of these Houses are discussed in Houses of Hermes: Societates.
 
 It is only possible to be a member of one House at a time.
 
@@ -645,7 +704,7 @@ It is only possible to be a member of one House at a time.
 
 Magi of Bjornaer (BYORE-nayr) concern themselves primarily with beasts and the animalistic side of human nature. Because of this emphasis in their training, each Bjornaer magus can take the form of an animal, known as his "heartbeast." Understanding the heartbeast in particular and animals in general is considered more important than Hermetic magic by many in this House. Despite this close association with shapeshifting, Bjornaer magi avoid any kind of shapeshifting other than their heartbeast, and have hostile relations with some other shapeshifters, for reasons that other magi do not fully understand.
 
-Due to their nature, Bjornaer magi are unable to forge the necessary links to have a familiar, and the very concept is alien to them. Some Bjornaer deride magi who take familiars, which they call "substitute" heartbeasts. On the other hand, other magi are wary of followers of Bjornaer because of their fascination with the bestial. Furthermore, House Biornaer is less respected than it might otherwise be because its founder was from a Germanic rather than a Roman magical tradition.
+Due to their nature, Bjornaer magi are unable to forge the necessary links to have a familiar, and the very concept is alien to them. Some Bjornaer deride magi who take familiars, which they call "substitute" heartbeasts. On the other hand, other magi are wary of followers of Bjornaer because of their fascination with the bestial. Furthermore, House Bjornaer is less respected than it might otherwise be because its founder was from a Germanic rather than a Roman magical tradition.
 
 The House is divided into six clans. Clan Arelie is concerned with remembering the past, Clan Ilfetu is responsible for Initiating members of the House, Clan Maruhs seeks self-realization, Clan Midusulf leads, Clan Sirnas protects, and Clan Wilkis nurtures magi and strengthens the House. Philosophically, the House is divided between Harmonists, who want to see humans and nature live in harmony, and Wilderists, who want to drive humans back to the cities, restoring the wilderness to its dominance. The Wilderist philosophy was the original philosophy of the House, while the first Harmonist was Hérisson, a magus of the tenth century whose ideas only became popular after the Schism War.
 
@@ -673,7 +732,7 @@ This House is a Mystery Cult, and the Mystery at the heart of the cult is the En
 
 ### House Ex Miscellanea
 
-This is a large, diverse, and highly disorganized collection of magi. Though originally founded by Pralix as a rival to the Order of Hermes, this association was accepted as a House of its own. It accepts wizards of all kinds, some only nominally Hermetic, whose magic comes from many disparate traditions. Magi Ex Miscellanea (EKS mis-kel-LAH-nav-ah) are often called hedge wizards by their many detractors within the Order, although most can use Hermetic magic just as well as any other magus.
+This is a large, diverse, and highly disorganized collection of magi. Though originally founded by Pralix as a rival to the Order of Hermes, this association was accepted as a House of its own. It accepts wizards of all kinds, some only nominally Hermetic, whose magic comes from many disparate traditions. Magi Ex Miscellanea (EKS mis-kel-LAH-nay-ah) are often called hedge wizards by their many detractors within the Order, although most can use Hermetic magic just as well as any other magus.
 
 Magi of Ex Miscellanea have very little in common, belonging to many different traditions within the House, each tradition having its own strengths and weaknesses. Many of these traditions are described in more detail in Houses of Hermes: Societates.
 
@@ -681,7 +740,7 @@ The Primus of the House is Ebroin, a relatively young magus who was elected four
 
 One of Pralix's closest allies was Colomen, from a tradition of warding wizards now known as the "Columbae", or "pigeons". He taught his tradition's magic to other magi, and those insights formed the basis of most of the wards created by Hermetic magic.
 
-Most magi would be hard-pressed to name any magus Ex Miscellanea they did not know personally including most members of the House.
+Most magi would be hard-pressed to name any magus Ex Miscellanea they did not know personally — including most members of the House.
 
 ### House Flambeau
 
@@ -693,15 +752,15 @@ Among its contemporary members, the Archmaga Geirlaug of Montverte covenant in t
 
 ### House Guernicus
 
-House Guernicus (GWAIR-neekuss) is a true lineage, all its members descended from Guernicus the Founder, who believed that the Order needed strictly enforced rules if it was to survive. Members of this House are the judges of the Order, investigating wrongdoing and bringing cases against those who transgress the Code of Hermes and the Peripheral Code. They believe the Order will collapse through internal conflict without their fierce stewardship. The House is sometimes known informally as House Quaesitor (KWAEsee-tor), as 'Quaesitor' is the title of those magi empowered by the Order to investigate crimes.
+House Guernicus (GWAIR-nee-kuss) is a true lineage, all its members descended from Guernicus the Founder, who believed that the Order needed strictly enforced rules if it was to survive. Members of this House are the judges of the Order, investigating wrongdoing and bringing cases against those who transgress the Code of Hermes and the Peripheral Code. They believe the Order will collapse through internal conflict without their fierce stewardship. The House is sometimes known informally as House Quaesitor (KWAE-see-tor), as 'Quaesitor' is the title of those magi empowered by the Order to investigate crimes.
 
-Although House Guernicus trains and inducts their own apprentices, other magi can also join the ranks of the Ouaesitores, and one of the highest honors in the Order is to be invited by the elders of House Guernicus to become a Quaesitor. Such magi invariably retain membership in their original House. A starting maga can only be a Quaesitor if she was trained in House Guernicus.
+Although House Guernicus trains and inducts their own apprentices, other magi can also join the ranks of the Quaesitores, and one of the highest honors in the Order is to be invited by the elders of House Guernicus to become a Quaesitor. Such magi invariably retain membership in their original House. A starting maga can only be a Quaesitor if she was trained in House Guernicus.
 
-Ouaesitors are sometimes asked to investigate possible crimes, or to mediate disputes between magi or covenants. While this does take time, the custom of the Order is that the Ouaesitors be given a few pawns of vis as a gift, in return for their efforts. These investigators are often supported by magi known as Hoplites, who are often from other Houses. Hoplites are skilled in defeating the things that might threaten a Quaesitor, which means that they are strong in magical combat.
+Quaesitors are sometimes asked to investigate possible crimes, or to mediate disputes between magi or covenants. While this does take time, the custom of the Order is that the Quaesitors be given a few pawns of vis as a gift, in return for their efforts. These investigators are often supported by magi known as Hoplites, who are often from other Houses. Hoplites are skilled in defeating the things that might threaten a Quaesitor, which means that they are strong in magical combat.
 
 The House has an important philosophical split between Traditionalists, who believe that the Code should be preserved as it has been since the Founding, and the Transitionalists, who believe that it should be revised to better suit modern realities. The Transitionalist movement started with Simprim of Guernicus in the mid-twelfth century, and seeks greater legal powers for the Quaesitores.
 
-The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/ Transitionalist debate. She resides at the domus magna of the House. Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedvosmos in the Theban Tribunal. Hedyosmos is located in a labvrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see *The Sundered Eagle*, page 66).
+The Prima of the House is the Archmaga Bilera, a maga with a long history of fine service to the House and, importantly, a largely neutral stance on the Traditionalist/Transitionalist debate. She resides at the domus magna of the House, Magvillus, in the Roman Tribunal. Guernicus himself was a master of earth magics, and taught Bonisagus much of the knowledge incorporated into the Hermetic Art of Terram. A tradition of such magic remains in the House, and its most famous living representative is Ausculator, the leader of the covenant of Hedyosmos in the Theban Tribunal. Hedyosmos is located in a labyrinth of caves, and is rumored to possess a portal to the underworld, something that would be very appropriate to the tradition (see *The Sundered Eagle*, page 66).
 
 ### House Jerbiton
 
@@ -717,7 +776,7 @@ In the present, Archmagus Mathieus of Constantinople, who is named for the city 
 
 ### House Mercere
 
-The founder of this House lost his magical powers but remained involved in the Order. He assumed a non-magical role valuable to other magi — that of messenger. His followers continue to fulfill that role. All members of House Mercere (mare-KAY-ray, or mare-SARE in vulgar Latin), regardless of whether they possess The Gift, are officially recognized as magi of the Order. Even un Gifted Mercere spend 15 years in apprenticeship like other magi.
+The founder of this House lost his magical powers but remained involved in the Order. He assumed a non-magical role valuable to other magi — that of messenger. His followers continue to fulfill that role. All members of House Mercere (mare-KAY-ray, or mare-SARE in vulgar Latin), regardless of whether they possess The Gift, are officially recognized as magi of the Order. Even unGifted Mercere spend 15 years in apprenticeship like other magi.
 
 Followers of Mercere are more commonly known as Redcaps because of the headgear they wear as a badge of office. Redcaps are permitted to attend Hermetic Tribunals, but by convention they only vote if they have The Gift. Some unGifted Mercere have powerful supernatural abilities, which are generally attributed to descent from the heroes of classical myth. Whatever the truth of that, these Redcaps are particularly respected within the House.
 
@@ -2354,7 +2413,7 @@ For Hermetic magi, you should note that Intelligence is central to Hermetic labo
 | -2    | Gain 3 |
 | -3    | Gain 6 |
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Niall starts by giving Darius an Intelligence of +3, spending six of his points right away. Following on with the idea that Darius is hard to surprise and good at hunting, he spends the seventh point on a Perception of +1. However, he doesn't want everything else to be zero. Fortunately, the concept practically demands a negative score in Presence, so Niall drops that to -3, and Communication to -1, giving him seven more points to play with.
 >
@@ -2530,7 +2589,7 @@ Confidence Points can be spent to gain a one-off +3 bonus to any die roll, and a
 
 Your character may start with any equipment or possessions she might reasonably have acquired and retained over her career. You need not list all her possessions.
 
-> ### Example: Darius of Flambeau
+> #### Example: Darius of Flambeau
 >
 > Darius starts with the normal Confidence Score of 1 and 3 Confidence Points. His only noteworthy piece of equipment is his talisman-spear; Niall can assume that Darius has any mundane material he needs.
 >
@@ -2607,7 +2666,7 @@ Your character may start with any equipment or possessions she might reasonably 
 >
 > \* If Darius is holding his Talisman, he has a + 4 bonus to cast spells which "Destroy things at a distance". This should be added to these spells if he is holding it.
 >
-> Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eves.
+> Appearance: Darius is a frightening individual. A bony figure swathed in a black, all-encompassing robe and carrying a black-hafted spear, he is reminiscent of medieval perceptions of the physical embodiment of death. This image is further emphasized if his hood falls away from his face, for Darius is bald, with a mass of scar tissue for a face and no eyes.
 >
 > Darius is content to cultivate his sinister image; he is a hoplite and an expert with Perdo magic, dedicated to the discovery and execution of traitors within the Order. However, it was not always thus; Uwe, the boy who would eventually become Darius, was born into a merchant family living in Bavaria. He enjoyed a comfortable life in a moderately prosperous household. However, shortly after Uwe reached puberty strange things began to happen. His books would fall apart, furniture he sat on would break, and the family cat died in his arms. His family became aware that there was something unsettling about the boy and were only too happy to see him taken away as an apprentice by the mysterious scholar who visited them soon after.
 >
@@ -3474,7 +3533,7 @@ The character has completed a three-year program at a university to receive a ba
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues, and can be taken by a female character, but only if she is (or was) studying to be a physician at Salerno.
 
-#### Rard
+#### Bard
 *Free, Social Status*<br>
 The character has attended a bardic school and has passed the examination after four years, earning him the title of fili at the rank of Dos. This accords him some respect among the native Irish, amounting to a Local Reputation of 1. He should be no younger than 20. You should take the Educated (Bardic) Virtue to represent the learning he has received. This Social Status only applies in Ireland.
 
@@ -4111,7 +4170,7 @@ After meeting this character, other characters usually find it hard to describe 
 
 A character who is simply average is always forgettable. He can't turn the ability off and may use props when building a Reputation among other criminals. He may be "that guy in the black gloves who strangles people," for example, although no-one recalls precisely what he looks like. Intimately related characters can eventually become sufficiently used to the character's forgettable face that they remember it.
 
-A character who distracts with a prop is memorable when she wishes to be. She can simply not use her devices of distraction if she wishes to make an impression. She can also switch her distracting prop. For example if she hears that someone is looking for a lady with a curious dog, she might switch to a baby, or a curious hat. A character who distracts with props is usually not recognized by random people in crowds (whose eves also follow the prop, not the face), but this protection is less perfect than a truly forgettable face.
+A character who distracts with a prop is memorable when she wishes to be. She can simply not use her devices of distraction if she wishes to make an impression. She can also switch her distracting prop. For example if she hears that someone is looking for a lady with a curious dog, she might switch to a baby, or a curious hat. A character who distracts with props is usually not recognized by random people in crowds (whose eyes also follow the prop, not the face), but this protection is less perfect than a truly forgettable face.
 
 #### Independent Study
 *Minor, General*<br>
@@ -4173,7 +4232,7 @@ A character with this Virtue, who has had a few seconds to look about a room, do
 
 #### Kassalan Exorcism
 *Minor, Supernatural*<br>
-You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular. but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations.
+You are capable of performing minor exorcism spells through your knowledge of the rites of the Mortuary Society of Kassala in Alodia, the most remote of the three Nubian kingdoms on the southern reaches of the Nile. You can cast spells in a very limited focus, namely wards against ghosts and the physical dead (using the Rego Corpus or Rego Mentem guidelines), and spells to strip Might from these same beings (using the Perdo Vim guidelines). You cannot create spells that affect other spirits or creatures who are not the walking dead, but your spells are equally effective against creatures from any Realm. Wards created with this Virtue need not be circular, but can instead block the threshold(s) of a room; this is still treated as a Duration: Ring, Target: Circle spell for level calculations.
 
 To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm.
 
@@ -4186,7 +4245,7 @@ To cast a spell you must expend a Fatigue level, whether the spell succeeds or f
 > More details on the Kassalan Mortuary Society can be found in Lands of the Nile, from page 88.
 
 #### Keen Vision
-*Minor General*<br>
+*Minor, General*<br>
 You can see farther and more clearly than most. You get a +3 bonus to all rolls involving sight, not including attacks with missile weapons.
 
 #### Keen Sense of Smell
@@ -4198,7 +4257,7 @@ The character's nose is more sensitive than normal for a human. He gets a +3 bon
 You are a knight, a member of the noble classes and one of the elite warriors of Europe. Unless you are Poor, you may have high quality weapons and armor, and a horse. Typical armaments for a mid-13th century knight are lance, sword, heater shield, a complete mail suit, and a warhorse. You may take Martial Abilities during character generation. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is only available to male characters, and is compatible with the Landed Noble Virtue.
 
 #### Knows People
-*Minor General*<br>
+*Minor, General*<br>
 Your social contacts are not important for what they give you directly: they are important because they allow you to match up the desires of your various friends. A skilled socialite is a middleman, who is owed gratitude for bringing opportunities to his friends, not someone who demands favors based on friendship.
 
 Once per story or session, a character with this Virtue may ask for a bait for a non-player character. A bait is the beginning of a scene or short, secondary story, outside the main story being told, which if completed allows the character to gain aid from the nominated target. For example, if the player characters are unable to gain the assistance of a nobleman, a player may demand a bait. In the game, this means the character uses his social skills to determine the needs of the nobleman, and to hint that he may know a third person with a solution. If the troupe then plays out a brief scene in which the nobleman's problem is sorted out, he becomes more biddable.
@@ -4206,7 +4265,7 @@ Once per story or session, a character with this Virtue may ask for a bait for a
 Troupes may veto any use of these connections which spoils the tension and pace of the game.
 
 #### Laborer
-*Free Social Status*<br>
+*Free, Social Status*<br>
 The character is a trained worker who practices a trade that is a valuable service to his community, but by which no finished good is produced. Unlike a peasant, who is an agrarian worker who works at a variety of jobs, a laborer concentrates on one specific endeavor to earn his livelihood, be it hauling wood, washing clothes, cleaning latrines, carrying luggage, or serving food.
 
 #### (Land) Regio Network
@@ -4536,7 +4595,7 @@ The character has one or more items in his possession that have magical powers. 
 
 #### Minor Magical Focus
 *Minor, Hermetic*<br>
-Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam, You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities.
+Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam. You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities.
 
 When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice, as for a Major Magical Focus (page 94).
 
@@ -4546,7 +4605,7 @@ A magus may only have one Magical Focus, whether major or minor, regardless of t
 >
 > This list is merely exemplary; other foci are possible.
 >
-> - Animal: Birds of prev, canines, mustelidae.
+> - Animal: Birds of prey, canines, mustelidae.
 > - Aquam: Stagnant water, small streams.
 > - Auram: Wind, rain, lightning.
 > - Corpus: Aging, disease.
@@ -5109,11 +5168,11 @@ The wealth may be used to purchase the services of people, who, because they hav
 
 #### Templar Administrator
 *Minor, Social Status*<br>
-The character is technically a brother-knight or brothersergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties mean he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
+The character is technically a brother-knight or brother-sergeant for the Poor Knights of the Temple of Solomon, but is really an administrator for the order's many holdings and activities. While he has sworn the Templar oath and vows, and lives a monastic life, his many duties mean he is likely to never see active combat. He is answerable only to his superiors in the order and to the pope. He may have considerable influence and access to enormous resources, but no additional time. You may take Academic Abilities during character creation. This Virtue can replace the Brother-Knight, Brother-Sergeant, and Brother-Priest Status Virtues. This Virtue is only available to male characters.
 
 #### Templar Commander
 *Major, Social Status*<br>
-The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a wellknown figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
+The character is a commander within the Poor Knights of the Temple of Solomon and has authority over all aspects of the order in a province or preceptory. This Virtue also grants the Temporal Influence Minor Virtue, as the character has the ear of any important nobles or clergymen in the area. He also has access to the considerable wealth of the Templars, including any funds, lands, and resources, although he has no extra time. He may levy taxes and tithes over the lands he controls as if he were a landed noble or bishop, and charge service fees on monies he lends, and he may even act as a judge for minor lay crimes committed on his lands. Because of his high position, he is a well-known figure and has a Reputation of level 3 in his area. He is expected to support the order's crusading efforts if he is in the West, and if he lives in the East he is expected to participate directly. Should the grand master die and the character lives in the East, he has the right to participate in choosing a new grand master. This Virtue includes the effects of the Brother-Knight Virtue, and likewise can only be taken by male characters.
 
 #### Templar Confrere or Consoeur
 *Free, Social Status*<br>
@@ -5121,7 +5180,7 @@ The character is an associate member of the Poor Knights of the Temple of Solomo
 
 #### Templar Office Holder
 *Minor, Social Status*<br>
-The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brothersergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Templar Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
+The character holds a position within the local hierarchy of the Poor Knights of the Temple of Solomon, such as the deputy commander, marshal, or infirmarer. He may give orders to brothers in his region, is accorded the considerable respect due to his position, and has the power to enforce the rule and its various laws, although he answers to the local commander. Because of his high position, he is a well-known figure and has a Reputation of level 2 in his region. You may take this Virtue with any of the Templar Status Virtues, as your character may be a senior brother-sergeant or senior Templar chaplain. This Virtue is compatible with the Temporal Influence Minor Virtue. If you take this virtue with the Templar Commander Major Virtue, then your character holds one of the few exalted ranks within the Templars, such as grand commander or grand marshal, or a rank that has authority over the Eastern or Western region of the order, in which case you likely reside in Acre, Paris, or London.
 
 #### Templar Prestige
 *Minor, General*<br>
@@ -6067,7 +6126,7 @@ The character has been expelled from a guild due to past illegal or questionable
 Either through faulty management or illegal business practices, the character has run his workshop into the ground. He must work as a journeyman if he wants to practice his trade legally in town. The character has a bad Reputation of 4 in town, and it will be difficult for him to regain his legal status as a master.
 
 #### Failed Monk
-*Minor Social Status*<br>
+*Minor, Social Status*<br>
 You were once a member of a cloistered order, but were cast out for some great sin or gross incompetence, or perhaps you ran away and your abbot might allow you to come back after a suitable punishment. Because of this, you have a poor Reputation at level 2 in the local area and within the Church. You no longer need to observe your monastic vows of poverty, chastity, and obedience, though you may still practice them as they might be ingrained in your nature. You may take Academic Abilities during character creation. Female characters may take this Flaw as Failed Nun.
 
 #### Failed Student
@@ -6679,7 +6738,7 @@ The character lives according to a strict religious rule, which leaves little ti
 
 #### Repellent
 *Major, General, Tainted*<br>
-The character has developed one of the physical characteristics of his demonic creator, which causes fear and revulsion among normal humans. The character makes all rolls requiring trust with a –6 penalty. The character also gains a minor advantage from the repellent feature. As examples, a character with horns, claws, or fangs could learn to use them in melee, a scaled character might have a Soak bonus of +3, and a character with demonic eves might see in the dark.
+The character has developed one of the physical characteristics of his demonic creator, which causes fear and revulsion among normal humans. The character makes all rolls requiring trust with a –6 penalty. The character also gains a minor advantage from the repellent feature. As examples, a character with horns, claws, or fangs could learn to use them in melee, a scaled character might have a Soak bonus of +3, and a character with demonic eyes might see in the dark.
 
 #### Restricted Learning
 *Minor, General*<br>
@@ -7298,11 +7357,11 @@ Characters without the Art of Memory may memorize similar items with a Stress Di
 
 > #### Memorization Ease Factors
 >
-> | Ease Factor      | Description |
+> | Ease Factor | Description |
 > | ---------------- | ---------- |
-> | 9 (Average)      | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
-> | 12 (Hard)        | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle.  |
-> | 18 (Impressive)  | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle.  |
+> | 9 (Average) | Memorize a single page letter verbatim, a conversation up to 5 minutes long, or a room as seen from a single vantage point, or the layout (but not contents) of a castle. |
+> | 12 (Hard) | Memorize a letter of up to 12 pages, or an hour's conversation, lecture or debate, or a room explored and seen from many vantage points, or a whole manor house seen from a single vantage on each room, or the contents (but not details) of a castle. |
+> | 18 (Impressive) | Memorize an extended missive up to 100 pages, or a day's lecture or debate (such as a day at Tribunal), or a whole manor house in detail, or the contents of a castle. |
 >
 > Anything longer must be broken into sections and memorized as separate loci. If the subject matter is highly technical add 3 or even 6 to the Ease Factor. If the subject is technical and falls within an Ability that the scholar possesses, the scholar may use that Ability in place of Art of Memory (but must still roll to recall as well as memorize): for example a Lawyer using Civil & Canon Law to memorize court proceedings, or a magus using Magic Theory to recall a Bonisagus expert's lecture.
 
@@ -7839,7 +7898,7 @@ Summer covenants are firmly established, and still growing. The length of a cove
 
 A Summer covenant is still growing, but the player characters do not have to worry about establishing it. In addition, they are probably not the oldest members of the covenant, so they do have local older magi to turn to for advice and assistance, if necessary. This makes a Summer covenant an excellent choice if your troupe consists of one or two experienced Ars Magica players and several newcomers. The experienced players can share the job of storyguide for the covenant, and thus provide in-character advice and guidance as the elder magi.
 
-On the other hand, Summer covenants are not normally so organized that the older magican give orders to the younger magi. Thus, the player characters are generally free to follow their own plots.
+On the other hand, Summer covenants are not normally so organized that the older magi can give orders to the younger magi. Thus, the player characters are generally free to follow their own plots.
 
 #### Aestas
 
@@ -8293,7 +8352,7 @@ Loyalty points are gained and lost for the equipment and provender given to the 
 | Specialists                                                          |     |
 | -------------------------------------------------------------------- | --- |
 | Turb Captain + Prs + Leadership | |
-| Steward + Prs + Profession: Steward | | 
+| Steward + Prs + Profession: Steward | |
 | Chamberlain + Prs + Profession: Chamberlain | |
 
 #### Familiarity
@@ -8556,9 +8615,9 @@ Magic can also be employed to save money. For example, the fertility of the cove
 
 #### Emergency Savings
 
-Sometimes, a covenant will find itself out of money (or credit), with its expenditure exceeding its income. If it cannot suddenly increase its cashflow, it will need to reduce its outgoings. There are a number of possibilities, which are a good source of stories. As detailed in the Points of Inhabitants insert above, the more privileged members of the covenant may voluntarily dispense with some of their perks and luxuries. (The points of magi or companions may be reduced to less than 5 or 3 points, respectively, and the cost saving limit on Provisions from laborers may be increased from 50%, as the covenfolk rely more on their own produce.) 
+Sometimes, a covenant will find itself out of money (or credit), with its expenditure exceeding its income. If it cannot suddenly increase its cashflow, it will need to reduce its outgoings. There are a number of possibilities, which are a good source of stories. As detailed in the Points of Inhabitants insert above, the more privileged members of the covenant may voluntarily dispense with some of their perks and luxuries. (The points of magi or companions may be reduced to less than 5 or 3 points, respectively, and the cost saving limit on Provisions from laborers may be increased from 50%, as the covenfolk rely more on their own produce.)
 
-Alternatively, the wages may be cut, but the covenfolk's Loyalty will suffer. Some of the covenfolk could be laid off, turning them into disgruntled vagabonds, possibly with an axe to grind against their former employers. 
+Alternatively, the wages may be cut, but the covenfolk's Loyalty will suffer. Some of the covenfolk could be laid off, turning them into disgruntled vagabonds, possibly with an axe to grind against their former employers.
 
 As explained above, there is a minimum number of servants and teamsters needed to keep the covenant running smoothly. If you have fewer than these minimums, it will adversely affect the functioning of the covenant — the storyguide should determine the appropriate story consequences, such as overworked staff, or magi having to forage or cook for themselves! In more severe cases of shortage or emergency, the magi might neglect entire categories of expenditure, allowing the buildings, laboratories, or weapons to go unmaintained, or letting the covenfolk starve, which will likely cause severe penalties to Loyalty.
 
@@ -8638,7 +8697,7 @@ Add any **Tithes** and **Sundry** Expenses
 
 ## The Organization of Covenfolk
 
-The organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant grew in size, or it may have developed organically over its history. This section presents a few concepts around which a covenant organization can be built. Naturally it is possible to mix-and-match; for example, a covenant's soldiers might be organized in a hierarchical fashion, but its servants and specialists might be divided into nations. The manner in which the grogs are organized can be an important determiner of the mood and feel of a covenant, and the troupe should put a bit of thought into which system they prefer. These guestions, and the lives of covenfolk more generally, are discussed in greater detail in Grogs, Chapter Two.
+The organization of grogs in a covenant may have been arranged when the covenant was founded and reorganized deliberately as the covenant grew in size, or it may have developed organically over its history. This section presents a few concepts around which a covenant organization can be built. Naturally it is possible to mix-and-match; for example, a covenant's soldiers might be organized in a hierarchical fashion, but its servants and specialists might be divided into nations. The manner in which the grogs are organized can be an important determiner of the mood and feel of a covenant, and the troupe should put a bit of thought into which system they prefer. These questions, and the lives of covenfolk more generally, are discussed in greater detail in Grogs, Chapter Two.
 
 ### Hierarchy
 
@@ -8660,7 +8719,7 @@ More information on the disposition of a noble household is given in Lords of Me
 
 #### Military Hierarchy
 
-Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord's household troops, including the knights and menat-arms. If his lord goes to war, the marshal takes charge of the men-at-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenant-in-chief, thus the later rank "lieutenant") and appoints a captain to command the men-at-arms.
+Rather than dividing the covenfolk by role, a covenant can take a more military approach. In this organizational system, the covenfolk are divided into squads, each of which consists of soldiers and their auxiliary staff. An army in Mythic Europe is largely free of intermediate ranks. The marshal is in charge of his lord's household troops, including the knights and men-at-arms. If his lord goes to war, the marshal takes charge of the men-at-arms, while the lord commands the knights; otherwise, he leads the knights himself (in lieu of the tenant-in-chief, thus the later rank "lieutenant") and appoints a captain to command the men-at-arms.
 
 This model is appropriate for military-minded covenants, but not necessarily only them. In a similar way to dividing covenfolk into nations (see later), this structure can fill a role where, for example, the covenant is divided over several geographically separate sites. The difference to the system of nations is that, in a military hierarchy, each squad is not independent of each other.
 
@@ -8682,7 +8741,7 @@ Nations may also form where a covenant is split over several geographically sepa
 
 An alternative to nations is guilds; that is, organizing the grogs by their function. Many covenants simply divide their covenants into servants, specialists, and soldiers, and consider these three "guilds" sufficient — and often they are. However, the larger covenants get, the more need there is to divide the grogs into smaller guilds with more defined functions. A covenant that has more than one source of income often institutes guilds as a means to organize collecting the revenue and conducting the necessary business that keeps the income sources operational.
 
-There is also a tendency for grogs to selforganize. If there are a lot of craftsmen, then they tend to band together to mimic the guild structure of the outer world. If the covenant uses light cavalry as an elite unit, then these individuals may not want to fraternize with common foot soldiers.
+There is also a tendency for grogs to self-organize. If there are a lot of craftsmen, then they tend to band together to mimic the guild structure of the outer world. If the covenant uses light cavalry as an elite unit, then these individuals may not want to fraternize with common foot soldiers.
 
 Note that the division of grogs into guilds does not necessarily mean literal guilds; that is, a political unit that can arrange simultaneous withdrawal of services in order to coerce better conditions for their masters.
 
@@ -8900,7 +8959,7 @@ Pronounced 'RAY-go.'
 
 ### Forms
 
-#### Animal (An) "animal'
+#### Animal (An) "animal"
 
 Animal concerns animals of all kinds, from the fish of the sea to the birds of the air. Animal spells cannot affect people, and Hermetic theorists still debate the reason for this.
 
@@ -8932,7 +8991,7 @@ Corpus is the Art of human bodies. This Art affects dead bodies and the bodies o
 
 Pronounced 'COR-poos.'
 
-#### Herbam (he) "plant"
+#### Herbam (He) "plant"
 
 This Form concerns plants and trees. This includes plant matter of all types, including that which is no longer alive — like dead wood and linens.
 
@@ -10038,7 +10097,7 @@ Pendule quietly succumbed to death in 854 AD, but not before imparting one last 
 
 **Script Details:** The Initiate undergoes a ceremony wherein she must go an entire day and night without sleeping, casting a non-Fatiguing Imaginem spell every round to count how many individual moments pass (+3). After this rite she gains three Minor Flaws to represent how her magic becomes more illusionary, and her way of thinking about time becomes more rigid: Harmless Magic (+3), Poor Memory (faces) (+3), and a Social Handicap (+3). Because of this ordeal, the Initiate is said to begin to more closely resemble Pendule, and many of his followers adopt wild, multicolored clothing, dye their hair, or radically alter their physical appearance soon after their Initiation.
 
-#### Spell Timing (Minor Illusion Mustery)
+#### Spell Timing (Minor Illusion Mystery)
 
 This Mystery gives a maga access to several new Durations for her spells. Only those who have Initiated this Mystery may cast or invent spells and effects that use them.
 
@@ -10498,7 +10557,7 @@ An item that has been prepared for enchantment is useless for any magical purpos
 
 The effects instilled in enchanted items are designed like spells, but they are not spells. In particular, a magus may instill an effect in a device even if he does not know a spell with the same effect. Designing an effect takes no time above and beyond the time spent to instill the effect in the item.
 
-#### Designing the Offect
+#### Designing the Effect
 
 First, choose an effect to be invested in your device and determine its level. An effect is like a spell, and must be fully defined, as a spell is. You may base the effect on a spell from the Spells chapter, or may invent your own effect. If inventing a new effect, you must design the effect carefully, as if inventing a new spell. The level of the effect is the equivalent of its spell level. You should confirm your effect level with the troupe. Note the starting level of the effect, for future reference. This is the effect level, and is used when assessing the effects produced by the enchanted device — for example, whether they cause Warping, or whether a maga succeeds in dispelling one. Choices made in the rest of this process may change this level, determining the modified effect level. This is used when dealing with the enchanted device itself, for example when investing the effects in the laboratory, or trying to disenchant a device.
 
@@ -11095,7 +11154,7 @@ When investigating an enchanted item by experimenting on it, you take risks not 
 
 | ROLL | RESULT                    |
 | ---- | ------------------------- |
-| 1    | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect.
+| 1    | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect. |
 | 2-3  | The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends. |
 | 4-5  | The spell has a minor side effect. For example, a spell that controls an animal causes grass to grow under its feet. |
 | 6    | The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable. |
@@ -11176,7 +11235,7 @@ If you do achieve a Discovery during your experimentation then the original rese
 
 Each spell or magical enchantment can only lead to one discovery. You may repeatedly invent the same spell or enchantment experiment until a discovery is rolled, even if the experiment was a success. Thus, you may accumulate many usable versions of the same spell in process of your research. However, once a specific experiment yields a Discovery, you may no longer explore that spell or magical enchantment for further discoveries.
 
-#### Stabilizing The Unknown
+#### Stabilizing the Unknown
 
 After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll you must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
 
@@ -11843,7 +11902,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Abyss:** The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). –2 Safety; +2 Pe.
 
-**Haunted:** The lab is home to a haunting spirit, who occasionally disturbs the current owner. + 1 Warping. -1 Aesthetics: +2 Me.
+**Haunted:** The lab is home to a haunting spirit, who occasionally disturbs the current owner. +1 Warping, -1 Aesthetics; +2 Me.
 
 **Impregnable:** The lab is completely inaccessible, except through reasonably powerful magic. For example, it is blocked off by a stone wall and requires a Muto Terram spell to access. While the owner is much less likely to be disturbed, fewer people will ever get to see the lab, or they may assume that the owner is rather paranoid. —2 Aesthetics.
 
@@ -12106,7 +12165,7 @@ Rego spells can create wards which protect the target from things of the appropr
 
 Wards with a Circle target are of particular note. They prevent things warded against that are within the circle from leaving, and prevent things warded against that are outside from entering. Warded things cannot act across the circle, no matter which side they are on, nor can they damage the circle, directly or indirectly. It is quite common to create such spells with a duration of Ring, as then the ward can be made to last indefinitely, with care. Such wards target the circle itself, which cannot leave the circle, and thus last as long as the circle does. However, this is not required, and the spell can be created with any Duration.
 
-The spell guidelines for wards against magical things are listed with a base range of Touch, base duration of Ring, and base target of Circle, because a ward with these parameters wards against creatures with a Might equal to or less than or equal to its level. The parameters of the spell can be changed in the normal way, so that a ward which only protected the magus (Range Personal, Target Individual) for a duration of Moon would have the same final level.
+The spell guidelines for wards against magical things are listed with a base range of Touch, base duration of Ring, and base target of Circle, because a ward with these parameters wards against creatures with a Might equal to or less than its level. The parameters of the spell can be changed in the normal way, so that a ward which only protected the magus (Range Personal, Target Individual) for a duration of Moon would have the same final level.
 
 Like any Hermetic spell, wards must Penetrate Magic Resistance to have their effect. A spell like Circular Ward Against Demons is much harder to cast at high levels, since the spell level must equal or exceed any affected demon's Might Score, and the Penetration Total must exceed it. For this reason, magi rarely learn or cast versions of these spells more powerful than about Level 30, instead favoring Rego spells of lower levels that hinder the target's movements more directly. Since in most cases Hermetic wards do not actually target the creatures affected by them, most magi cannot boost their Penetration Total with an Arcane Connection to a supernatural being, unless that being is inside the circle when the ward is cast.
 
@@ -12572,7 +12631,7 @@ Turns any animal into a toad. A newly created toad will hold a certain terror fo
 
 ##### Steed of Vengeance
 R: Touch, D: Sun, T: Ind.<br>
-Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eves a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.<br>
+Turns a horse into a ferocious magical mount. Its coat becomes a deep black and its eyes a fiery red, its teeth transform into fangs, its hooves become razor-sharp, and it occasionally breathes steam from its mouth — the horse seems a creature from Hell itself. All its Attack rolls get a +5 bonus. The horse tolerates a magus rider. When the spell wears off, the horse must make a Stamina stress roll against an Ease Factor of 9 or die from shock.<br>
 (Base 15, +1 Touch, +2 Sun, +1 size)
 
 ### Perdo Animal Guidelines
@@ -12617,7 +12676,7 @@ After you point at the beast and cast this spell, it begins lashing wildly about
 
 #### LEVEL 20
 
-##### Blunt the Viper's Fangs 
+##### Blunt the Viper's Fangs
 R: Voice, D: Momentary, T: Individual<br>
 Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp weapons may be affected: this spell does not affect a weapon such as a horse's hoof or a giant snake's coils. The blunted weapon has its total damage (including Attack Advantage) reduced to half (round up). The beast may recover from the effect as if it were a Light Wound. The spell may affect animals of size up to +4.<br>
 (Base 5, +2 Voice, +1 size)
@@ -12626,7 +12685,7 @@ Blunt the claws, teeth, talons, or other natural weapons of a beast. Only sharp 
 
 ##### The Falcon's Hood
 R: Touch, D: Mom, T: Ind<br>
-Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting. When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eves.<br>
+Destroys an animal's vision. The blindness heals as if it is a Medium Wound. The title refers to the hood used to cover a falcon's eyes when it is not hunting. When cast by Asaron of Flambeau, this spell causes the animals it targets to bear a faint silhouette of a flame in their eyes.<br>
 (Base 20, +1 Touch)
 
 ##### Cripple the Howling Wolf
@@ -12778,7 +12837,7 @@ A 3-foot-diameter jet of water sprays from your outstretched arms towards your t
 
 #### LEVEL 40
 
-#### Deluge of Rushing and Dashing
+##### Deluge of Rushing and Dashing
 R: Voice, D: Conc, T: Ind<br>
 Causes a stream to flood, starting at the stream's nearest point to you and continuing downstream. The results of this spell are generally quite impressive. As the stream overflows its original bed, it becomes a raging torrent, sucking in everything near it. Damage from the spell can last for many years. As long as you concentrate, the stream remains at flood levels. Anyone caught near the stream when it floods is struck by the rush of water (+10 damage), caught up in the flood, and dragged along. Every round, a victim makes a Strength + Swim stress roll against an Ease Factor of 9. Success means the character escapes the flood. Otherwise, the character loses one Fatigue level and takes +5 damage. Any who fall unconscious drown. This roll is repeated until the character either escapes the flood or dies.<br>
 (Base 10, +2 Voice, +1 Concentration, +3 size, so that the whole stream floods)
@@ -12880,7 +12939,7 @@ Turns water into air as it enters your lungs, allowing you to breathe water as y
 
 #### LEVEL 45
 
-#### Vile Water of Sterility
+##### Vile Water of Sterility
 R: Touch, D: Year, T: Group, Ritual<br>
 Ruins a body of water up to the size of a small lake, making it unfit for natural habitation and consumption. The water becomes dark and murky, and noxious fumes emanate from it. Vegetation on the banks either dies or becomes corrupt. Nearby trees become gnarled and blackened, and land animals flee the area.<br>
 (Base 4 (a very unnatural liquid), +1 Touch, +4 Year, +2 Group, +2 size)
@@ -12904,7 +12963,7 @@ Perdo Aquam botches might destroy all water in the caster, as Curse of the Deser
 
 #### LEVEL 5
 
-##### Comfort Of The Drenched Traveler
+##### Comfort of the Drenched Traveler
 R: Touch, D: Mom, T: Ind<br>
 Dries a person and his or her clothes.<br>
 (Base 4, +1 Touch)
@@ -12923,7 +12982,7 @@ R: Touch, D: Mom, T: Ind<br>
 Dries a single spring, so that it never flows again. This spell targets the spring, not the water in it at a particular time, so the spring does not start to flow again later.<br>
 (Base 20, +1 Touch)
 
-#### Curse of the Desert
+##### Curse of the Desert
 R: Voice, D: Mom, T: Part<br>
 Removes virtually all the fluid from the target's body, doing +15 damage, which armor does not protect against. The target must drink within a few minutes of being struck with this spell, or it dies. Casting requisites are Animal for beasts, and Corpus for humans.<br>
 (Base 10, +2 Voice, +1 Part)
@@ -13310,7 +13369,7 @@ Controlling an amount of air with great strength or great precision raises the m
 
 #### GENERAL
 
-##### Ward against Faeries of the Air 
+##### Ward against Faeries of the Air
 R: Touch, D: Ring, T: Circle<br>
 As Ward Against Faeries of the Water (ReAq Gen), but for faeries of the air. The faerie cannot directly or indirectly break the magic circle, nor can they use ranged attacks or magic to affect those within it. From some angles at night, the ring may be seen as a violethued dome.<br>
 (Base effect)
@@ -13686,7 +13745,7 @@ R: Voice, D: Mom, T: Ind<br>
 Turns a dead body or mindless undead body to dust in two rounds. The spell doesn't affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.<br>
 (Base 5, +2 Voice)
 
-#### The Wound That Weeps
+##### The Wound That Weeps
 R: Voice, D: Mom, T: Ind<br>
 When casting this spell, you point at the victim and a large wound opens on his or her body. The wound is not a deep one, but it bleeds profusely. This is only a Light Wound, but it looks bad.<br>
 (Base 5, +2 Voice)
@@ -13722,7 +13781,7 @@ R: Voice, D: Mom, T: Ind<br>
 Blinds a target, leaving the eyes milky with cataracts. This heals as a Heavy Wound.<br>
 (Base 20, +2 Voice)
 
-#### Twist of the Tongue
+##### Twist of the Tongue
 R: Voice, D: Mom, T: Part<br>
 Twists the target's tongue into a spiral, completely destroying the ability to speak. A grave offense to a magus. The damage heals as a Medium Wound.<br>
 (Base 15, +2 Voice, +1 Part)
@@ -13768,7 +13827,7 @@ Rego Corpus can be used to perform surgery. Detailed rules for surgery can be fo
 | 30 | • Transport the target instantly up to seven leagues |
 | 35 | • Transport the target instantly to a place you have an Arcane Connection to |
 
-### Rego Corpus Svells
+### Rego Corpus Spells
 
 #### LEVEL 5
 
@@ -13972,7 +14031,7 @@ R: Touch, D: Conc, T: Ind<br>
 You can speak with a plant for one conversation. The level of conversation depends on the type of plants; longer-lived and more noble plants have more to say. A single question and response takes ten to thirty minutes, with slower-growing plants speaking more slowly. Typically, plants can talk about the soil and about other plants around them, but have limited awareness of more momentary events, such as the passing of animals or people, unless that passing has a direct bearing on the plant (for example, a person cut its trunk). News can spread quickly through a forest when it has to, called from tree to tree on the wind. Bystanders cannot understand your conversation.<br>
 (Base 15, +1 Touch, +1 Conc)
 
-## Muto Herbam Guidelines
+### Muto Herbam Guidelines
 
 These guidelines assume that when you change a plant, it's still a plant in some way. Changing a plant into something else usually involves a spell one level of magnitude higher than the guideline most appropriate to the action. To change plants into treated or finished material (for example, wooden furniture, a vegetarian meal, linen or cotton cloth) add one magnitude to the level necessary to change plants into natural, unworked plants.
 
@@ -14232,7 +14291,7 @@ R: Voice, D: Mom, T: Ind<br>
 Heats a piece of metal so that it is too hot to touch. Something the size of a breastplate or helmet does +5 damage if in direct contact with the skin for one round. For each additional round, more damage is done, the amount dropping by two points each round (+3 damage on round two, then +1). Smaller objects do less damage. Most metal armor has leather or cloth underneath that gives the victim a +3 Soak bonus against the heat.<br>
 (Base 4, +2 Voice)
 
-#### Lamp without Flame
+##### Lamp without Flame
 R: Touch, D: Conc, T: Ind<br>
 This spell creates a steady light as bright as daylight on a cloudy day. The light has no apparent source, but illuminates an area about ten paces across, centered on a point indicated by the caster. This point may be a mobile item.<br>
 (Base 4, +1 Touch, +1 Conc)
@@ -14244,7 +14303,7 @@ R: Touch, D: Diameter, T: Ind<br>
 Forms a fire along the length of a metal blade. This flame doubles the weapon damage score for the blade (or adds +5, whichever is greater), and can start fires as well. If the spell is cast repeatedly on the same blade, the blade gets hot enough to melt after half an hour, which ends the spell. Letting the blade cool for half an hour between castings avoids this.<br>
 (Base 5, +1 Touch, +1 Diameter)
 
-#### Flash of the Scarlet Flames
+##### Flash of the Scarlet Flames
 R: Voice, D: Mom, T: Ind<br>
 A brilliant red flash explodes in the air where you designate. If you target a person's face the target needs a Stamina stress roll against an Ease Factor of 9 to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll against an Ease Factor of 9 each minute to recover. The flash is equivalent to looking straight at the sun. In Rose of Jerbiton's version of this spell, there is a faint odor of roses in the area where the flash explodes.<br>
 (Base 5, +2 Voice)
@@ -14305,7 +14364,7 @@ Lets you see what the ashes you touch originally were, and how and when the obje
 
 #### LEVEL 15
 
-##### Shadows of the Fires past
+##### Shadows of the Fires Past
 R: Per, D: Mom, T: Vision<br>
 Allows you to see where fires have been in the past lunar month. A light red flickering haze appears where the fire was, and you gain an intuitive sense of when the fire was there. This spell does not look into the past, but detects the traces of fire.<br>
 (Base 3, +4 Vision)
@@ -14521,7 +14580,7 @@ It is more difficult to mimic a specific object or person using an Imaginem spel
 
 A base Individual for Imaginem is the equivalent of an adult human being, whether a visual image of about that size, an auditory illusion making that much noise, or whatever.
 
-## Creo Imaginem Guidelines
+### Creo Imaginem Guidelines
 
 These spells create and restore images. It is important to note that Creo Imaginem spells only create the images of things, not the things themselves. An image of a bucket will not hold water poured into it, nor will the image of a horse be able to carry a rider. This is often the first (and most important) clue that the image is just an illusion. On the other hand, the illusion of a wall may feel solid, but will present no resistance if someone pushes a hand through it.
 
@@ -14555,7 +14614,7 @@ R: Voice, D: Diam, T: Ind<br>
 Creates an image of any animal or beast up to the size of a pony (Size +1). Under your direct mental command, it moves about (within range) and makes appropriate noises. You need to be able to concentrate, and be within range, whenever you wish to direct the illusion to move in some manner. If you move out of range or stop concentrating, the illusion just freezes in place. The image does smell like an animal, but it has absolutely no effect on the sense of touch. Of course, a magus may not use this spell to create the image of an animal he or she does not know exists.<br>
 (Base 3, +2 Voice, +1 Diam, +2 move under your command)
 
-#### Phantasmal Fire
+##### Phantasmal Fire
 R: Voice, D: Sun, T: Ind<br>
 Req: Ignem<br>
 Makes an image of a fire (up to the size of a large campfire) that dances, illuminates, crackles, and (apparently) warms. It does not spread, burn, or protect against cold. Makes a great joke at gatherings of House Flambeau, although creating a real fire is even more popular.<br>
@@ -14612,14 +14671,14 @@ You can tell whether an image has been created or altered through a spell, seein
 
 #### LEVEL 5
 
-#### Prying Eyes
+##### Prying Eyes
 R: Touch, D: Conc, T: Room<br>
 You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.<br>
 (Base 1, +1 Touch, +1 Conc, +2 Room)
 
 #### LEVEL 15
 
-#### Discern Own Illusions
+##### Discern Own Illusions
 R: Per, D: Sun, T: Vision<br>
 This spell makes your own illusions appear largely transparent to you, but still discernible.<br>
 (Base 1, +2 Sun, +4 Vision)
@@ -14638,7 +14697,7 @@ R: Per, D: Sun, T: Vision<br>
 You see distant things clearly. No matter how far away something is, you can make out details as if it were only a foot or so from you. Things do not all appear to be a foot away; you can simply make out details as well as if they were. You can still judge distance accurately; in fact, more accurately than normal, to within an inch or so at a distance of several miles, since you can see as clearly as if you were judging distance a foot away.<br>
 (Base 3, +2 Sun, +4 Vision)
 
-#### Summoning the Distant Image
+##### Summoning the Distant Image
 R: Arc, D: Conc, T: Room<br>
 You can see and hear what is happening in a distant place if you have some sort of Arcane Connection to either the location or a person there.<br>
 (Base 2, +4 Arc, +1 Conc, +2 Room)
@@ -14798,7 +14857,7 @@ R: Voice, D: Sun, T: Ind<br>
 Makes any person or object appear to be a pace away from its actual position. The image cannot be placed in a solid object. As soon as the original or image moves, the spell ends.<br>
 (Base 2, +2 Voice, +2 Sun)
 
-#### Wizard's Sidestep
+##### Wizard's Sidestep
 R: Per, D: Sun, T: Ind<br>
 Your image appears up to 1 pace from where you actually are, so attacks aimed there are likely to miss you. Whenever the image is successfully struck, it disappears and reappears in another spot. In combat, early attacks are aimed at the image, and so automatically miss you. Once the image has been hit once, you have a +9 bonus to Defense, as attackers must try to find you in a fairly large area.<br>
 (Base 2, +2 Sun, +1 changing image, +1 moved image matches changes)
@@ -14861,7 +14920,7 @@ Creo Mentem botches might create inappropriate emotions in the caster's mind.
 | 50 | • Increase one of a person's mental Characteristics by one point, to no more than +4 |
 | 55 | • Increase one of a person's mental Characteristics by one point, to no more than +5 |
 
-## Creo Mentem Spells
+### Creo Mentem Spells
 
 #### LEVEL 10
 
@@ -15198,7 +15257,7 @@ R: Eye, D: Sun, T: Ind<br>
 Enables you to completely control the loyalty, emotions, desires, interests, and activities of any person. People revert to normal when the spell ends, and may be extremely angry with the magus.<br>
 (Base 25, +1 Eye, +2 Sun)
 
-#### Incantation of Summoning the Dead
+##### Incantation of Summoning the Dead
 R: Arc, D: Conc, T: Ind, Ritual<br>
 Calls up a person's ghost. You must be on the spot where the person died, or must have the corpse (either of these constitutes an Arcane Connection). Alternatively, you can summon any ghost that haunts the area you are in, if you know the ghost's full name, according to the Law of Names. Those buried by Church ceremony and those have who gone straight to heaven (that is, saints and crusaders, as opposed to the normal folk who must wait for a time before going on) are not available for summoning. This spell is a ritual because it can summon those who are beyond the mortal world, as long as they are not in heaven. If the ghost has Magic Resistance, you must penetrate that resistance in order to summon it.<br>
 (Base 15, +4 Arc, +1 Conc)
@@ -15210,7 +15269,7 @@ Enchants the Boundary in which the ritual is cast so that anyone moving through 
 
 #### LEVEL 55
 
-#### Exchange of the Two Minds
+##### Exchange of the Two Minds
 R: Touch, D: Year, T: Group, Ritual<br>
 This spell switches the minds (but not the souls) of two creatures. A new body greatly confuses those who are unprepared for the shock, and even those who are ready take a day to adjust completely. Magi who transport their own minds into younger, healthier bodies usually find that having a strong body entails having powerful passions that interfere with the clear thinking needed to pursue the magical Arts. Both people involved must make a Stamina stress roll against an Ease Factor of 3, rolled before the switch is made, to survive the transfer. If only one person fails the roll, that person dies and the spell fails. The other target is unaffected.<br>
 (Base 20, +1 Touch, +4 Year, +2 Group)
@@ -16370,7 +16429,7 @@ A character may lead tamed animals in combat, as a trained group. The character 
 
 In general, when the character commands a tamed creature make a Presence + Animal Handling roll against an Ease Factor set from the following table. The Ride Ability may be substituted for Animal Handling when the character is using the animal as a mount, and for exotic creatures another Ability might be more appropriate; the Magic Lore Ability might be used for commanding tamed elementals, for example. A botch may cause the animal to flee, mistakenly perform some other command, or attack its master — depending on the nature of both the command and the beast.
 
-If several characters issue an animal with contradictory commands, it will preferentially obey commands issued by a character it is loyal to. Otherwise, it will obey the command of the character with the highest Presence + Animal Handling Total. *For example, a magus tames a magical wolf (the wolf is now loyal to the magus) and be then commands the wolf to guard his sanctum door, the wolf will not normally obey contradictory commands to leave his post.*
+If several characters issue an animal with contradictory commands, it will preferentially obey commands issued by a character it is loyal to. Otherwise, it will obey the command of the character with the highest Presence + Animal Handling Total. *For example, a magus tames a magical wolf (the wolf is now loyal to the magus) and he then commands the wolf to guard his sanctum door; the wolf will not normally obey contradictory commands to leave his post.*
 
 **COMMAND BEAST: Presence + Animal Handling (or Ride or Magic Lore) + stress die vs Ease Factor**
 
@@ -17136,7 +17195,7 @@ Each Fatigue level above Winded has a penalty associated with it (except for Unc
 
 Characters are normally Fresh until they perform some strenuous action, such as engaging in combat, casting Spontaneous spells, or sprinting. Brief strenuous actions require a Fatigue roll: roll Stamina — Encumbrance on a stress die against an Ease Factor of 6. Failure means the loss of one Short-Term Fatigue level. A botch costs two. Combat and magic use have different rules for Fatigue loss that replace those given here. See pages 213, 231, and 397.
 
-#### Recovery From Short-Term Fatigue
+#### Recovery from Short-Term Fatigue
 
 A character recovers from Fatigue one level at a time, starting with the most exhausted level. The table below is a guideline to help you determine how long it will take a character to recover. Recovery from Fatigue requires quiet rest, if the character remains active, recovery time is doubled. At the storyguide's option, fatigued characters may make a Stamina roll against an Ease Factor of 9 when they are recovering. Success allows recovery in half the normal time.
 
@@ -17293,7 +17352,7 @@ Characters deprived of food, water, or air suffer quite seriously. Each kind of 
 
 Fatigue levels lost due to food or water deprivation are Long-Term Fatigue levels, and can only be regained once the character has eaten or drunk. Fatigue levels lost due to air deprivation are Short-Term.
 
-#### Deprivation Table 
+#### Deprivation Table
 
 | Type of Deprivation | Time       |
 | ------------------- | ---------- |
@@ -17508,7 +17567,7 @@ Hell is not a remote force in Mythic Europe. Demons ruin crops, cause back pains
 
 More details on the Infernal and all its works can be found in *Realms of Power: The Infernal*.
 
-### Infernal Oreatures
+### Infernal Creatures
 
 The natural forms of infernal creatures are almost always twisted, vile, and terrifying, the better to inspire fear and loathing in human beings. However, many demons can also take on attractive forms. Different sorts of attraction are better for different temptations, a beautiful young woman is good for luring a man into lust, but an apparently wise old man might be better to lure someone into heresy.
 
@@ -17626,7 +17685,7 @@ Relics are physical objects that, in some way, house part of the power of the Di
 
 1. FAITH: All relics contain a True Faith score, giving it Faith Points that may be used by its bearer as Confidence. A relic also grants Magic Resistance equal to ten times its True Faith score to its bearer. A person can only benefit from one relic at a time, any attempt to do otherwise is a sin, and means that they lose the benefits of all relics. However, a person can humbly carry other relics, while only relying on one for the benefits. A character who normally relies on a particular relic would need a very good reason to swap it for another one.
 2. DIVINE MIGHT: All relics have a Divine Might score, which limits how often their powers may be used (effectively preventing characters from over-using their powers). The Might score also acts as Magic Resistance for the relic against any spells or supernatural effects that target it directly. A relic's Divine Might is equal to the relic's Faith score (or highest Faith score, if more than one applies) multiplied by 10, and the Might Pool is refreshed with every sunrise.
-3. SCOURCING THE INFERNAL: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
+3. SCOURGING THE INFERNAL: As supremely holy items, relics are anathema to demons and their followers. Relics radiate an aura of hostility to such creatures that extends a number of feet equal to the Might score of the relic. Any creatures belonging to the Infernal realm that seek to enter this aura will be unable to do so if their Infernal Might does not exceed the Divine Might of the relic. Should they succeed in entering the aura, every round that they remain within it they will be assailed by divine energies causing an amount of damage equal to the Might of the relic, although their Soak still protects them as normal. The assault is accompanied by suitably dramatic visual effects, such as holy fire, lightning, or whatever the storyguide feels is appropriate. It ends as soon as they leave the aura. This power does not affect characters or creatures merely affiliated with the Infernal realm, though they will feel discomfort if they handle the relics for extended periods of time.
 
 In addition, some relics have powers specific to them. In the case of relics of saints, these powers usually match those of the saint to whom they once belonged. In the case of other relics, the powers are conferred directly by Divine Will. Two sample powers are given here, more can be found on pages 88 and 89 of *Realms of Power: The Divine Revised Edition*.
 
@@ -17669,7 +17728,7 @@ Occasionally, within very special supernatural areas, special types of auras ari
 
 They are called regiones (singular regio, "realm", pronounced 'REH-ghee-oh' and 'rehghee-OH-nays', with a hard 'g' in both cases).
 
-Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon,imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
+Regiones consist of several levels of aura, layered one on top of another in order of increasing power, the lowest level is connected to the mundane world. To picture this phenomenon, imagine a building with multiple floors. The ground floor is the level of the regio connected to the mundane world, while the higher floors are the higher levels of the regio. To climb, you must use the stairs, and to do that you must know where they are, or wander around until you bump into them. The higher floors have higher auras, and so have more characteristics of their realm.
 
 Just as the various floors of a building occupy the same spot of ground, so do the various levels of a regio occupy the same bit of space. It is entirely possible to pass through the bottom level of a regio without realizing that there are more levels than meet the eye.
 
@@ -17699,7 +17758,7 @@ Finally, if a character gets lost near a regio boundary, he may accidentally ent
 
 At least one of these methods of entry must apply to any regio, at least if it is to have any impact on the game. There are some regiones into which you must be led by a native, and others into which you cannot be led, or enter voluntarily, but rather must get lost. Natives of a regio can almost always enter and leave freely, but even then there are exceptions. The most secure location possible for a covenant is a regio which people can only enter by being led, but getting into such a regio in the first place is very difficult.
 
-#### Magic In Regiones
+#### Magic in Regiones
 
 Supernatural powers or spells used in a regio level are affected just as in any other aura, determined by the Realm Interaction Table. Use the aura rating of the level occupied to modify spell and other supernatural rolls. However, any power used within a regio of a realm different from that of the power attracts twice the normal number of botch dice.
 
@@ -17742,7 +17801,7 @@ Infernal vis is avoided by all sensible magi. It tends to twist any project to e
 
 ---
 
-> Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic  lingering long across the ages.
+> Within hallowed halls at the heart of the Order, scholars pore over ancient tomes, our quills scratching across parchment as we unravel the threads that bind magic to the mortal world. An honored lecturer stands before our rapt audience. With a flourish he casts an intricate illusion, magic shimmering like heat haze, as the terrifying form of an infernal creature hangs suspended in the air before us all. He orates at length, gesturing to its vicious claws and burning eyes, dissecting its nature and weaknesses to our approving nods and voluminous notes. In such works we carefully chronicle the depth and breadth of all scholarship, even knowing that after our Final Twilight only legends will endure, the echoes of myth and magic lingering long across the ages.
 
 # Chapter 13: Bestiary
 
@@ -18955,7 +19014,7 @@ Vis: Leaves 6 pawns of Corpus in his armor when banished.
 
 Honos is a Roman Daimon of morality and military honor, with several temples built in his name. Honos appears as a young warrior in ancient armor, carrying a lance and a cornucopia ("horn of plenty"). Honos' temples in Rome have been destroyed or blanketed by the Dominion, although the Legion of Mithras are rumored to know the location of one surviving shrine where he can be invoked.
 
-#### Portunes, Spirit of Safe Narbor
+#### Portunes, Spirit of Safe Harbor
 
 Magic Might: 25 (Auram)
 
@@ -19868,7 +19927,7 @@ Abilities: [Area] Lore 5 (history), Awareness 8 (human beings), Brawl 7 (claws),
 Powers:
 
 *Human Form*: 1 point, Init 0, Corpus:<br>
-The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eves, in the prime of life. The transformation lasts until he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
+The dragon can assume the form of a human being. This is always the same form, a man with dark hair and eyes, in the prime of life. The transformation lasts until he eats or drinks, or until Stellatus uses the same power again to change back. The dragon has all his powers in human form, and the same Characteristics, but he is much weaker in combat and thus changes back if he needs to fight.
 
 *Instill Loyalty*, 5 points, Init 0, Mentem:<br>
 Stellatus can make any individual whom he can see totally loyal. This does not remove free will, but the victim is completely loyal to the dragon, and this loyalty lasts as long as Stellatus is alive.
@@ -21290,7 +21349,7 @@ Appearance: A silver-gray wolf, with a noble bearing. No matter what terrain he 
 
 Lupersus has been sent by God to guard a holy hermit, provide him with food, and, occasionally, lead those in need of advice to the hermit who can provide it. He cannot speak, and has no wish to do so. While his main focus is on the hermit, Lupersus is generally compassionate, and helps those in trouble whom he finds within his range. Sometimes he leads them to safety, but most people do not trust a wolf. In those cases, he chases them to safety. Lupersus is not an angel, but rather a divine creature, and does not have the powers shared by all angels.
 
-### Nasir, the Delper
+### Nasir, the Helper
 
 Divine Might: 25 (Corpus)
 
@@ -21784,7 +21843,7 @@ Fairs are, essentially, temporary towns. They normally happen once per year, and
 
 By the early thirteenth century the greatest days of the fairs are over, as towns begin to take over their role, but they still have a great deal of life left in them.
 
-#### Game Use: Markets and Pairs
+#### Game Use: Markets and Fairs
 
 Sending the grogs to market makes an excellent story that need not involve any magi.
 
@@ -22218,7 +22277,7 @@ A third option is to have magic on the rise, again either in opposition to the o
 >
 > **High vis:** Around 20 pawns/magus/year. Magi can do pretty much anything they want involving vis. This is probably too much vis for most sagas.
 >
->Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus noone has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
+> Books also come in two sorts, summae and tractatus, and the analogy goes further than that. Because a tractatus can only be studied once by a given character, you can be fairly sure of the effect that it will have. If you want to keep the rate of power advancement down, restrict the number of summae the covenant has, and don't let the covenant build up a large reserve of tractatus no-one has studied yet. In addition, when a magus's Arts reach the point of being as high as you are comfortable with, cut off the supply of books. The magus can still invent spells or learn other Arts, and that buys you time to become accustomed to the new level of power.
 >
 > Don't forget that magi in a covenant can write books for each other. You shouldn't interfere with such activities, but should take them into account.
 
@@ -22444,19 +22503,19 @@ I plan to be part of that future, as one creator among many.
 
 ## The Ars Magica Open License
 
-### That Is the Open License?
+### What is the Open License?
 
 The text of **Ars Magica** Fifth Edition and its sourcebooks has been released under an open license: the Creative Commons Attribution-ShareAlike 4.0 International license (also known as CC BY-SA 4.0).
 
 The new Ars Magica Open License logo also lets third party creators identify their work. You can find fan releases of their Ars Magica material available in places like DriveThruRPG.com, Itch.io, and Patreon.com, marked with that logo.
 
-### Why Release the Same as Open License?
+### Why Release the Game as Open License?
 
 Atlas Games has had the amazing opportunity to publish Ars Magica for over three decades, supported by our devoted fan community. Fifth Edition is a weighty line of over FORTY supplements, fleshing out every facet of Mythic Europe. As the stewards of this incredible piece of roleplaying history, we feel it's time to give back to our fans, and let them take the game in new directions we haven't had the resources to explore.
 
 This open license release of Ars Magica was just part of our crowdfunding campaign for Ars Magica Definitive Edition. Thank you to all our backers who made it possible!
 
-### That Does This Mean for Ars Magica?
+### What Does This Mean for Ars Magica?
 
 You're free to copy and redistribute open license material, even commercially. And you may remix, transform, and build upon that material, even commercially. You must follow the terms of the license, though, which requires attribution and that you "share alike" by distributing your contributions under the same license as the original, without placing new restrictions on it. There are also a few trademark limitations. Atlas Games cannot revoke these freedoms as long as you follow the license terms.
 
@@ -22787,7 +22846,9 @@ Award one point at the end of a session for each of the following that a charact
 | Mature tree felled onto character | +18                                                          |
 | Inside collapsing stone building  | +21                                                          |
 
-### Deprivation Page
+### Deprivation
+
+*p180, [p407](#deprivation)*
 
 1. Stamina check every interval.
 2. Ease Factor starts at 3, and increases by 1 for each further interval.
@@ -23181,7 +23242,9 @@ BASE BOUNDARY: An area 100 paces in diameter
 
 INCREASING SIZE: Multiply size by ten for each magnitude added to the spell.
 
-#### Volumes and Targets Parts
+#### Volumes and Targets
+
+*p117-162, [p314-372](#volumes-and-targets)*
 
 Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.
 
@@ -23227,7 +23290,7 @@ Dangerous liquids: a puddle half a pace across, a fifth of a pace deep.
 
 Poisons: a single dose.
 
-Auram: a weather phenomenon the 
+Auram: a weather phenomenon the area inside a standard Boundary.
 
 Corpus: an adult human being, up to Size +1.
 
@@ -23245,13 +23308,13 @@ Sand, dirt, mud, clay: ten cubic paces.
 
 Stone: one cubic pace.
 
-Base metals: one cubic foot area inside a standard Boundary.
+Base metals: one cubic foot.
 
 Precious metals: one tenth of a cubic foot.
 
 Gemstones: one cubic inch. 
 
-Vim: Size modifiers don't apply direction to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
+Vim: Size modifiers don't apply to Vim effects with Individual targets. Group size is determined by the number of effects. Container sizes are determined as normal.
 
 #### Ranges, Durations, and Targets
 
@@ -23390,7 +23453,9 @@ FAMILIAR BONDING COST: 1 pawn vis per five levels or fraction of the binding Lab
 - Opening the Arts takes 1 season, must have a score of 5 or higher in every Art or the apprentice gains a Deficiency in the Art.
 - If the apprentice has a Supernatural Ability, must have Intellego Vim Lab Total at least 5 × score in the Ability, minimum 10 for a Minor Virtue, 30 for Major (10 for a Minor Virtue with no Ability, 10 for a Major). For multiple abilities, add all the scores together. If Lab Total is at least double this level, the ability may be retained or converted into a Hermetic Virtue, otherwise, it is lost.
 
-#### Teaching Hermetic Virtues Property
+#### Teaching Hermetic Virtues
+
+*p106, [p271](#teaching-hermetic-virtues)*
 
 TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus
 
@@ -23662,7 +23727,7 @@ p168-170 p391
 
 **COPYING QUICKLY:** Three times as fast as careful copying, copy Source Quality is 1 lower than copied book.
 
-### Advancement Source Qualities Dvancement
+### Advancement Source Qualities
 
 **Exposure Source Quality:** 2
 
@@ -23760,7 +23825,7 @@ p168-170 p391
 | Coat Of Flame | CrIg | 25 | [344](#coat-of-flame) |
 | Coerce The Spirits Of The Night | ReMe | 20 | [357](#coerce-the-spirits-of-the-night) |
 | Coils Of The Entangling Plants | ReHe | 20 | [342](#coils-of-the-entangling-plants) |
-| Comfort Of The Drenched Traveler | PeAq | 5 | [323](#comfort-of-the-drenched-traveler) |
+| Comfort of the Drenched Traveler | PeAq | 5 | [323](#comfort-of-the-drenched-traveler) |
 | Commanding The Harnessed Beast | ReAn | 30 | [320](#commanding-the-harnessed-beast) |
 | Confusion Of The Insane Vibrations | ReIm | 30 | [352](#confusion-of-the-insane-vibrations) |
 | Confusion Of The Numbed Will | ReMe | 15 | [357](#confusion-of-the-numbed-will) |
