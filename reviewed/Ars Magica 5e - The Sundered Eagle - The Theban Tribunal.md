@@ -1,3 +1,22 @@
+# The Sundered Eagle: The Theban Tribunal
+A sourcebook to The lands of Ancient Greece and Asia Minor for Ars Magica 5th Edition.
+
+> *Open License Markdown version by pkahle & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
+>
+> *[Completion state: Whole book manually fixed and reviewed.]*
+>
+> *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
+> 
+> ## Markdown Conversion Notes
+>
+> - Page 27: corrected an extraction artifact where the source line break in "bad-mannered" had been collapsed to "badmannered."
+> - Page 93: noted but did not correct the printed text "The Walls of Theodosius runs behind a defensive ditch."
+> - Page 114: noted but did not correct the printed text "they he retains the item."
+> - Page 114: corrected an extraction artifact where "chariot-shaped" had been collapsed to "chariotshaped."
+
+Once-proud Constantinople has been ravaged by bloodthirsty Crusaders, and has sunken into depravity and ruin. With the fall of the blessed city, ancient magical bindings maintained by Roman relics of the defeated Empire are now shattered and broken, releasing beasts and demons to roam the land. Tales of unseasonal happenings draw eager hunters and curious Seekers alike. Meanwhile, the magi of the Theban Tribunal and their supernatural patrons devote their efforts to maintaining the peace. They struggle against divisions that mirror the age-old battles of the Titans and Olympian gods, who even now stir among their ancient temples and sanctuaries.
+
+The Sundered Eagle contains full details of the Tribunal of Thebes. The lands of ancient Greece and Asia Minor are the home of epic legends and mighty gods of both Faerie and Magic, while the Byzantine Empire has its own myths. The Theban Tribunal's magi and covenants, who govern themselves according to the democratic institutions of ancient Athens, live among plentiful sites of power. Both mundane and supernatural struggles for supremacy over these lands challenge characters to negotiate a maze of Byzantine schemes. Each faction will have the chance to restore peace and unity to the eastern Empire, under its own banner!
 
 # Credits
 
@@ -39,14 +58,6 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproductio
 **Ars Magica**, Mythic Europe, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
 
 DIGITAL VERSION 1.0
-
-## Conversion Notes
-
-- Page 27: corrected an extraction artifact where the source line break in "bad-mannered" had been collapsed to "badmannered."
-- Page 93: noted but did not correct the printed text "The Walls of Theodosius runs behind a defensive ditch."
-- Page 114: noted but did not correct the printed text "they he retains the item."
-- Page 114: corrected an extraction artifact where "chariot-shaped" had been collapsed to "chariotshaped."
-
 
 # Contents
 
