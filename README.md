@@ -52,4 +52,7 @@ https://www.atlas-games.com/arsmagica/openars
 
 Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
 
+<br/>
+<br/>
+<br/>
 ![](released-images/arm5sigil.png)
