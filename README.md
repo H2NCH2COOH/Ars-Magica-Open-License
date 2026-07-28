@@ -51,3 +51,5 @@ EDIT: YR7 of that project is now helping with this and the plan is to convert fr
 https://www.atlas-games.com/arsmagica/openars
 
 Of course, the full PDFs or Physical books are much nicer with layout, pictures, maps and so on. I highly recommend you get the ones you want and support our favorite publisher: https://www.atlas-games.com/arsmagica
+
+![](released-images/arm5sigil.png)
