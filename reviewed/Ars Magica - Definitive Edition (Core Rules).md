@@ -14706,7 +14706,7 @@ You can see and hear what is happening in a distant place if you have some sort 
 
 These are useful and powerful illusion spells, altering the visual image, noises, smell, or taste of some object or being. The image remains altered without your concentration and adapts itself appropriately to the medium. The accuracy of duplication depends on your knowledge of the subject. For instance, if you want to make a voice like that of a specific person, you must be familiar with the voice that you want to mimic. Those more familiar with the face, voice, body, or other aspect being mimicked might see through an illusion by mundane means ("Duke Tybol, isn't your scar on your left cheek?").
 
-Muto Imaginem, or indeed other Imaginem magic, cannot overcome the effects of The Cift, although it might offset them a little.
+Muto Imaginem, or indeed other Imaginem magic, cannot overcome the effects of The Gift, although it might offset them a little.
 
 Muto Imaginem botches often change the caster's appearance in dangerous or embarrassing ways.
 
@@ -14969,7 +14969,7 @@ Permanently increases the target's Intelligence by 1 point, to no higher than 0.
 
 ### Intellego Mentem Guidelines
 
-These spells are superb for cutting through the confusion of social interaction and the endless banter of the rabble. The lnAn spells that deal with the mind may also be used for ideas and guidelines for this section.
+These spells are superb for cutting through the confusion of social interaction and the endless banter of the rabble. The InAn spells that deal with the mind may also be used for ideas and guidelines for this section.
 
 Note that writing does not contain any information of itself, and is generally Animal and Herbam or Terram, for the materials, not Mentem. To translate writing, you need someone who can read it, although you could read the translation from their mind.
 
@@ -15299,6 +15299,8 @@ Creo Terram botches can entomb the caster in earth or stone, as well as creating
 | 5 | • Create base metal |
 | 15 | • Create precious metal<br>• Repair a crafted item, returning it to an "as new" state |
 | 25 | • Create gemstone<br>• Create an earth elemental from a base amount of elemental matter (Ritual) |
+
+### Creo Terram Spells
 
 #### LEVEL 15
 
