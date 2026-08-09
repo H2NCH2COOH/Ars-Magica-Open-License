@@ -13280,7 +13280,7 @@ Muto Auram botches could change the caster temporarily into air, or change the a
 
 ##### Rain of Stones
 R: Voice, D: Sun, T: Ind<br>
-Reg: Terram<br>
+Req: Terram<br>
 Turns rain into stones as it falls, causing +0 damage every two rounds (they're small stones), and maybe less if the rain is very light. People under cover are not affected. The stones revert to water when the spell expires. If it stops raining before the spell ends, no more rain is transformed, even if a different rain storm starts.<br>
 (Base 4, +2 Voice, +2 Sun)
 
@@ -14076,7 +14076,8 @@ Turns a piece of rope (made from plant material) into refined, superior bronze, 
 #### LEVEL 20
 
 ##### Thaumaturgical Transformation of Plants to Iron
-R: Touch, D: Sun, T: Ind Reg: Terram<br>
+R: Touch, D: Sun, T: Ind<br>
+Req: Terram<br>
 Makes any plant, dead or alive, as hard as iron. Affects any amount of continuous plant material up to the size of a small tree. Sharp-edged plants can become deadly when they are made this hard.<br>
 (Base 4, +1 Touch, +2 Sun, +1 size, no cost for requisite)
 
@@ -15510,7 +15511,7 @@ The dirt in a circle 6 paces across recedes into the ground, leaving a pit 9 fee
 
 ##### Obliteration of the Metallic Barrier
 R: Touch, D: Mom, T: Ind<br>
-Reg: Rego<br>
+Req: Rego<br>
 Shatters a barrier of metal or stone up to one foot thick. Those within one pace of the barrier, on the opposite side from you, take +10 Damage. Alchemically refined and magical metals may be able to withstand this spell.<br>
 (Base 3, +2 metal, +1 Touch, +1 size, +1 Rego to fling the fragments away)
 
@@ -15607,7 +15608,7 @@ Causes a 1-pace circle of ground to become jagged stone, just under the surface,
 
 ##### Hands of the Grasping Earth
 R: Voice, D: Diam, T: Part<br>
-Reg: Muto<br>
+Req: Muto<br>
 Earthen hands from beneath the target rise out of the ground, and grasp the target's ankles. To break free requires a Strength stress roll of 15+. (One attempt is allowed per round, and each requires a Fatigue roll.) Each hand can be destroyed by beating its +25 Soak roll (hacking weapons do double normal damage) and inflicting a Light Wound.<br>
 (Base 3, +2 Voice, +1 Diam, +1 Part, requisite free)
 
